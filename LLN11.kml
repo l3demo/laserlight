@@ -3,7 +3,3027 @@
    <Document>
       <name>Laser Link Network</name>
       <Folder>
-         <Placemark id="kml_scatter3tp79cf3a4b_2e98_418f_8a2f_83f780accd20_1">
+         <Placemark id="kml_scatter3tpd986acd5_b57f_4f75_8335_f81975381484_1">
+            <name/>
+            <visibility>1</visibility>
+            <description>Ground Station 1
+
+Bandwidth: 1.58 Gbps</description>
+            <Style>
+               <IconStyle>
+                  <color>FFAAAA00</color>
+                  <scale>0.2</scale>
+                  <Icon>
+                     <href>http://maps.google.com/mapfiles/kml/pal2/icon18.png</href>
+                  </Icon>
+               </IconStyle>
+            </Style>
+            <Point id="Point_kml_scatter3tpd986acd5_b57f_4f75_8335_f81975381484">
+               <altitudeMode>relativeToGround</altitudeMode>
+               <coordinates>-118.3,33.75,0 </coordinates>
+            </Point>
+         </Placemark>
+         <name>kml_scatter3</name>
+         <id>kml_scatter3tpd986acd5_b57f_4f75_8335_f81975381484</id>
+      </Folder>
+      <Folder>
+         <Placemark id="kml_scatter3tpec65df15_cf46_4989_a3fe_cf6f40ccdc51_1">
+            <name/>
+            <visibility>1</visibility>
+            <description>Ground Station 2
+
+Bandwidth: 1.56 Gbps</description>
+            <Style>
+               <IconStyle>
+                  <color>FFAAAA00</color>
+                  <scale>0.2</scale>
+                  <Icon>
+                     <href>http://maps.google.com/mapfiles/kml/pal2/icon18.png</href>
+                  </Icon>
+               </IconStyle>
+            </Style>
+            <Point id="Point_kml_scatter3tpec65df15_cf46_4989_a3fe_cf6f40ccdc51">
+               <altitudeMode>relativeToGround</altitudeMode>
+               <coordinates>-111.9,40.75,0 </coordinates>
+            </Point>
+         </Placemark>
+         <name>kml_scatter3</name>
+         <id>kml_scatter3tpec65df15_cf46_4989_a3fe_cf6f40ccdc51</id>
+      </Folder>
+      <Folder>
+         <Placemark id="kml_scatter3tp89072704_785f_4618_bd08_cd1d1be4005d_1">
+            <name/>
+            <visibility>1</visibility>
+            <description>Ground Station 3
+
+Bandwidth: 2.2 Gbps</description>
+            <Style>
+               <IconStyle>
+                  <color>FFAAAA00</color>
+                  <scale>0.2</scale>
+                  <Icon>
+                     <href>http://maps.google.com/mapfiles/kml/pal2/icon18.png</href>
+                  </Icon>
+               </IconStyle>
+            </Style>
+            <Point id="Point_kml_scatter3tp89072704_785f_4618_bd08_cd1d1be4005d">
+               <altitudeMode>relativeToGround</altitudeMode>
+               <coordinates>-73.90000000000001,40.8,0 </coordinates>
+            </Point>
+         </Placemark>
+         <name>kml_scatter3</name>
+         <id>kml_scatter3tp89072704_785f_4618_bd08_cd1d1be4005d</id>
+      </Folder>
+      <Folder>
+         <Placemark id="kml_scatter3tpec6cab2b_d57c_455b_823a_1be0378277f1_1">
+            <name/>
+            <visibility>1</visibility>
+            <description>Ground Station 4
+
+Bandwidth: 1.5 Gbps</description>
+            <Style>
+               <IconStyle>
+                  <color>FFAAAA00</color>
+                  <scale>0.2</scale>
+                  <Icon>
+                     <href>http://maps.google.com/mapfiles/kml/pal2/icon18.png</href>
+                  </Icon>
+               </IconStyle>
+            </Style>
+            <Point id="Point_kml_scatter3tpec6cab2b_d57c_455b_823a_1be0378277f1">
+               <altitudeMode>relativeToGround</altitudeMode>
+               <coordinates>-0.1,51.5,0 </coordinates>
+            </Point>
+         </Placemark>
+         <name>kml_scatter3</name>
+         <id>kml_scatter3tpec6cab2b_d57c_455b_823a_1be0378277f1</id>
+      </Folder>
+      <Folder>
+         <Placemark id="kml_scatter3tpf9b3cd11_ee1b_4cee_8132_51a3d8eb1573_1">
+            <name/>
+            <visibility>1</visibility>
+            <description>Ground Station 5
+
+Bandwidth: 1.65 Gbps</description>
+            <Style>
+               <IconStyle>
+                  <color>FFAAAA00</color>
+                  <scale>0.2</scale>
+                  <Icon>
+                     <href>http://maps.google.com/mapfiles/kml/pal2/icon18.png</href>
+                  </Icon>
+               </IconStyle>
+            </Style>
+            <Point id="Point_kml_scatter3tpf9b3cd11_ee1b_4cee_8132_51a3d8eb1573">
+               <altitudeMode>relativeToGround</altitudeMode>
+               <coordinates>-9.1,38.75,0 </coordinates>
+            </Point>
+         </Placemark>
+         <name>kml_scatter3</name>
+         <id>kml_scatter3tpf9b3cd11_ee1b_4cee_8132_51a3d8eb1573</id>
+      </Folder>
+      <Folder>
+         <Placemark id="kml_scatter3tpb5ad1487_5afc_4799_9da0_00fbbc05bdb2_1">
+            <name/>
+            <visibility>1</visibility>
+            <description>Ground Station 6
+
+Bandwidth: 1.77 Gbps</description>
+            <Style>
+               <IconStyle>
+                  <color>FFAAAA00</color>
+                  <scale>0.2</scale>
+                  <Icon>
+                     <href>http://maps.google.com/mapfiles/kml/pal2/icon18.png</href>
+                  </Icon>
+               </IconStyle>
+            </Style>
+            <Point id="Point_kml_scatter3tpb5ad1487_5afc_4799_9da0_00fbbc05bdb2">
+               <altitudeMode>relativeToGround</altitudeMode>
+               <coordinates>-106.2,23.2,0 </coordinates>
+            </Point>
+         </Placemark>
+         <name>kml_scatter3</name>
+         <id>kml_scatter3tpb5ad1487_5afc_4799_9da0_00fbbc05bdb2</id>
+      </Folder>
+      <Folder>
+         <Placemark id="kml_scatter3tp9e962aba_7355_4a37_a518_d0c4fae8832f_1">
+            <name/>
+            <visibility>1</visibility>
+            <description>Ground Station 7
+
+Bandwidth: 1.81 Gbps</description>
+            <Style>
+               <IconStyle>
+                  <color>FFAAAA00</color>
+                  <scale>0.2</scale>
+                  <Icon>
+                     <href>http://maps.google.com/mapfiles/kml/pal2/icon18.png</href>
+                  </Icon>
+               </IconStyle>
+            </Style>
+            <Point id="Point_kml_scatter3tp9e962aba_7355_4a37_a518_d0c4fae8832f">
+               <altitudeMode>relativeToGround</altitudeMode>
+               <coordinates>-106.1,28.6,0 </coordinates>
+            </Point>
+         </Placemark>
+         <name>kml_scatter3</name>
+         <id>kml_scatter3tp9e962aba_7355_4a37_a518_d0c4fae8832f</id>
+      </Folder>
+      <Folder>
+         <Placemark id="kml_scatter3tp9bf8e48d_00d0_4df5_aa82_ac91cb014c23_1">
+            <name/>
+            <visibility>1</visibility>
+            <description>Ground Station 8
+
+Bandwidth: 2.22 Gbps</description>
+            <Style>
+               <IconStyle>
+                  <color>FFAAAA00</color>
+                  <scale>0.2</scale>
+                  <Icon>
+                     <href>http://maps.google.com/mapfiles/kml/pal2/icon18.png</href>
+                  </Icon>
+               </IconStyle>
+            </Style>
+            <Point id="Point_kml_scatter3tp9bf8e48d_00d0_4df5_aa82_ac91cb014c23">
+               <altitudeMode>relativeToGround</altitudeMode>
+               <coordinates>-157.85,21.283,0 </coordinates>
+            </Point>
+         </Placemark>
+         <name>kml_scatter3</name>
+         <id>kml_scatter3tp9bf8e48d_00d0_4df5_aa82_ac91cb014c23</id>
+      </Folder>
+      <Folder>
+         <Placemark id="kml_scatter3tp21cc6ed5_29cc_4e76_9bf4_73199cb60c43_1">
+            <name/>
+            <visibility>1</visibility>
+            <description>Ground Station 9
+
+Bandwidth: 2.07 Gbps</description>
+            <Style>
+               <IconStyle>
+                  <color>FFAAAA00</color>
+                  <scale>0.2</scale>
+                  <Icon>
+                     <href>http://maps.google.com/mapfiles/kml/pal2/icon18.png</href>
+                  </Icon>
+               </IconStyle>
+            </Style>
+            <Point id="Point_kml_scatter3tp21cc6ed5_29cc_4e76_9bf4_73199cb60c43">
+               <altitudeMode>relativeToGround</altitudeMode>
+               <coordinates>-139.9,-8.9,0 </coordinates>
+            </Point>
+         </Placemark>
+         <name>kml_scatter3</name>
+         <id>kml_scatter3tp21cc6ed5_29cc_4e76_9bf4_73199cb60c43</id>
+      </Folder>
+      <Folder>
+         <Placemark id="kml_scatter3tpf7a580ce_d221_4519_9004_3b2cf7cf5456_1">
+            <name/>
+            <visibility>1</visibility>
+            <description>Ground Station 10
+
+Bandwidth: 2.02 Gbps</description>
+            <Style>
+               <IconStyle>
+                  <color>FFAAAA00</color>
+                  <scale>0.2</scale>
+                  <Icon>
+                     <href>http://maps.google.com/mapfiles/kml/pal2/icon18.png</href>
+                  </Icon>
+               </IconStyle>
+            </Style>
+            <Point id="Point_kml_scatter3tpf7a580ce_d221_4519_9004_3b2cf7cf5456">
+               <altitudeMode>relativeToGround</altitudeMode>
+               <coordinates>-9,57,0 </coordinates>
+            </Point>
+         </Placemark>
+         <name>kml_scatter3</name>
+         <id>kml_scatter3tpf7a580ce_d221_4519_9004_3b2cf7cf5456</id>
+      </Folder>
+      <Folder>
+         <Placemark id="kml_scatter3tp63c5c8be_8962_4f91_835f_eb7120d40a42_1">
+            <name/>
+            <visibility>1</visibility>
+            <description>Ground Station 11
+
+Bandwidth: 2.08 Gbps</description>
+            <Style>
+               <IconStyle>
+                  <color>FFAAAA00</color>
+                  <scale>0.2</scale>
+                  <Icon>
+                     <href>http://maps.google.com/mapfiles/kml/pal2/icon18.png</href>
+                  </Icon>
+               </IconStyle>
+            </Style>
+            <Point id="Point_kml_scatter3tp63c5c8be_8962_4f91_835f_eb7120d40a42">
+               <altitudeMode>relativeToGround</altitudeMode>
+               <coordinates>138.5,34.9,0 </coordinates>
+            </Point>
+         </Placemark>
+         <name>kml_scatter3</name>
+         <id>kml_scatter3tp63c5c8be_8962_4f91_835f_eb7120d40a42</id>
+      </Folder>
+      <Folder>
+         <Placemark id="kml_scatter3tpe77b25a0_c347_4ce4_9466_bf070ef362e8_1">
+            <name/>
+            <visibility>1</visibility>
+            <description>Ground Station 12
+
+Bandwidth: 1.5 Gbps</description>
+            <Style>
+               <IconStyle>
+                  <color>FFAAAA00</color>
+                  <scale>0.2</scale>
+                  <Icon>
+                     <href>http://maps.google.com/mapfiles/kml/pal2/icon18.png</href>
+                  </Icon>
+               </IconStyle>
+            </Style>
+            <Point id="Point_kml_scatter3tpe77b25a0_c347_4ce4_9466_bf070ef362e8">
+               <altitudeMode>relativeToGround</altitudeMode>
+               <coordinates>3,36.8,0 </coordinates>
+            </Point>
+         </Placemark>
+         <name>kml_scatter3</name>
+         <id>kml_scatter3tpe77b25a0_c347_4ce4_9466_bf070ef362e8</id>
+      </Folder>
+      <Folder>
+         <Placemark id="kml_scatter3tpe5128e90_6164_4df2_8d38_c74bac1f4b20_1">
+            <name/>
+            <visibility>1</visibility>
+            <description>Ground Station 13
+
+Bandwidth: 1.85 Gbps</description>
+            <Style>
+               <IconStyle>
+                  <color>FFAAAA00</color>
+                  <scale>0.2</scale>
+                  <Icon>
+                     <href>http://maps.google.com/mapfiles/kml/pal2/icon18.png</href>
+                  </Icon>
+               </IconStyle>
+            </Style>
+            <Point id="Point_kml_scatter3tpe5128e90_6164_4df2_8d38_c74bac1f4b20">
+               <altitudeMode>relativeToGround</altitudeMode>
+               <coordinates>4.8,52.4,0 </coordinates>
+            </Point>
+         </Placemark>
+         <name>kml_scatter3</name>
+         <id>kml_scatter3tpe5128e90_6164_4df2_8d38_c74bac1f4b20</id>
+      </Folder>
+      <Folder>
+         <Placemark id="kml_scatter3tpc79367ce_0aa3_408e_a524_5247bd6139ce_1">
+            <name/>
+            <visibility>1</visibility>
+            <description>Ground Station 14
+
+Bandwidth: 2.05 Gbps</description>
+            <Style>
+               <IconStyle>
+                  <color>FFAAAA00</color>
+                  <scale>0.2</scale>
+                  <Icon>
+                     <href>http://maps.google.com/mapfiles/kml/pal2/icon18.png</href>
+                  </Icon>
+               </IconStyle>
+            </Style>
+            <Point id="Point_kml_scatter3tpc79367ce_0aa3_408e_a524_5247bd6139ce">
+               <altitudeMode>relativeToGround</altitudeMode>
+               <coordinates>32.9,39.9,0 </coordinates>
+            </Point>
+         </Placemark>
+         <name>kml_scatter3</name>
+         <id>kml_scatter3tpc79367ce_0aa3_408e_a524_5247bd6139ce</id>
+      </Folder>
+      <Folder>
+         <Placemark id="kml_scatter3tpbf2cfb50_3e79_4ffc_8f3f_bfe1d8e2d1f7_1">
+            <name/>
+            <visibility>1</visibility>
+            <description>Ground Station 15
+
+Bandwidth: 1.59 Gbps</description>
+            <Style>
+               <IconStyle>
+                  <color>FFAAAA00</color>
+                  <scale>0.2</scale>
+                  <Icon>
+                     <href>http://maps.google.com/mapfiles/kml/pal2/icon18.png</href>
+                  </Icon>
+               </IconStyle>
+            </Style>
+            <Point id="Point_kml_scatter3tpbf2cfb50_3e79_4ffc_8f3f_bfe1d8e2d1f7">
+               <altitudeMode>relativeToGround</altitudeMode>
+               <coordinates>-57.6,-25.2,0 </coordinates>
+            </Point>
+         </Placemark>
+         <name>kml_scatter3</name>
+         <id>kml_scatter3tpbf2cfb50_3e79_4ffc_8f3f_bfe1d8e2d1f7</id>
+      </Folder>
+      <Folder>
+         <Placemark id="kml_scatter3tp87c41b43_0e86_4345_90d3_c8fdf4db1897_1">
+            <name/>
+            <visibility>1</visibility>
+            <description>Ground Station 16
+
+Bandwidth: 1.77 Gbps</description>
+            <Style>
+               <IconStyle>
+                  <color>FFAAAA00</color>
+                  <scale>0.2</scale>
+                  <Icon>
+                     <href>http://maps.google.com/mapfiles/kml/pal2/icon18.png</href>
+                  </Icon>
+               </IconStyle>
+            </Style>
+            <Point id="Point_kml_scatter3tp87c41b43_0e86_4345_90d3_c8fdf4db1897">
+               <altitudeMode>relativeToGround</altitudeMode>
+               <coordinates>23.6,37.9,0 </coordinates>
+            </Point>
+         </Placemark>
+         <name>kml_scatter3</name>
+         <id>kml_scatter3tp87c41b43_0e86_4345_90d3_c8fdf4db1897</id>
+      </Folder>
+      <Folder>
+         <Placemark id="kml_scatter3tp16bc31f5_330e_417a_b5ac_811f28ee3f26_1">
+            <name/>
+            <visibility>1</visibility>
+            <description>Ground Station 17
+
+Bandwidth: 2.09 Gbps</description>
+            <Style>
+               <IconStyle>
+                  <color>FFAAAA00</color>
+                  <scale>0.2</scale>
+                  <Icon>
+                     <href>http://maps.google.com/mapfiles/kml/pal2/icon18.png</href>
+                  </Icon>
+               </IconStyle>
+            </Style>
+            <Point id="Point_kml_scatter3tp16bc31f5_330e_417a_b5ac_811f28ee3f26">
+               <altitudeMode>relativeToGround</altitudeMode>
+               <coordinates>174.7,36.9,0 </coordinates>
+            </Point>
+         </Placemark>
+         <name>kml_scatter3</name>
+         <id>kml_scatter3tp16bc31f5_330e_417a_b5ac_811f28ee3f26</id>
+      </Folder>
+      <Folder>
+         <Placemark id="kml_scatter3tp36910ca8_47bb_48c4_8afc_6aff35a3c806_1">
+            <name/>
+            <visibility>1</visibility>
+            <description>Ground Station 18
+
+Bandwidth: 1.5 Gbps</description>
+            <Style>
+               <IconStyle>
+                  <color>FFAAAA00</color>
+                  <scale>0.2</scale>
+                  <Icon>
+                     <href>http://maps.google.com/mapfiles/kml/pal2/icon18.png</href>
+                  </Icon>
+               </IconStyle>
+            </Style>
+            <Point id="Point_kml_scatter3tp36910ca8_47bb_48c4_8afc_6aff35a3c806">
+               <altitudeMode>relativeToGround</altitudeMode>
+               <coordinates>100.5,13.7,0 </coordinates>
+            </Point>
+         </Placemark>
+         <name>kml_scatter3</name>
+         <id>kml_scatter3tp36910ca8_47bb_48c4_8afc_6aff35a3c806</id>
+      </Folder>
+      <Folder>
+         <Placemark id="kml_scatter3tpa04d9509_f71d_4198_9894_d7694bdff529_1">
+            <name/>
+            <visibility>1</visibility>
+            <description>Ground Station 19
+
+Bandwidth: 1.53 Gbps</description>
+            <Style>
+               <IconStyle>
+                  <color>FFAAAA00</color>
+                  <scale>0.2</scale>
+                  <Icon>
+                     <href>http://maps.google.com/mapfiles/kml/pal2/icon18.png</href>
+                  </Icon>
+               </IconStyle>
+            </Style>
+            <Point id="Point_kml_scatter3tpa04d9509_f71d_4198_9894_d7694bdff529">
+               <altitudeMode>relativeToGround</altitudeMode>
+               <coordinates>2.1,41.4,0 </coordinates>
+            </Point>
+         </Placemark>
+         <name>kml_scatter3</name>
+         <id>kml_scatter3tpa04d9509_f71d_4198_9894_d7694bdff529</id>
+      </Folder>
+      <Folder>
+         <Placemark id="kml_scatter3tp04261603_1f80_4010_b436_8a08602ac5d7_1">
+            <name/>
+            <visibility>1</visibility>
+            <description>Ground Station 20
+
+Bandwidth: 1.88 Gbps</description>
+            <Style>
+               <IconStyle>
+                  <color>FFAAAA00</color>
+                  <scale>0.2</scale>
+                  <Icon>
+                     <href>http://maps.google.com/mapfiles/kml/pal2/icon18.png</href>
+                  </Icon>
+               </IconStyle>
+            </Style>
+            <Point id="Point_kml_scatter3tp04261603_1f80_4010_b436_8a08602ac5d7">
+               <altitudeMode>relativeToGround</altitudeMode>
+               <coordinates>116.5,39.9,0 </coordinates>
+            </Point>
+         </Placemark>
+         <name>kml_scatter3</name>
+         <id>kml_scatter3tp04261603_1f80_4010_b436_8a08602ac5d7</id>
+      </Folder>
+      <Folder>
+         <Placemark id="kml_scatter3tp1eae4ed2_8694_4f08_bf5e_b52798e050fc_1">
+            <name/>
+            <visibility>1</visibility>
+            <description>Ground Station 21
+
+Bandwidth: 1.66 Gbps</description>
+            <Style>
+               <IconStyle>
+                  <color>FFAAAA00</color>
+                  <scale>0.2</scale>
+                  <Icon>
+                     <href>http://maps.google.com/mapfiles/kml/pal2/icon18.png</href>
+                  </Icon>
+               </IconStyle>
+            </Style>
+            <Point id="Point_kml_scatter3tp1eae4ed2_8694_4f08_bf5e_b52798e050fc">
+               <altitudeMode>relativeToGround</altitudeMode>
+               <coordinates>-48.5,-1.5,0 </coordinates>
+            </Point>
+         </Placemark>
+         <name>kml_scatter3</name>
+         <id>kml_scatter3tp1eae4ed2_8694_4f08_bf5e_b52798e050fc</id>
+      </Folder>
+      <Folder>
+         <Placemark id="kml_scatter3tp22314b86_28f3_40bc_8f4b_9ff987be7f50_1">
+            <name/>
+            <visibility>1</visibility>
+            <description>Ground Station 22
+
+Bandwidth: 1.8 Gbps</description>
+            <Style>
+               <IconStyle>
+                  <color>FFAAAA00</color>
+                  <scale>0.2</scale>
+                  <Icon>
+                     <href>http://maps.google.com/mapfiles/kml/pal2/icon18.png</href>
+                  </Icon>
+               </IconStyle>
+            </Style>
+            <Point id="Point_kml_scatter3tp22314b86_28f3_40bc_8f4b_9ff987be7f50">
+               <altitudeMode>relativeToGround</altitudeMode>
+               <coordinates>-5.9,54.6,0 </coordinates>
+            </Point>
+         </Placemark>
+         <name>kml_scatter3</name>
+         <id>kml_scatter3tp22314b86_28f3_40bc_8f4b_9ff987be7f50</id>
+      </Folder>
+      <Folder>
+         <Placemark id="kml_scatter3tpdebfb6cb_e6d1_4f35_93eb_eba4e8303591_1">
+            <name/>
+            <visibility>1</visibility>
+            <description>Ground Station 23
+
+Bandwidth: 1.77 Gbps</description>
+            <Style>
+               <IconStyle>
+                  <color>FFAAAA00</color>
+                  <scale>0.2</scale>
+                  <Icon>
+                     <href>http://maps.google.com/mapfiles/kml/pal2/icon18.png</href>
+                  </Icon>
+               </IconStyle>
+            </Style>
+            <Point id="Point_kml_scatter3tpdebfb6cb_e6d1_4f35_93eb_eba4e8303591">
+               <altitudeMode>relativeToGround</altitudeMode>
+               <coordinates>20.5,44.9,0 </coordinates>
+            </Point>
+         </Placemark>
+         <name>kml_scatter3</name>
+         <id>kml_scatter3tpdebfb6cb_e6d1_4f35_93eb_eba4e8303591</id>
+      </Folder>
+      <Folder>
+         <Placemark id="kml_scatter3tp498b8757_8934_441a_a905_bd86f2427dc6_1">
+            <name/>
+            <visibility>1</visibility>
+            <description>Ground Station 24
+
+Bandwidth: 1.81 Gbps</description>
+            <Style>
+               <IconStyle>
+                  <color>FFAAAA00</color>
+                  <scale>0.2</scale>
+                  <Icon>
+                     <href>http://maps.google.com/mapfiles/kml/pal2/icon18.png</href>
+                  </Icon>
+               </IconStyle>
+            </Style>
+            <Point id="Point_kml_scatter3tp498b8757_8934_441a_a905_bd86f2427dc6">
+               <altitudeMode>relativeToGround</altitudeMode>
+               <coordinates>13.5,52.5,0 </coordinates>
+            </Point>
+         </Placemark>
+         <name>kml_scatter3</name>
+         <id>kml_scatter3tp498b8757_8934_441a_a905_bd86f2427dc6</id>
+      </Folder>
+      <Folder>
+         <Placemark id="kml_scatter3tp98ee96d1_aec4_4084_8cfc_782f62065f30_1">
+            <name/>
+            <visibility>1</visibility>
+            <description>Ground Station 25
+
+Bandwidth: 2.08 Gbps</description>
+            <Style>
+               <IconStyle>
+                  <color>FFAAAA00</color>
+                  <scale>0.2</scale>
+                  <Icon>
+                     <href>http://maps.google.com/mapfiles/kml/pal2/icon18.png</href>
+                  </Icon>
+               </IconStyle>
+            </Style>
+            <Point id="Point_kml_scatter3tp98ee96d1_aec4_4084_8cfc_782f62065f30">
+               <altitudeMode>relativeToGround</altitudeMode>
+               <coordinates>-1.9,52.5,0 </coordinates>
+            </Point>
+         </Placemark>
+         <name>kml_scatter3</name>
+         <id>kml_scatter3tp98ee96d1_aec4_4084_8cfc_782f62065f30</id>
+      </Folder>
+      <Folder>
+         <Placemark id="kml_scatter3tp8af3b000_efb5_4924_a943_29c79ea2ca73_1">
+            <name/>
+            <visibility>1</visibility>
+            <description>Ground Station 26
+
+Bandwidth: 2.04 Gbps</description>
+            <Style>
+               <IconStyle>
+                  <color>FFAAAA00</color>
+                  <scale>0.2</scale>
+                  <Icon>
+                     <href>http://maps.google.com/mapfiles/kml/pal2/icon18.png</href>
+                  </Icon>
+               </IconStyle>
+            </Style>
+            <Point id="Point_kml_scatter3tp8af3b000_efb5_4924_a943_29c79ea2ca73">
+               <altitudeMode>relativeToGround</altitudeMode>
+               <coordinates>-74.3,4.5,0 </coordinates>
+            </Point>
+         </Placemark>
+         <name>kml_scatter3</name>
+         <id>kml_scatter3tp8af3b000_efb5_4924_a943_29c79ea2ca73</id>
+      </Folder>
+      <Folder>
+         <Placemark id="kml_scatter3tp10326629_8182_4bc7_849c_66d1ed81c263_1">
+            <name/>
+            <visibility>1</visibility>
+            <description>Ground Station 27
+
+Bandwidth: 2.29 Gbps</description>
+            <Style>
+               <IconStyle>
+                  <color>FFAAAA00</color>
+                  <scale>0.2</scale>
+                  <Icon>
+                     <href>http://maps.google.com/mapfiles/kml/pal2/icon18.png</href>
+                  </Icon>
+               </IconStyle>
+            </Style>
+            <Point id="Point_kml_scatter3tp10326629_8182_4bc7_849c_66d1ed81c263">
+               <altitudeMode>relativeToGround</altitudeMode>
+               <coordinates>72.8,19,0 </coordinates>
+            </Point>
+         </Placemark>
+         <name>kml_scatter3</name>
+         <id>kml_scatter3tp10326629_8182_4bc7_849c_66d1ed81c263</id>
+      </Folder>
+      <Folder>
+         <Placemark id="kml_scatter3tp836772ad_773b_4c28_b18b_f78bf1d3eb06_1">
+            <name/>
+            <visibility>1</visibility>
+            <description>Ground Station 28
+
+Bandwidth: 1.87 Gbps</description>
+            <Style>
+               <IconStyle>
+                  <color>FFAAAA00</color>
+                  <scale>0.2</scale>
+                  <Icon>
+                     <href>http://maps.google.com/mapfiles/kml/pal2/icon18.png</href>
+                  </Icon>
+               </IconStyle>
+            </Style>
+            <Point id="Point_kml_scatter3tp836772ad_773b_4c28_b18b_f78bf1d3eb06">
+               <altitudeMode>relativeToGround</altitudeMode>
+               <coordinates>-0.5,44.8,0 </coordinates>
+            </Point>
+         </Placemark>
+         <name>kml_scatter3</name>
+         <id>kml_scatter3tp836772ad_773b_4c28_b18b_f78bf1d3eb06</id>
+      </Folder>
+      <Folder>
+         <Placemark id="kml_scatter3tp92fa3e31_ff69_4462_afc8_5a1d68f5c981_1">
+            <name/>
+            <visibility>1</visibility>
+            <description>Ground Station 29
+
+Bandwidth: 2.25 Gbps</description>
+            <Style>
+               <IconStyle>
+                  <color>FFAAAA00</color>
+                  <scale>0.2</scale>
+                  <Icon>
+                     <href>http://maps.google.com/mapfiles/kml/pal2/icon18.png</href>
+                  </Icon>
+               </IconStyle>
+            </Style>
+            <Point id="Point_kml_scatter3tp92fa3e31_ff69_4462_afc8_5a1d68f5c981">
+               <altitudeMode>relativeToGround</altitudeMode>
+               <coordinates>8.800000000000001,53.8,0 </coordinates>
+            </Point>
+         </Placemark>
+         <name>kml_scatter3</name>
+         <id>kml_scatter3tp92fa3e31_ff69_4462_afc8_5a1d68f5c981</id>
+      </Folder>
+      <Folder>
+         <Placemark id="kml_scatter3tp31377985_f3f2_4249_a6c6_8b8d4793faa7_1">
+            <name/>
+            <visibility>1</visibility>
+            <description>Ground Station 30
+
+Bandwidth: 2.15 Gbps</description>
+            <Style>
+               <IconStyle>
+                  <color>FFAAAA00</color>
+                  <scale>0.2</scale>
+                  <Icon>
+                     <href>http://maps.google.com/mapfiles/kml/pal2/icon18.png</href>
+                  </Icon>
+               </IconStyle>
+            </Style>
+            <Point id="Point_kml_scatter3tp31377985_f3f2_4249_a6c6_8b8d4793faa7">
+               <altitudeMode>relativeToGround</altitudeMode>
+               <coordinates>153.1,-27.5,0 </coordinates>
+            </Point>
+         </Placemark>
+         <name>kml_scatter3</name>
+         <id>kml_scatter3tp31377985_f3f2_4249_a6c6_8b8d4793faa7</id>
+      </Folder>
+      <Folder>
+         <Placemark id="kml_scatter3tpf3184683_e2bd_490d_aeb0_7faf68e6cc69_1">
+            <name/>
+            <visibility>1</visibility>
+            <description>Ground Station 31
+
+Bandwidth: 2.05 Gbps</description>
+            <Style>
+               <IconStyle>
+                  <color>FFAAAA00</color>
+                  <scale>0.2</scale>
+                  <Icon>
+                     <href>http://maps.google.com/mapfiles/kml/pal2/icon18.png</href>
+                  </Icon>
+               </IconStyle>
+            </Style>
+            <Point id="Point_kml_scatter3tpf3184683_e2bd_490d_aeb0_7faf68e6cc69">
+               <altitudeMode>relativeToGround</altitudeMode>
+               <coordinates>-2.5,51.5,0 </coordinates>
+            </Point>
+         </Placemark>
+         <name>kml_scatter3</name>
+         <id>kml_scatter3tpf3184683_e2bd_490d_aeb0_7faf68e6cc69</id>
+      </Folder>
+      <Folder>
+         <Placemark id="kml_scatter3tp5e236460_496a_4135_82d1_ced179d466e5_1">
+            <name/>
+            <visibility>1</visibility>
+            <description>Ground Station 32
+
+Bandwidth: 2.35 Gbps</description>
+            <Style>
+               <IconStyle>
+                  <color>FFAAAA00</color>
+                  <scale>0.2</scale>
+                  <Icon>
+                     <href>http://maps.google.com/mapfiles/kml/pal2/icon18.png</href>
+                  </Icon>
+               </IconStyle>
+            </Style>
+            <Point id="Point_kml_scatter3tp5e236460_496a_4135_82d1_ced179d466e5">
+               <altitudeMode>relativeToGround</altitudeMode>
+               <coordinates>4.4,50.8,0 </coordinates>
+            </Point>
+         </Placemark>
+         <name>kml_scatter3</name>
+         <id>kml_scatter3tp5e236460_496a_4135_82d1_ced179d466e5</id>
+      </Folder>
+      <Folder>
+         <Placemark id="kml_scatter3tp6c506d0d_ebac_45dd_af2a_aac9462da0d5_1">
+            <name/>
+            <visibility>1</visibility>
+            <description>Ground Station 33
+
+Bandwidth: 1.92 Gbps</description>
+            <Style>
+               <IconStyle>
+                  <color>FFAAAA00</color>
+                  <scale>0.2</scale>
+                  <Icon>
+                     <href>http://maps.google.com/mapfiles/kml/pal2/icon18.png</href>
+                  </Icon>
+               </IconStyle>
+            </Style>
+            <Point id="Point_kml_scatter3tp6c506d0d_ebac_45dd_af2a_aac9462da0d5">
+               <altitudeMode>relativeToGround</altitudeMode>
+               <coordinates>26.1,44.5,0 </coordinates>
+            </Point>
+         </Placemark>
+         <name>kml_scatter3</name>
+         <id>kml_scatter3tp6c506d0d_ebac_45dd_af2a_aac9462da0d5</id>
+      </Folder>
+      <Folder>
+         <Placemark id="kml_scatter3tp7d9c7960_a663_4806_80e3_770fe35a43d0_1">
+            <name/>
+            <visibility>1</visibility>
+            <description>Ground Station 34
+
+Bandwidth: 2.08 Gbps</description>
+            <Style>
+               <IconStyle>
+                  <color>FFAAAA00</color>
+                  <scale>0.2</scale>
+                  <Icon>
+                     <href>http://maps.google.com/mapfiles/kml/pal2/icon18.png</href>
+                  </Icon>
+               </IconStyle>
+            </Style>
+            <Point id="Point_kml_scatter3tp7d9c7960_a663_4806_80e3_770fe35a43d0">
+               <altitudeMode>relativeToGround</altitudeMode>
+               <coordinates>19.1,47.5,0 </coordinates>
+            </Point>
+         </Placemark>
+         <name>kml_scatter3</name>
+         <id>kml_scatter3tp7d9c7960_a663_4806_80e3_770fe35a43d0</id>
+      </Folder>
+      <Folder>
+         <Placemark id="kml_scatter3tp510584b5_0bcb_4c77_9a58_e04f50102413_1">
+            <name/>
+            <visibility>1</visibility>
+            <description>Ground Station 35
+
+Bandwidth: 2.27 Gbps</description>
+            <Style>
+               <IconStyle>
+                  <color>FFAAAA00</color>
+                  <scale>0.2</scale>
+                  <Icon>
+                     <href>http://maps.google.com/mapfiles/kml/pal2/icon18.png</href>
+                  </Icon>
+               </IconStyle>
+            </Style>
+            <Point id="Point_kml_scatter3tp510584b5_0bcb_4c77_9a58_e04f50102413">
+               <altitudeMode>relativeToGround</altitudeMode>
+               <coordinates>-58.6,34.6,0 </coordinates>
+            </Point>
+         </Placemark>
+         <name>kml_scatter3</name>
+         <id>kml_scatter3tp510584b5_0bcb_4c77_9a58_e04f50102413</id>
+      </Folder>
+      <Folder>
+         <Placemark id="kml_scatter3tpe8836f4e_3338_4611_9bb5_06f1f6cdd9a5_1">
+            <name/>
+            <visibility>1</visibility>
+            <description>Ground Station 36
+
+Bandwidth: 2.04 Gbps</description>
+            <Style>
+               <IconStyle>
+                  <color>FFAAAA00</color>
+                  <scale>0.2</scale>
+                  <Icon>
+                     <href>http://maps.google.com/mapfiles/kml/pal2/icon18.png</href>
+                  </Icon>
+               </IconStyle>
+            </Style>
+            <Point id="Point_kml_scatter3tpe8836f4e_3338_4611_9bb5_06f1f6cdd9a5">
+               <altitudeMode>relativeToGround</altitudeMode>
+               <coordinates>31.4,30.3,0 </coordinates>
+            </Point>
+         </Placemark>
+         <name>kml_scatter3</name>
+         <id>kml_scatter3tpe8836f4e_3338_4611_9bb5_06f1f6cdd9a5</id>
+      </Folder>
+      <Folder>
+         <Placemark id="kml_scatter3tpd4d3292f_2cc5_4c0e_a522_51aeff6398a8_1">
+            <name/>
+            <visibility>1</visibility>
+            <description>Ground Station 37
+
+Bandwidth: 2.49 Gbps</description>
+            <Style>
+               <IconStyle>
+                  <color>FFAAAA00</color>
+                  <scale>0.2</scale>
+                  <Icon>
+                     <href>http://maps.google.com/mapfiles/kml/pal2/icon18.png</href>
+                  </Icon>
+               </IconStyle>
+            </Style>
+            <Point id="Point_kml_scatter3tpd4d3292f_2cc5_4c0e_a522_51aeff6398a8">
+               <altitudeMode>relativeToGround</altitudeMode>
+               <coordinates>88.3,22.6,0 </coordinates>
+            </Point>
+         </Placemark>
+         <name>kml_scatter3</name>
+         <id>kml_scatter3tpd4d3292f_2cc5_4c0e_a522_51aeff6398a8</id>
+      </Folder>
+      <Folder>
+         <Placemark id="kml_scatter3tp70b5f221_209a_4fd0_88b2_9730206265c6_1">
+            <name/>
+            <visibility>1</visibility>
+            <description>Ground Station 38
+
+Bandwidth: 1.6 Gbps</description>
+            <Style>
+               <IconStyle>
+                  <color>FFAAAA00</color>
+                  <scale>0.2</scale>
+                  <Icon>
+                     <href>http://maps.google.com/mapfiles/kml/pal2/icon18.png</href>
+                  </Icon>
+               </IconStyle>
+            </Style>
+            <Point id="Point_kml_scatter3tp70b5f221_209a_4fd0_88b2_9730206265c6">
+               <altitudeMode>relativeToGround</altitudeMode>
+               <coordinates>113.2,23.1,0 </coordinates>
+            </Point>
+         </Placemark>
+         <name>kml_scatter3</name>
+         <id>kml_scatter3tp70b5f221_209a_4fd0_88b2_9730206265c6</id>
+      </Folder>
+      <Folder>
+         <Placemark id="kml_scatter3tpb8eba59c_84c2_4181_bce8_c62dcbc70a25_1">
+            <name/>
+            <visibility>1</visibility>
+            <description>Ground Station 39
+
+Bandwidth: 1.8 Gbps</description>
+            <Style>
+               <IconStyle>
+                  <color>FFAAAA00</color>
+                  <scale>0.2</scale>
+                  <Icon>
+                     <href>http://maps.google.com/mapfiles/kml/pal2/icon18.png</href>
+                  </Icon>
+               </IconStyle>
+            </Style>
+            <Point id="Point_kml_scatter3tpb8eba59c_84c2_4181_bce8_c62dcbc70a25">
+               <altitudeMode>relativeToGround</altitudeMode>
+               <coordinates>18.4,33.9,0 </coordinates>
+            </Point>
+         </Placemark>
+         <name>kml_scatter3</name>
+         <id>kml_scatter3tpb8eba59c_84c2_4181_bce8_c62dcbc70a25</id>
+      </Folder>
+      <Folder>
+         <Placemark id="kml_scatter3tpce18e558_e184_4da1_ae20_413eff05a65a_1">
+            <name/>
+            <visibility>1</visibility>
+            <description>Ground Station 40
+
+Bandwidth: 1.88 Gbps</description>
+            <Style>
+               <IconStyle>
+                  <color>FFAAAA00</color>
+                  <scale>0.2</scale>
+                  <Icon>
+                     <href>http://maps.google.com/mapfiles/kml/pal2/icon18.png</href>
+                  </Icon>
+               </IconStyle>
+            </Style>
+            <Point id="Point_kml_scatter3tpce18e558_e184_4da1_ae20_413eff05a65a">
+               <altitudeMode>relativeToGround</altitudeMode>
+               <coordinates>-67.09999999999999,10.5,0 </coordinates>
+            </Point>
+         </Placemark>
+         <name>kml_scatter3</name>
+         <id>kml_scatter3tpce18e558_e184_4da1_ae20_413eff05a65a</id>
+      </Folder>
+      <Folder>
+         <Placemark id="kml_scatter3tpb0375883_13d4_4b7b_aecd_2f29eca8ae9f_1">
+            <name/>
+            <visibility>1</visibility>
+            <description>Ground Station 41
+
+Bandwidth: 1.97 Gbps</description>
+            <Style>
+               <IconStyle>
+                  <color>FFAAAA00</color>
+                  <scale>0.2</scale>
+                  <Icon>
+                     <href>http://maps.google.com/mapfiles/kml/pal2/icon18.png</href>
+                  </Icon>
+               </IconStyle>
+            </Style>
+            <Point id="Point_kml_scatter3tpb0375883_13d4_4b7b_aecd_2f29eca8ae9f">
+               <altitudeMode>relativeToGround</altitudeMode>
+               <coordinates>-52.3,4.8,0 </coordinates>
+            </Point>
+         </Placemark>
+         <name>kml_scatter3</name>
+         <id>kml_scatter3tpb0375883_13d4_4b7b_aecd_2f29eca8ae9f</id>
+      </Folder>
+      <Folder>
+         <Placemark id="kml_scatter3tp98f82f6f_d2a6_46dc_9586_87c3436f7017_1">
+            <name/>
+            <visibility>1</visibility>
+            <description>Ground Station 42
+
+Bandwidth: 1.72 Gbps</description>
+            <Style>
+               <IconStyle>
+                  <color>FFAAAA00</color>
+                  <scale>0.2</scale>
+                  <Icon>
+                     <href>http://maps.google.com/mapfiles/kml/pal2/icon18.png</href>
+                  </Icon>
+               </IconStyle>
+            </Style>
+            <Point id="Point_kml_scatter3tp98f82f6f_d2a6_46dc_9586_87c3436f7017">
+               <altitudeMode>relativeToGround</altitudeMode>
+               <coordinates>106.5,29.8,0 </coordinates>
+            </Point>
+         </Placemark>
+         <name>kml_scatter3</name>
+         <id>kml_scatter3tp98f82f6f_d2a6_46dc_9586_87c3436f7017</id>
+      </Folder>
+      <Folder>
+         <Placemark id="kml_scatter3tpad15c17c_d448_4635_9949_b48284abc19e_1">
+            <name/>
+            <visibility>1</visibility>
+            <description>Ground Station 43
+
+Bandwidth: 1.82 Gbps</description>
+            <Style>
+               <IconStyle>
+                  <color>FFAAAA00</color>
+                  <scale>0.2</scale>
+                  <Icon>
+                     <href>http://maps.google.com/mapfiles/kml/pal2/icon18.png</href>
+                  </Icon>
+               </IconStyle>
+            </Style>
+            <Point id="Point_kml_scatter3tpad15c17c_d448_4635_9949_b48284abc19e">
+               <altitudeMode>relativeToGround</altitudeMode>
+               <coordinates>12.5,55.6,0 </coordinates>
+            </Point>
+         </Placemark>
+         <name>kml_scatter3</name>
+         <id>kml_scatter3tpad15c17c_d448_4635_9949_b48284abc19e</id>
+      </Folder>
+      <Folder>
+         <Placemark id="kml_scatter3tpad865c0e_5b8a_4a7c_b164_f2e7e344fa88_1">
+            <name/>
+            <visibility>1</visibility>
+            <description>Ground Station 44
+
+Bandwidth: 1.72 Gbps</description>
+            <Style>
+               <IconStyle>
+                  <color>FFAAAA00</color>
+                  <scale>0.2</scale>
+                  <Icon>
+                     <href>http://maps.google.com/mapfiles/kml/pal2/icon18.png</href>
+                  </Icon>
+               </IconStyle>
+            </Style>
+            <Point id="Point_kml_scatter3tpad865c0e_5b8a_4a7c_b164_f2e7e344fa88">
+               <altitudeMode>relativeToGround</altitudeMode>
+               <coordinates>-64.2,31.5,0 </coordinates>
+            </Point>
+         </Placemark>
+         <name>kml_scatter3</name>
+         <id>kml_scatter3tpad865c0e_5b8a_4a7c_b164_f2e7e344fa88</id>
+      </Folder>
+      <Folder>
+         <Placemark id="kml_scatter3tp7ce3805f_cca3_4de2_adaa_abac6d6e9d60_1">
+            <name/>
+            <visibility>1</visibility>
+            <description>Ground Station 45
+
+Bandwidth: 1.52 Gbps</description>
+            <Style>
+               <IconStyle>
+                  <color>FFAAAA00</color>
+                  <scale>0.2</scale>
+                  <Icon>
+                     <href>http://maps.google.com/mapfiles/kml/pal2/icon18.png</href>
+                  </Icon>
+               </IconStyle>
+            </Style>
+            <Point id="Point_kml_scatter3tp7ce3805f_cca3_4de2_adaa_abac6d6e9d60">
+               <altitudeMode>relativeToGround</altitudeMode>
+               <coordinates>-17.5,14.6,0 </coordinates>
+            </Point>
+         </Placemark>
+         <name>kml_scatter3</name>
+         <id>kml_scatter3tp7ce3805f_cca3_4de2_adaa_abac6d6e9d60</id>
+      </Folder>
+      <Folder>
+         <Placemark id="kml_scatter3tp374f5ccc_4ce2_4ab1_b8ef_629d5c745aa9_1">
+            <name/>
+            <visibility>1</visibility>
+            <description>Ground Station 46
+
+Bandwidth: 1.51 Gbps</description>
+            <Style>
+               <IconStyle>
+                  <color>FFAAAA00</color>
+                  <scale>0.2</scale>
+                  <Icon>
+                     <href>http://maps.google.com/mapfiles/kml/pal2/icon18.png</href>
+                  </Icon>
+               </IconStyle>
+            </Style>
+            <Point id="Point_kml_scatter3tp374f5ccc_4ce2_4ab1_b8ef_629d5c745aa9">
+               <altitudeMode>relativeToGround</altitudeMode>
+               <coordinates>130.8,-12.5,0 </coordinates>
+            </Point>
+         </Placemark>
+         <name>kml_scatter3</name>
+         <id>kml_scatter3tp374f5ccc_4ce2_4ab1_b8ef_629d5c745aa9</id>
+      </Folder>
+      <Folder>
+         <Placemark id="kml_scatter3tpf28dcf4a_9842_4255_9d24_4683d7c6e835_1">
+            <name/>
+            <visibility>1</visibility>
+            <description>Ground Station 47
+
+Bandwidth: 2.29 Gbps</description>
+            <Style>
+               <IconStyle>
+                  <color>FFAAAA00</color>
+                  <scale>0.2</scale>
+                  <Icon>
+                     <href>http://maps.google.com/mapfiles/kml/pal2/icon18.png</href>
+                  </Icon>
+               </IconStyle>
+            </Style>
+            <Point id="Point_kml_scatter3tpf28dcf4a_9842_4255_9d24_4683d7c6e835">
+               <altitudeMode>relativeToGround</altitudeMode>
+               <coordinates>43.1,11.5,0 </coordinates>
+            </Point>
+         </Placemark>
+         <name>kml_scatter3</name>
+         <id>kml_scatter3tpf28dcf4a_9842_4255_9d24_4683d7c6e835</id>
+      </Folder>
+      <Folder>
+         <Placemark id="kml_scatter3tpb111f4ad_5d4d_408f_a669_12c827253aa2_1">
+            <name/>
+            <visibility>1</visibility>
+            <description>Ground Station 48
+
+Bandwidth: 1.51 Gbps</description>
+            <Style>
+               <IconStyle>
+                  <color>FFAAAA00</color>
+                  <scale>0.2</scale>
+                  <Icon>
+                     <href>http://maps.google.com/mapfiles/kml/pal2/icon18.png</href>
+                  </Icon>
+               </IconStyle>
+            </Style>
+            <Point id="Point_kml_scatter3tpb111f4ad_5d4d_408f_a669_12c827253aa2">
+               <altitudeMode>relativeToGround</altitudeMode>
+               <coordinates>-6.25,53.4,0 </coordinates>
+            </Point>
+         </Placemark>
+         <name>kml_scatter3</name>
+         <id>kml_scatter3tpb111f4ad_5d4d_408f_a669_12c827253aa2</id>
+      </Folder>
+      <Folder>
+         <Placemark id="kml_scatter3tpd24715b2_0ba0_48a8_8cf2_e31b7019067f_1">
+            <name/>
+            <visibility>1</visibility>
+            <description>Ground Station 49
+
+Bandwidth: 2.41 Gbps</description>
+            <Style>
+               <IconStyle>
+                  <color>FFAAAA00</color>
+                  <scale>0.2</scale>
+                  <Icon>
+                     <href>http://maps.google.com/mapfiles/kml/pal2/icon18.png</href>
+                  </Icon>
+               </IconStyle>
+            </Style>
+            <Point id="Point_kml_scatter3tpd24715b2_0ba0_48a8_8cf2_e31b7019067f">
+               <altitudeMode>relativeToGround</altitudeMode>
+               <coordinates>30.9,-29.9,0 </coordinates>
+            </Point>
+         </Placemark>
+         <name>kml_scatter3</name>
+         <id>kml_scatter3tpd24715b2_0ba0_48a8_8cf2_e31b7019067f</id>
+      </Folder>
+      <Folder>
+         <Placemark id="kml_scatter3tp120a8863_8e57_4a18_abe6_5ec576f25f11_1">
+            <name/>
+            <visibility>1</visibility>
+            <description>Ground Station 50
+
+Bandwidth: 1.69 Gbps</description>
+            <Style>
+               <IconStyle>
+                  <color>FFAAAA00</color>
+                  <scale>0.2</scale>
+                  <Icon>
+                     <href>http://maps.google.com/mapfiles/kml/pal2/icon18.png</href>
+                  </Icon>
+               </IconStyle>
+            </Style>
+            <Point id="Point_kml_scatter3tp120a8863_8e57_4a18_abe6_5ec576f25f11">
+               <altitudeMode>relativeToGround</altitudeMode>
+               <coordinates>-3.2,55.9,0 </coordinates>
+            </Point>
+         </Placemark>
+         <name>kml_scatter3</name>
+         <id>kml_scatter3tp120a8863_8e57_4a18_abe6_5ec576f25f11</id>
+      </Folder>
+      <Folder>
+         <Placemark id="kml_scatter3tpbe929057_4728_4ffa_8031_f71acb880b62_1">
+            <name/>
+            <visibility>1</visibility>
+            <description>Ground Station 51
+
+Bandwidth: 2.11 Gbps</description>
+            <Style>
+               <IconStyle>
+                  <color>FFAAAA00</color>
+                  <scale>0.2</scale>
+                  <Icon>
+                     <href>http://maps.google.com/mapfiles/kml/pal2/icon18.png</href>
+                  </Icon>
+               </IconStyle>
+            </Style>
+            <Point id="Point_kml_scatter3tpbe929057_4728_4ffa_8031_f71acb880b62">
+               <altitudeMode>relativeToGround</altitudeMode>
+               <coordinates>8.6,50.1,0 </coordinates>
+            </Point>
+         </Placemark>
+         <name>kml_scatter3</name>
+         <id>kml_scatter3tpbe929057_4728_4ffa_8031_f71acb880b62</id>
+      </Folder>
+      <Folder>
+         <Placemark id="kml_scatter3tp958a4ddc_398f_4e87_8351_44ca96b6f70e_1">
+            <name/>
+            <visibility>1</visibility>
+            <description>Ground Station 52
+
+Bandwidth: 2.02 Gbps</description>
+            <Style>
+               <IconStyle>
+                  <color>FFAAAA00</color>
+                  <scale>0.2</scale>
+                  <Icon>
+                     <href>http://maps.google.com/mapfiles/kml/pal2/icon18.png</href>
+                  </Icon>
+               </IconStyle>
+            </Style>
+            <Point id="Point_kml_scatter3tp958a4ddc_398f_4e87_8351_44ca96b6f70e">
+               <altitudeMode>relativeToGround</altitudeMode>
+               <coordinates>-58.2,6.75,0 </coordinates>
+            </Point>
+         </Placemark>
+         <name>kml_scatter3</name>
+         <id>kml_scatter3tp958a4ddc_398f_4e87_8351_44ca96b6f70e</id>
+      </Folder>
+      <Folder>
+         <Placemark id="kml_scatter3tp48274e7d_80be_4d5a_bf3c_4152b92ad9de_1">
+            <name/>
+            <visibility>1</visibility>
+            <description>Ground Station 53
+
+Bandwidth: 2.21 Gbps</description>
+            <Style>
+               <IconStyle>
+                  <color>FFAAAA00</color>
+                  <scale>0.2</scale>
+                  <Icon>
+                     <href>http://maps.google.com/mapfiles/kml/pal2/icon18.png</href>
+                  </Icon>
+               </IconStyle>
+            </Style>
+            <Point id="Point_kml_scatter3tp48274e7d_80be_4d5a_bf3c_4152b92ad9de">
+               <altitudeMode>relativeToGround</altitudeMode>
+               <coordinates>-4.2,55.8,0 </coordinates>
+            </Point>
+         </Placemark>
+         <name>kml_scatter3</name>
+         <id>kml_scatter3tp48274e7d_80be_4d5a_bf3c_4152b92ad9de</id>
+      </Folder>
+      <Folder>
+         <Placemark id="kml_scatter3tpa99494f1_9ac2_4a9c_aef3_cfc378ffe6ca_1">
+            <name/>
+            <visibility>1</visibility>
+            <description>Ground Station 54
+
+Bandwidth: 1.85 Gbps</description>
+            <Style>
+               <IconStyle>
+                  <color>FFAAAA00</color>
+                  <scale>0.2</scale>
+                  <Icon>
+                     <href>http://maps.google.com/mapfiles/kml/pal2/icon18.png</href>
+                  </Icon>
+               </IconStyle>
+            </Style>
+            <Point id="Point_kml_scatter3tpa99494f1_9ac2_4a9c_aef3_cfc378ffe6ca">
+               <altitudeMode>relativeToGround</altitudeMode>
+               <coordinates>-90.5,14.4,0 </coordinates>
+            </Point>
+         </Placemark>
+         <name>kml_scatter3</name>
+         <id>kml_scatter3tpa99494f1_9ac2_4a9c_aef3_cfc378ffe6ca</id>
+      </Folder>
+      <Folder>
+         <Placemark id="kml_scatter3tp70c75184_5994_48f0_af0a_1cfb53cfc95c_1">
+            <name/>
+            <visibility>1</visibility>
+            <description>Ground Station 55
+
+Bandwidth: 2.26 Gbps</description>
+            <Style>
+               <IconStyle>
+                  <color>FFAAAA00</color>
+                  <scale>0.2</scale>
+                  <Icon>
+                     <href>http://maps.google.com/mapfiles/kml/pal2/icon18.png</href>
+                  </Icon>
+               </IconStyle>
+            </Style>
+            <Point id="Point_kml_scatter3tp70c75184_5994_48f0_af0a_1cfb53cfc95c">
+               <altitudeMode>relativeToGround</altitudeMode>
+               <coordinates>-78.3,0.2,0 </coordinates>
+            </Point>
+         </Placemark>
+         <name>kml_scatter3</name>
+         <id>kml_scatter3tp70c75184_5994_48f0_af0a_1cfb53cfc95c</id>
+      </Folder>
+      <Folder>
+         <Placemark id="kml_scatter3tp0e879ce5_5cb5_4622_bc91_84af74fca245_1">
+            <name/>
+            <visibility>1</visibility>
+            <description>Ground Station 56
+
+Bandwidth: 2.01 Gbps</description>
+            <Style>
+               <IconStyle>
+                  <color>FFAAAA00</color>
+                  <scale>0.2</scale>
+                  <Icon>
+                     <href>http://maps.google.com/mapfiles/kml/pal2/icon18.png</href>
+                  </Icon>
+               </IconStyle>
+            </Style>
+            <Point id="Point_kml_scatter3tp0e879ce5_5cb5_4622_bc91_84af74fca245">
+               <altitudeMode>relativeToGround</altitudeMode>
+               <coordinates>10.3,53.5,0 </coordinates>
+            </Point>
+         </Placemark>
+         <name>kml_scatter3</name>
+         <id>kml_scatter3tp0e879ce5_5cb5_4622_bc91_84af74fca245</id>
+      </Folder>
+      <Folder>
+         <Placemark id="kml_scatter3tp9d7d288e_a11f_4ef3_a20d_3c3d00d93806_1">
+            <name/>
+            <visibility>1</visibility>
+            <description>Ground Station 57
+
+Bandwidth: 2.27 Gbps</description>
+            <Style>
+               <IconStyle>
+                  <color>FFAAAA00</color>
+                  <scale>0.2</scale>
+                  <Icon>
+                     <href>http://maps.google.com/mapfiles/kml/pal2/icon18.png</href>
+                  </Icon>
+               </IconStyle>
+            </Style>
+            <Point id="Point_kml_scatter3tp9d7d288e_a11f_4ef3_a20d_3c3d00d93806">
+               <altitudeMode>relativeToGround</altitudeMode>
+               <coordinates>23.6,70.59999999999999,0 </coordinates>
+            </Point>
+         </Placemark>
+         <name>kml_scatter3</name>
+         <id>kml_scatter3tp9d7d288e_a11f_4ef3_a20d_3c3d00d93806</id>
+      </Folder>
+      <Folder>
+         <Placemark id="kml_scatter3tp489ef4d0_4ecf_4608_8d3d_0e6e7a355021_1">
+            <name/>
+            <visibility>1</visibility>
+            <description>Ground Station 58
+
+Bandwidth: 1.86 Gbps</description>
+            <Style>
+               <IconStyle>
+                  <color>FFAAAA00</color>
+                  <scale>0.2</scale>
+                  <Icon>
+                     <href>http://maps.google.com/mapfiles/kml/pal2/icon18.png</href>
+                  </Icon>
+               </IconStyle>
+            </Style>
+            <Point id="Point_kml_scatter3tp489ef4d0_4ecf_4608_8d3d_0e6e7a355021">
+               <altitudeMode>relativeToGround</altitudeMode>
+               <coordinates>-82.40000000000001,23.1,0 </coordinates>
+            </Point>
+         </Placemark>
+         <name>kml_scatter3</name>
+         <id>kml_scatter3tp489ef4d0_4ecf_4608_8d3d_0e6e7a355021</id>
+      </Folder>
+      <Folder>
+         <Placemark id="kml_scatter3tp5ad5c9ec_f365_4bad_8e03_ae9148835b7b_1">
+            <name/>
+            <visibility>1</visibility>
+            <description>Ground Station 59
+
+Bandwidth: 2.43 Gbps</description>
+            <Style>
+               <IconStyle>
+                  <color>FFAAAA00</color>
+                  <scale>0.2</scale>
+                  <Icon>
+                     <href>http://maps.google.com/mapfiles/kml/pal2/icon18.png</href>
+                  </Icon>
+               </IconStyle>
+            </Style>
+            <Point id="Point_kml_scatter3tp5ad5c9ec_f365_4bad_8e03_ae9148835b7b">
+               <altitudeMode>relativeToGround</altitudeMode>
+               <coordinates>25,60.2,0 </coordinates>
+            </Point>
+         </Placemark>
+         <name>kml_scatter3</name>
+         <id>kml_scatter3tp5ad5c9ec_f365_4bad_8e03_ae9148835b7b</id>
+      </Folder>
+      <Folder>
+         <Placemark id="kml_scatter3tp1d9c8a06_2e00_482f_9396_aa53d5f312c8_1">
+            <name/>
+            <visibility>1</visibility>
+            <description>Ground Station 60
+
+Bandwidth: 2.41 Gbps</description>
+            <Style>
+               <IconStyle>
+                  <color>FFAAAA00</color>
+                  <scale>0.2</scale>
+                  <Icon>
+                     <href>http://maps.google.com/mapfiles/kml/pal2/icon18.png</href>
+                  </Icon>
+               </IconStyle>
+            </Style>
+            <Point id="Point_kml_scatter3tp1d9c8a06_2e00_482f_9396_aa53d5f312c8">
+               <altitudeMode>relativeToGround</altitudeMode>
+               <coordinates>147.4,-42.8,0 </coordinates>
+            </Point>
+         </Placemark>
+         <name>kml_scatter3</name>
+         <id>kml_scatter3tp1d9c8a06_2e00_482f_9396_aa53d5f312c8</id>
+      </Folder>
+      <Folder>
+         <Placemark id="kml_scatter3tp7798857d_92b1_4d85_89ac_41b671478306_1">
+            <name/>
+            <visibility>1</visibility>
+            <description>Ground Station 61
+
+Bandwidth: 2.05 Gbps</description>
+            <Style>
+               <IconStyle>
+                  <color>FFAAAA00</color>
+                  <scale>0.2</scale>
+                  <Icon>
+                     <href>http://maps.google.com/mapfiles/kml/pal2/icon18.png</href>
+                  </Icon>
+               </IconStyle>
+            </Style>
+            <Point id="Point_kml_scatter3tp7798857d_92b1_4d85_89ac_41b671478306">
+               <altitudeMode>relativeToGround</altitudeMode>
+               <coordinates>114.2,22.4,0 </coordinates>
+            </Point>
+         </Placemark>
+         <name>kml_scatter3</name>
+         <id>kml_scatter3tp7798857d_92b1_4d85_89ac_41b671478306</id>
+      </Folder>
+      <Folder>
+         <Placemark id="kml_scatter3tpd8317fe9_051f_4a11_af1e_ea67f3c77d30_1">
+            <name/>
+            <visibility>1</visibility>
+            <description>Ground Station 62
+
+Bandwidth: 2.02 Gbps</description>
+            <Style>
+               <IconStyle>
+                  <color>FFAAAA00</color>
+                  <scale>0.2</scale>
+                  <Icon>
+                     <href>http://maps.google.com/mapfiles/kml/pal2/icon18.png</href>
+                  </Icon>
+               </IconStyle>
+            </Style>
+            <Point id="Point_kml_scatter3tpd8317fe9_051f_4a11_af1e_ea67f3c77d30">
+               <altitudeMode>relativeToGround</altitudeMode>
+               <coordinates>-70.09999999999999,-20.2,0 </coordinates>
+            </Point>
+         </Placemark>
+         <name>kml_scatter3</name>
+         <id>kml_scatter3tpd8317fe9_051f_4a11_af1e_ea67f3c77d30</id>
+      </Folder>
+      <Folder>
+         <Placemark id="kml_scatter3tp017f01d7_7367_40fd_af3e_a4f139456584_1">
+            <name/>
+            <visibility>1</visibility>
+            <description>Ground Station 63
+
+Bandwidth: 1.68 Gbps</description>
+            <Style>
+               <IconStyle>
+                  <color>FFAAAA00</color>
+                  <scale>0.2</scale>
+                  <Icon>
+                     <href>http://maps.google.com/mapfiles/kml/pal2/icon18.png</href>
+                  </Icon>
+               </IconStyle>
+            </Style>
+            <Point id="Point_kml_scatter3tp017f01d7_7367_40fd_af3e_a4f139456584">
+               <altitudeMode>relativeToGround</altitudeMode>
+               <coordinates>104.4,52.5,0 </coordinates>
+            </Point>
+         </Placemark>
+         <name>kml_scatter3</name>
+         <id>kml_scatter3tp017f01d7_7367_40fd_af3e_a4f139456584</id>
+      </Folder>
+      <Folder>
+         <Placemark id="kml_scatter3tpa580a27e_75e2_4a7e_91c5_14c66362fee4_1">
+            <name/>
+            <visibility>1</visibility>
+            <description>Ground Station 64
+
+Bandwidth: 2.11 Gbps</description>
+            <Style>
+               <IconStyle>
+                  <color>FFAAAA00</color>
+                  <scale>0.2</scale>
+                  <Icon>
+                     <href>http://maps.google.com/mapfiles/kml/pal2/icon18.png</href>
+                  </Icon>
+               </IconStyle>
+            </Style>
+            <Point id="Point_kml_scatter3tpa580a27e_75e2_4a7e_91c5_14c66362fee4">
+               <altitudeMode>relativeToGround</altitudeMode>
+               <coordinates>106.8,-6.4,0 </coordinates>
+            </Point>
+         </Placemark>
+         <name>kml_scatter3</name>
+         <id>kml_scatter3tpa580a27e_75e2_4a7e_91c5_14c66362fee4</id>
+      </Folder>
+      <Folder>
+         <Placemark id="kml_scatter3tpa3674095_4837_4981_ab71_4451954f4746_1">
+            <name/>
+            <visibility>1</visibility>
+            <description>Ground Station 65
+
+Bandwidth: 2.23 Gbps</description>
+            <Style>
+               <IconStyle>
+                  <color>FFAAAA00</color>
+                  <scale>0.2</scale>
+                  <Icon>
+                     <href>http://maps.google.com/mapfiles/kml/pal2/icon18.png</href>
+                  </Icon>
+               </IconStyle>
+            </Style>
+            <Point id="Point_kml_scatter3tpa3674095_4837_4981_ab71_4451954f4746">
+               <altitudeMode>relativeToGround</altitudeMode>
+               <coordinates>28.1,-26.2,0 </coordinates>
+            </Point>
+         </Placemark>
+         <name>kml_scatter3</name>
+         <id>kml_scatter3tpa3674095_4837_4981_ab71_4451954f4746</id>
+      </Folder>
+      <Folder>
+         <Placemark id="kml_scatter3tpb2d769a9_1cf8_41e0_8d4a_29abd49651ae_1">
+            <name/>
+            <visibility>1</visibility>
+            <description>Ground Station 66
+
+Bandwidth: 2.38 Gbps</description>
+            <Style>
+               <IconStyle>
+                  <color>FFAAAA00</color>
+                  <scale>0.2</scale>
+                  <Icon>
+                     <href>http://maps.google.com/mapfiles/kml/pal2/icon18.png</href>
+                  </Icon>
+               </IconStyle>
+            </Style>
+            <Point id="Point_kml_scatter3tpb2d769a9_1cf8_41e0_8d4a_29abd49651ae">
+               <altitudeMode>relativeToGround</altitudeMode>
+               <coordinates>-76.8,17.9,0 </coordinates>
+            </Point>
+         </Placemark>
+         <name>kml_scatter3</name>
+         <id>kml_scatter3tpb2d769a9_1cf8_41e0_8d4a_29abd49651ae</id>
+      </Folder>
+      <Folder>
+         <Placemark id="kml_scatter3tp66aab19e_07f7_4e23_a30d_80322bddf59e_1">
+            <name/>
+            <visibility>1</visibility>
+            <description>Ground Station 67
+
+Bandwidth: 1.97 Gbps</description>
+            <Style>
+               <IconStyle>
+                  <color>FFAAAA00</color>
+                  <scale>0.2</scale>
+                  <Icon>
+                     <href>http://maps.google.com/mapfiles/kml/pal2/icon18.png</href>
+                  </Icon>
+               </IconStyle>
+            </Style>
+            <Point id="Point_kml_scatter3tp66aab19e_07f7_4e23_a30d_80322bddf59e">
+               <altitudeMode>relativeToGround</altitudeMode>
+               <coordinates>15.3,-4.3,0 </coordinates>
+            </Point>
+         </Placemark>
+         <name>kml_scatter3</name>
+         <id>kml_scatter3tp66aab19e_07f7_4e23_a30d_80322bddf59e</id>
+      </Folder>
+      <Folder>
+         <Placemark id="kml_scatter3tpa789b78f_c8d1_4619_a2c0_33d65852eaeb_1">
+            <name/>
+            <visibility>1</visibility>
+            <description>Ground Station 68
+
+Bandwidth: 2.25 Gbps</description>
+            <Style>
+               <IconStyle>
+                  <color>FFAAAA00</color>
+                  <scale>0.2</scale>
+                  <Icon>
+                     <href>http://maps.google.com/mapfiles/kml/pal2/icon18.png</href>
+                  </Icon>
+               </IconStyle>
+            </Style>
+            <Point id="Point_kml_scatter3tpa789b78f_c8d1_4619_a2c0_33d65852eaeb">
+               <altitudeMode>relativeToGround</altitudeMode>
+               <coordinates>101.6,3.1,0 </coordinates>
+            </Point>
+         </Placemark>
+         <name>kml_scatter3</name>
+         <id>kml_scatter3tpa789b78f_c8d1_4619_a2c0_33d65852eaeb</id>
+      </Folder>
+      <Folder>
+         <Placemark id="kml_scatter3tp6d39f924_18a1_4126_a844_715830ad2be3_1">
+            <name/>
+            <visibility>1</visibility>
+            <description>Ground Station 69
+
+Bandwidth: 1.68 Gbps</description>
+            <Style>
+               <IconStyle>
+                  <color>FFAAAA00</color>
+                  <scale>0.2</scale>
+                  <Icon>
+                     <href>http://maps.google.com/mapfiles/kml/pal2/icon18.png</href>
+                  </Icon>
+               </IconStyle>
+            </Style>
+            <Point id="Point_kml_scatter3tp6d39f924_18a1_4126_a844_715830ad2be3">
+               <altitudeMode>relativeToGround</altitudeMode>
+               <coordinates>-68.40000000000001,-16.5,0 </coordinates>
+            </Point>
+         </Placemark>
+         <name>kml_scatter3</name>
+         <id>kml_scatter3tp6d39f924_18a1_4126_a844_715830ad2be3</id>
+      </Folder>
+      <Folder>
+         <Placemark id="kml_scatter3tp2fd09a22_fdc8_4f15_9c89_b8ed0ffae5c7_1">
+            <name/>
+            <visibility>1</visibility>
+            <description>Ground Station 70
+
+Bandwidth: 1.52 Gbps</description>
+            <Style>
+               <IconStyle>
+                  <color>FFAAAA00</color>
+                  <scale>0.2</scale>
+                  <Icon>
+                     <href>http://maps.google.com/mapfiles/kml/pal2/icon18.png</href>
+                  </Icon>
+               </IconStyle>
+            </Style>
+            <Point id="Point_kml_scatter3tp2fd09a22_fdc8_4f15_9c89_b8ed0ffae5c7">
+               <altitudeMode>relativeToGround</altitudeMode>
+               <coordinates>-1.5,53.8,0 </coordinates>
+            </Point>
+         </Placemark>
+         <name>kml_scatter3</name>
+         <id>kml_scatter3tp2fd09a22_fdc8_4f15_9c89_b8ed0ffae5c7</id>
+      </Folder>
+      <Folder>
+         <Placemark id="kml_scatter3tp34cf9847_91e9_4d6b_bda4_da47f84b0d64_1">
+            <name/>
+            <visibility>1</visibility>
+            <description>Ground Station 71
+
+Bandwidth: 1.63 Gbps</description>
+            <Style>
+               <IconStyle>
+                  <color>FFAAAA00</color>
+                  <scale>0.2</scale>
+                  <Icon>
+                     <href>http://maps.google.com/mapfiles/kml/pal2/icon18.png</href>
+                  </Icon>
+               </IconStyle>
+            </Style>
+            <Point id="Point_kml_scatter3tp34cf9847_91e9_4d6b_bda4_da47f84b0d64">
+               <altitudeMode>relativeToGround</altitudeMode>
+               <coordinates>-77.09999999999999,-12,0 </coordinates>
+            </Point>
+         </Placemark>
+         <name>kml_scatter3</name>
+         <id>kml_scatter3tp34cf9847_91e9_4d6b_bda4_da47f84b0d64</id>
+      </Folder>
+      <Folder>
+         <Placemark id="kml_scatter3tp9a2be3ba_1bd5_4a06_aa3e_f25a104f3dfa_1">
+            <name/>
+            <visibility>1</visibility>
+            <description>Ground Station 72
+
+Bandwidth: 2.36 Gbps</description>
+            <Style>
+               <IconStyle>
+                  <color>FFAAAA00</color>
+                  <scale>0.2</scale>
+                  <Icon>
+                     <href>http://maps.google.com/mapfiles/kml/pal2/icon18.png</href>
+                  </Icon>
+               </IconStyle>
+            </Style>
+            <Point id="Point_kml_scatter3tp9a2be3ba_1bd5_4a06_aa3e_f25a104f3dfa">
+               <altitudeMode>relativeToGround</altitudeMode>
+               <coordinates>-3,53.4,0 </coordinates>
+            </Point>
+         </Placemark>
+         <name>kml_scatter3</name>
+         <id>kml_scatter3tp9a2be3ba_1bd5_4a06_aa3e_f25a104f3dfa</id>
+      </Folder>
+      <Folder>
+         <Placemark id="kml_scatter3tpc5abeb57_8683_4b46_9d4f_66fc1e7a9ff2_1">
+            <name/>
+            <visibility>1</visibility>
+            <description>Ground Station 73
+
+Bandwidth: 2.3 Gbps</description>
+            <Style>
+               <IconStyle>
+                  <color>FFAAAA00</color>
+                  <scale>0.2</scale>
+                  <Icon>
+                     <href>http://maps.google.com/mapfiles/kml/pal2/icon18.png</href>
+                  </Icon>
+               </IconStyle>
+            </Style>
+            <Point id="Point_kml_scatter3tpc5abeb57_8683_4b46_9d4f_66fc1e7a9ff2">
+               <altitudeMode>relativeToGround</altitudeMode>
+               <coordinates>4.8,45.75,0 </coordinates>
+            </Point>
+         </Placemark>
+         <name>kml_scatter3</name>
+         <id>kml_scatter3tpc5abeb57_8683_4b46_9d4f_66fc1e7a9ff2</id>
+      </Folder>
+      <Folder>
+         <Placemark id="kml_scatter3tp9fa8f11f_6035_40a5_9a3e_c81b7b87e89d_1">
+            <name/>
+            <visibility>1</visibility>
+            <description>Ground Station 74
+
+Bandwidth: 1.68 Gbps</description>
+            <Style>
+               <IconStyle>
+                  <color>FFAAAA00</color>
+                  <scale>0.2</scale>
+                  <Icon>
+                     <href>http://maps.google.com/mapfiles/kml/pal2/icon18.png</href>
+                  </Icon>
+               </IconStyle>
+            </Style>
+            <Point id="Point_kml_scatter3tp9fa8f11f_6035_40a5_9a3e_c81b7b87e89d">
+               <altitudeMode>relativeToGround</altitudeMode>
+               <coordinates>-3.7,40.4,0 </coordinates>
+            </Point>
+         </Placemark>
+         <name>kml_scatter3</name>
+         <id>kml_scatter3tp9fa8f11f_6035_40a5_9a3e_c81b7b87e89d</id>
+      </Folder>
+      <Folder>
+         <Placemark id="kml_scatter3tp4dd39fb3_4c92_4a57_bcc0_b6e54aa8cffd_1">
+            <name/>
+            <visibility>1</visibility>
+            <description>Ground Station 75
+
+Bandwidth: 1.67 Gbps</description>
+            <Style>
+               <IconStyle>
+                  <color>FFAAAA00</color>
+                  <scale>0.2</scale>
+                  <Icon>
+                     <href>http://maps.google.com/mapfiles/kml/pal2/icon18.png</href>
+                  </Icon>
+               </IconStyle>
+            </Style>
+            <Point id="Point_kml_scatter3tp4dd39fb3_4c92_4a57_bcc0_b6e54aa8cffd">
+               <altitudeMode>relativeToGround</altitudeMode>
+               <coordinates>-2.25,53.4,0 </coordinates>
+            </Point>
+         </Placemark>
+         <name>kml_scatter3</name>
+         <id>kml_scatter3tp4dd39fb3_4c92_4a57_bcc0_b6e54aa8cffd</id>
+      </Folder>
+      <Folder>
+         <Placemark id="kml_scatter3tp18de315e_3e5a_4338_9018_9d58b479e029_1">
+            <name/>
+            <visibility>1</visibility>
+            <description>Ground Station 76
+
+Bandwidth: 2.18 Gbps</description>
+            <Style>
+               <IconStyle>
+                  <color>FFAAAA00</color>
+                  <scale>0.2</scale>
+                  <Icon>
+                     <href>http://maps.google.com/mapfiles/kml/pal2/icon18.png</href>
+                  </Icon>
+               </IconStyle>
+            </Style>
+            <Point id="Point_kml_scatter3tp18de315e_3e5a_4338_9018_9d58b479e029">
+               <altitudeMode>relativeToGround</altitudeMode>
+               <coordinates>120.9,14.6,0 </coordinates>
+            </Point>
+         </Placemark>
+         <name>kml_scatter3</name>
+         <id>kml_scatter3tp18de315e_3e5a_4338_9018_9d58b479e029</id>
+      </Folder>
+      <Folder>
+         <Placemark id="kml_scatter3tp55a0fcf4_1c8f_473d_9b66_b96dc78e2b27_1">
+            <name/>
+            <visibility>1</visibility>
+            <description>Ground Station 77
+
+Bandwidth: 1.9 Gbps</description>
+            <Style>
+               <IconStyle>
+                  <color>FFAAAA00</color>
+                  <scale>0.2</scale>
+                  <Icon>
+                     <href>http://maps.google.com/mapfiles/kml/pal2/icon18.png</href>
+                  </Icon>
+               </IconStyle>
+            </Style>
+            <Point id="Point_kml_scatter3tp55a0fcf4_1c8f_473d_9b66_b96dc78e2b27">
+               <altitudeMode>relativeToGround</altitudeMode>
+               <coordinates>5.3,43.3,0 </coordinates>
+            </Point>
+         </Placemark>
+         <name>kml_scatter3</name>
+         <id>kml_scatter3tp55a0fcf4_1c8f_473d_9b66_b96dc78e2b27</id>
+      </Folder>
+      <Folder>
+         <Placemark id="kml_scatter3tp6f0ae16e_6c8d_4ead_a95f_0493b4304a55_1">
+            <name/>
+            <visibility>1</visibility>
+            <description>Ground Station 78
+
+Bandwidth: 2.44 Gbps</description>
+            <Style>
+               <IconStyle>
+                  <color>FFAAAA00</color>
+                  <scale>0.2</scale>
+                  <Icon>
+                     <href>http://maps.google.com/mapfiles/kml/pal2/icon18.png</href>
+                  </Icon>
+               </IconStyle>
+            </Style>
+            <Point id="Point_kml_scatter3tp6f0ae16e_6c8d_4ead_a95f_0493b4304a55">
+               <altitudeMode>relativeToGround</altitudeMode>
+               <coordinates>39.75,21.5,0 </coordinates>
+            </Point>
+         </Placemark>
+         <name>kml_scatter3</name>
+         <id>kml_scatter3tp6f0ae16e_6c8d_4ead_a95f_0493b4304a55</id>
+      </Folder>
+      <Folder>
+         <Placemark id="kml_scatter3tp8796c6a1_d46a_4e9b_9c26_5bff68c3c0cc_1">
+            <name/>
+            <visibility>1</visibility>
+            <description>Ground Station 79
+
+Bandwidth: 1.98 Gbps</description>
+            <Style>
+               <IconStyle>
+                  <color>FFAAAA00</color>
+                  <scale>0.2</scale>
+                  <Icon>
+                     <href>http://maps.google.com/mapfiles/kml/pal2/icon18.png</href>
+                  </Icon>
+               </IconStyle>
+            </Style>
+            <Point id="Point_kml_scatter3tp8796c6a1_d46a_4e9b_9c26_5bff68c3c0cc">
+               <altitudeMode>relativeToGround</altitudeMode>
+               <coordinates>144.9,-37.8,0 </coordinates>
+            </Point>
+         </Placemark>
+         <name>kml_scatter3</name>
+         <id>kml_scatter3tp8796c6a1_d46a_4e9b_9c26_5bff68c3c0cc</id>
+      </Folder>
+      <Folder>
+         <Placemark id="kml_scatter3tp77a84496_55ca_4d99_bb8a_2b8a26bea710_1">
+            <name/>
+            <visibility>1</visibility>
+            <description>Ground Station 80
+
+Bandwidth: 1.9 Gbps</description>
+            <Style>
+               <IconStyle>
+                  <color>FFAAAA00</color>
+                  <scale>0.2</scale>
+                  <Icon>
+                     <href>http://maps.google.com/mapfiles/kml/pal2/icon18.png</href>
+                  </Icon>
+               </IconStyle>
+            </Style>
+            <Point id="Point_kml_scatter3tp77a84496_55ca_4d99_bb8a_2b8a26bea710">
+               <altitudeMode>relativeToGround</altitudeMode>
+               <coordinates>-99.09999999999999,19.5,0 </coordinates>
+            </Point>
+         </Placemark>
+         <name>kml_scatter3</name>
+         <id>kml_scatter3tp77a84496_55ca_4d99_bb8a_2b8a26bea710</id>
+      </Folder>
+      <Folder>
+         <Placemark id="kml_scatter3tpca3d526a_9902_447e_9627_d9550e594ccc_1">
+            <name/>
+            <visibility>1</visibility>
+            <description>Ground Station 81
+
+Bandwidth: 1.69 Gbps</description>
+            <Style>
+               <IconStyle>
+                  <color>FFAAAA00</color>
+                  <scale>0.2</scale>
+                  <Icon>
+                     <href>http://maps.google.com/mapfiles/kml/pal2/icon18.png</href>
+                  </Icon>
+               </IconStyle>
+            </Style>
+            <Point id="Point_kml_scatter3tpca3d526a_9902_447e_9627_d9550e594ccc">
+               <altitudeMode>relativeToGround</altitudeMode>
+               <coordinates>9.1,45.5,0 </coordinates>
+            </Point>
+         </Placemark>
+         <name>kml_scatter3</name>
+         <id>kml_scatter3tpca3d526a_9902_447e_9627_d9550e594ccc</id>
+      </Folder>
+      <Folder>
+         <Placemark id="kml_scatter3tpe7d48161_663a_48bd_8f0a_cf74fa292082_1">
+            <name/>
+            <visibility>1</visibility>
+            <description>Ground Station 82
+
+Bandwidth: 1.84 Gbps</description>
+            <Style>
+               <IconStyle>
+                  <color>FFAAAA00</color>
+                  <scale>0.2</scale>
+                  <Icon>
+                     <href>http://maps.google.com/mapfiles/kml/pal2/icon18.png</href>
+                  </Icon>
+               </IconStyle>
+            </Style>
+            <Point id="Point_kml_scatter3tpe7d48161_663a_48bd_8f0a_cf74fa292082">
+               <altitudeMode>relativeToGround</altitudeMode>
+               <coordinates>-56.2,-34.8,0 </coordinates>
+            </Point>
+         </Placemark>
+         <name>kml_scatter3</name>
+         <id>kml_scatter3tpe7d48161_663a_48bd_8f0a_cf74fa292082</id>
+      </Folder>
+      <Folder>
+         <Placemark id="kml_scatter3tpb257da9d_ee36_4710_83b6_c0d9097589b5_1">
+            <name/>
+            <visibility>1</visibility>
+            <description>Ground Station 83
+
+Bandwidth: 1.94 Gbps</description>
+            <Style>
+               <IconStyle>
+                  <color>FFAAAA00</color>
+                  <scale>0.2</scale>
+                  <Icon>
+                     <href>http://maps.google.com/mapfiles/kml/pal2/icon18.png</href>
+                  </Icon>
+               </IconStyle>
+            </Style>
+            <Point id="Point_kml_scatter3tpb257da9d_ee36_4710_83b6_c0d9097589b5">
+               <altitudeMode>relativeToGround</altitudeMode>
+               <coordinates>37.4,55.8,0 </coordinates>
+            </Point>
+         </Placemark>
+         <name>kml_scatter3</name>
+         <id>kml_scatter3tpb257da9d_ee36_4710_83b6_c0d9097589b5</id>
+      </Folder>
+      <Folder>
+         <Placemark id="kml_scatter3tpfd9ee2d8_234e_4d14_b3c3_292033ad1eec_1">
+            <name/>
+            <visibility>1</visibility>
+            <description>Ground Station 84
+
+Bandwidth: 1.63 Gbps</description>
+            <Style>
+               <IconStyle>
+                  <color>FFAAAA00</color>
+                  <scale>0.2</scale>
+                  <Icon>
+                     <href>http://maps.google.com/mapfiles/kml/pal2/icon18.png</href>
+                  </Icon>
+               </IconStyle>
+            </Style>
+            <Point id="Point_kml_scatter3tpfd9ee2d8_234e_4d14_b3c3_292033ad1eec">
+               <altitudeMode>relativeToGround</altitudeMode>
+               <coordinates>11.6,48.1,0 </coordinates>
+            </Point>
+         </Placemark>
+         <name>kml_scatter3</name>
+         <id>kml_scatter3tpfd9ee2d8_234e_4d14_b3c3_292033ad1eec</id>
+      </Folder>
+      <Folder>
+         <Placemark id="kml_scatter3tpf6f21fc9_b1fc_4735_93fe_f031c624630c_1">
+            <name/>
+            <visibility>1</visibility>
+            <description>Ground Station 85
+
+Bandwidth: 2.49 Gbps</description>
+            <Style>
+               <IconStyle>
+                  <color>FFAAAA00</color>
+                  <scale>0.2</scale>
+                  <Icon>
+                     <href>http://maps.google.com/mapfiles/kml/pal2/icon18.png</href>
+                  </Icon>
+               </IconStyle>
+            </Style>
+            <Point id="Point_kml_scatter3tpf6f21fc9_b1fc_4735_93fe_f031c624630c">
+               <altitudeMode>relativeToGround</altitudeMode>
+               <coordinates>129.9,32.8,0 </coordinates>
+            </Point>
+         </Placemark>
+         <name>kml_scatter3</name>
+         <id>kml_scatter3tpf6f21fc9_b1fc_4735_93fe_f031c624630c</id>
+      </Folder>
+      <Folder>
+         <Placemark id="kml_scatter3tp0e96c466_c069_4b20_adab_c20ff0ed077e_1">
+            <name/>
+            <visibility>1</visibility>
+            <description>Ground Station 86
+
+Bandwidth: 1.94 Gbps</description>
+            <Style>
+               <IconStyle>
+                  <color>FFAAAA00</color>
+                  <scale>0.2</scale>
+                  <Icon>
+                     <href>http://maps.google.com/mapfiles/kml/pal2/icon18.png</href>
+                  </Icon>
+               </IconStyle>
+            </Style>
+            <Point id="Point_kml_scatter3tp0e96c466_c069_4b20_adab_c20ff0ed077e">
+               <altitudeMode>relativeToGround</altitudeMode>
+               <coordinates>136.9,35.1,0 </coordinates>
+            </Point>
+         </Placemark>
+         <name>kml_scatter3</name>
+         <id>kml_scatter3tp0e96c466_c069_4b20_adab_c20ff0ed077e</id>
+      </Folder>
+      <Folder>
+         <Placemark id="kml_scatter3tp7fcf6b7d_c39c_4fef_854a_9ba1c439bb4a_1">
+            <name/>
+            <visibility>1</visibility>
+            <description>Ground Station 87
+
+Bandwidth: 2.31 Gbps</description>
+            <Style>
+               <IconStyle>
+                  <color>FFAAAA00</color>
+                  <scale>0.2</scale>
+                  <Icon>
+                     <href>http://maps.google.com/mapfiles/kml/pal2/icon18.png</href>
+                  </Icon>
+               </IconStyle>
+            </Style>
+            <Point id="Point_kml_scatter3tp7fcf6b7d_c39c_4fef_854a_9ba1c439bb4a">
+               <altitudeMode>relativeToGround</altitudeMode>
+               <coordinates>36.9,-1.4,0 </coordinates>
+            </Point>
+         </Placemark>
+         <name>kml_scatter3</name>
+         <id>kml_scatter3tp7fcf6b7d_c39c_4fef_854a_9ba1c439bb4a</id>
+      </Folder>
+      <Folder>
+         <Placemark id="kml_scatter3tp6123a481_ebb2_4eb4_be66_1b3dec839930_1">
+            <name/>
+            <visibility>1</visibility>
+            <description>Ground Station 88
+
+Bandwidth: 2.32 Gbps</description>
+            <Style>
+               <IconStyle>
+                  <color>FFAAAA00</color>
+                  <scale>0.2</scale>
+                  <Icon>
+                     <href>http://maps.google.com/mapfiles/kml/pal2/icon18.png</href>
+                  </Icon>
+               </IconStyle>
+            </Style>
+            <Point id="Point_kml_scatter3tp6123a481_ebb2_4eb4_be66_1b3dec839930">
+               <altitudeMode>relativeToGround</altitudeMode>
+               <coordinates>118.9,32.1,0 </coordinates>
+            </Point>
+         </Placemark>
+         <name>kml_scatter3</name>
+         <id>kml_scatter3tp6123a481_ebb2_4eb4_be66_1b3dec839930</id>
+      </Folder>
+      <Folder>
+         <Placemark id="kml_scatter3tp50100dfd_ad16_475a_a805_36a0e933e53f_1">
+            <name/>
+            <visibility>1</visibility>
+            <description>Ground Station 89
+
+Bandwidth: 1.73 Gbps</description>
+            <Style>
+               <IconStyle>
+                  <color>FFAAAA00</color>
+                  <scale>0.2</scale>
+                  <Icon>
+                     <href>http://maps.google.com/mapfiles/kml/pal2/icon18.png</href>
+                  </Icon>
+               </IconStyle>
+            </Style>
+            <Point id="Point_kml_scatter3tp50100dfd_ad16_475a_a805_36a0e933e53f">
+               <altitudeMode>relativeToGround</altitudeMode>
+               <coordinates>14.25,40.8,0 </coordinates>
+            </Point>
+         </Placemark>
+         <name>kml_scatter3</name>
+         <id>kml_scatter3tp50100dfd_ad16_475a_a805_36a0e933e53f</id>
+      </Folder>
+      <Folder>
+         <Placemark id="kml_scatter3tp8b344579_14f3_4e01_8cc6_a91184001716_1">
+            <name/>
+            <visibility>1</visibility>
+            <description>Ground Station 90
+
+Bandwidth: 2.14 Gbps</description>
+            <Style>
+               <IconStyle>
+                  <color>FFAAAA00</color>
+                  <scale>0.2</scale>
+                  <Icon>
+                     <href>http://maps.google.com/mapfiles/kml/pal2/icon18.png</href>
+                  </Icon>
+               </IconStyle>
+            </Style>
+            <Point id="Point_kml_scatter3tp8b344579_14f3_4e01_8cc6_a91184001716">
+               <altitudeMode>relativeToGround</altitudeMode>
+               <coordinates>77.2,28.6,0 </coordinates>
+            </Point>
+         </Placemark>
+         <name>kml_scatter3</name>
+         <id>kml_scatter3tp8b344579_14f3_4e01_8cc6_a91184001716</id>
+      </Folder>
+      <Folder>
+         <Placemark id="kml_scatter3tp7a456472_fb5c_44d3_ac9e_866abbc2c80d_1">
+            <name/>
+            <visibility>1</visibility>
+            <description>Ground Station 91
+
+Bandwidth: 1.76 Gbps</description>
+            <Style>
+               <IconStyle>
+                  <color>FFAAAA00</color>
+                  <scale>0.2</scale>
+                  <Icon>
+                     <href>http://maps.google.com/mapfiles/kml/pal2/icon18.png</href>
+                  </Icon>
+               </IconStyle>
+            </Style>
+            <Point id="Point_kml_scatter3tp7a456472_fb5c_44d3_ac9e_866abbc2c80d">
+               <altitudeMode>relativeToGround</altitudeMode>
+               <coordinates>-1.4,54.9,0 </coordinates>
+            </Point>
+         </Placemark>
+         <name>kml_scatter3</name>
+         <id>kml_scatter3tp7a456472_fb5c_44d3_ac9e_866abbc2c80d</id>
+      </Folder>
+      <Folder>
+         <Placemark id="kml_scatter3tp3c87ef04_050e_4d9e_83e0_cc8e3877bb8d_1">
+            <name/>
+            <visibility>1</visibility>
+            <description>Ground Station 92
+
+Bandwidth: 1.62 Gbps</description>
+            <Style>
+               <IconStyle>
+                  <color>FFAAAA00</color>
+                  <scale>0.2</scale>
+                  <Icon>
+                     <href>http://maps.google.com/mapfiles/kml/pal2/icon18.png</href>
+                  </Icon>
+               </IconStyle>
+            </Style>
+            <Point id="Point_kml_scatter3tp3c87ef04_050e_4d9e_83e0_cc8e3877bb8d">
+               <altitudeMode>relativeToGround</altitudeMode>
+               <coordinates>30.8,46.5,0 </coordinates>
+            </Point>
+         </Placemark>
+         <name>kml_scatter3</name>
+         <id>kml_scatter3tp3c87ef04_050e_4d9e_83e0_cc8e3877bb8d</id>
+      </Folder>
+      <Folder>
+         <Placemark id="kml_scatter3tp008ff734_9879_48e0_8ab6_7bb7d40c0a41_1">
+            <name/>
+            <visibility>1</visibility>
+            <description>Ground Station 93
+
+Bandwidth: 1.91 Gbps</description>
+            <Style>
+               <IconStyle>
+                  <color>FFAAAA00</color>
+                  <scale>0.2</scale>
+                  <Icon>
+                     <href>http://maps.google.com/mapfiles/kml/pal2/icon18.png</href>
+                  </Icon>
+               </IconStyle>
+            </Style>
+            <Point id="Point_kml_scatter3tp008ff734_9879_48e0_8ab6_7bb7d40c0a41">
+               <altitudeMode>relativeToGround</altitudeMode>
+               <coordinates>135.4,34.5,0 </coordinates>
+            </Point>
+         </Placemark>
+         <name>kml_scatter3</name>
+         <id>kml_scatter3tp008ff734_9879_48e0_8ab6_7bb7d40c0a41</id>
+      </Folder>
+      <Folder>
+         <Placemark id="kml_scatter3tp682e00dc_b048_4d18_94cb_4a303100d101_1">
+            <name/>
+            <visibility>1</visibility>
+            <description>Ground Station 94
+
+Bandwidth: 1.56 Gbps</description>
+            <Style>
+               <IconStyle>
+                  <color>FFAAAA00</color>
+                  <scale>0.2</scale>
+                  <Icon>
+                     <href>http://maps.google.com/mapfiles/kml/pal2/icon18.png</href>
+                  </Icon>
+               </IconStyle>
+            </Style>
+            <Point id="Point_kml_scatter3tp682e00dc_b048_4d18_94cb_4a303100d101">
+               <altitudeMode>relativeToGround</altitudeMode>
+               <coordinates>10.6,59.9,0 </coordinates>
+            </Point>
+         </Placemark>
+         <name>kml_scatter3</name>
+         <id>kml_scatter3tp682e00dc_b048_4d18_94cb_4a303100d101</id>
+      </Folder>
+      <Folder>
+         <Placemark id="kml_scatter3tp68a5fb3c_4e40_42ae_af88_e15f16fffc18_1">
+            <name/>
+            <visibility>1</visibility>
+            <description>Ground Station 95
+
+Bandwidth: 1.61 Gbps</description>
+            <Style>
+               <IconStyle>
+                  <color>FFAAAA00</color>
+                  <scale>0.2</scale>
+                  <Icon>
+                     <href>http://maps.google.com/mapfiles/kml/pal2/icon18.png</href>
+                  </Icon>
+               </IconStyle>
+            </Style>
+            <Point id="Point_kml_scatter3tp68a5fb3c_4e40_42ae_af88_e15f16fffc18">
+               <altitudeMode>relativeToGround</altitudeMode>
+               <coordinates>-79.5,8.9,0 </coordinates>
+            </Point>
+         </Placemark>
+         <name>kml_scatter3</name>
+         <id>kml_scatter3tp68a5fb3c_4e40_42ae_af88_e15f16fffc18</id>
+      </Folder>
+      <Folder>
+         <Placemark id="kml_scatter3tp97c88b84_dfd2_4e89_894b_2fbf90d19225_1">
+            <name/>
+            <visibility>1</visibility>
+            <description>Ground Station 96
+
+Bandwidth: 2.03 Gbps</description>
+            <Style>
+               <IconStyle>
+                  <color>FFAAAA00</color>
+                  <scale>0.2</scale>
+                  <Icon>
+                     <href>http://maps.google.com/mapfiles/kml/pal2/icon18.png</href>
+                  </Icon>
+               </IconStyle>
+            </Style>
+            <Point id="Point_kml_scatter3tp97c88b84_dfd2_4e89_894b_2fbf90d19225">
+               <altitudeMode>relativeToGround</altitudeMode>
+               <coordinates>-55.25,5.75,0 </coordinates>
+            </Point>
+         </Placemark>
+         <name>kml_scatter3</name>
+         <id>kml_scatter3tp97c88b84_dfd2_4e89_894b_2fbf90d19225</id>
+      </Folder>
+      <Folder>
+         <Placemark id="kml_scatter3tp9746ad77_62f1_4e12_96ac_daaa584a2204_1">
+            <name/>
+            <visibility>1</visibility>
+            <description>Ground Station 97
+
+Bandwidth: 1.71 Gbps</description>
+            <Style>
+               <IconStyle>
+                  <color>FFAAAA00</color>
+                  <scale>0.2</scale>
+                  <Icon>
+                     <href>http://maps.google.com/mapfiles/kml/pal2/icon18.png</href>
+                  </Icon>
+               </IconStyle>
+            </Style>
+            <Point id="Point_kml_scatter3tp9746ad77_62f1_4e12_96ac_daaa584a2204">
+               <altitudeMode>relativeToGround</altitudeMode>
+               <coordinates>2.3,48.8,0 </coordinates>
+            </Point>
+         </Placemark>
+         <name>kml_scatter3</name>
+         <id>kml_scatter3tp9746ad77_62f1_4e12_96ac_daaa584a2204</id>
+      </Folder>
+      <Folder>
+         <Placemark id="kml_scatter3tp54fe77d3_b4bb_466b_a68e_db4a89812c1b_1">
+            <name/>
+            <visibility>1</visibility>
+            <description>Ground Station 98
+
+Bandwidth: 1.52 Gbps</description>
+            <Style>
+               <IconStyle>
+                  <color>FFAAAA00</color>
+                  <scale>0.2</scale>
+                  <Icon>
+                     <href>http://maps.google.com/mapfiles/kml/pal2/icon18.png</href>
+                  </Icon>
+               </IconStyle>
+            </Style>
+            <Point id="Point_kml_scatter3tp54fe77d3_b4bb_466b_a68e_db4a89812c1b">
+               <altitudeMode>relativeToGround</altitudeMode>
+               <coordinates>115.8,31.9,0 </coordinates>
+            </Point>
+         </Placemark>
+         <name>kml_scatter3</name>
+         <id>kml_scatter3tp54fe77d3_b4bb_466b_a68e_db4a89812c1b</id>
+      </Folder>
+      <Folder>
+         <Placemark id="kml_scatter3tpbdd09417_5bc9_493e_8fdc_b62a5eb75660_1">
+            <name/>
+            <visibility>1</visibility>
+            <description>Ground Station 99
+
+Bandwidth: 2.5 Gbps</description>
+            <Style>
+               <IconStyle>
+                  <color>FFAAAA00</color>
+                  <scale>0.2</scale>
+                  <Icon>
+                     <href>http://maps.google.com/mapfiles/kml/pal2/icon18.png</href>
+                  </Icon>
+               </IconStyle>
+            </Style>
+            <Point id="Point_kml_scatter3tpbdd09417_5bc9_493e_8fdc_b62a5eb75660">
+               <altitudeMode>relativeToGround</altitudeMode>
+               <coordinates>-4.1,50.4,0 </coordinates>
+            </Point>
+         </Placemark>
+         <name>kml_scatter3</name>
+         <id>kml_scatter3tpbdd09417_5bc9_493e_8fdc_b62a5eb75660</id>
+      </Folder>
+      <Folder>
+         <Placemark id="kml_scatter3tp386cd39e_0248_4b75_a565_b4ee90b3f020_1">
+            <name/>
+            <visibility>1</visibility>
+            <description>Ground Station 100
+
+Bandwidth: 2.25 Gbps</description>
+            <Style>
+               <IconStyle>
+                  <color>FFAAAA00</color>
+                  <scale>0.2</scale>
+                  <Icon>
+                     <href>http://maps.google.com/mapfiles/kml/pal2/icon18.png</href>
+                  </Icon>
+               </IconStyle>
+            </Style>
+            <Point id="Point_kml_scatter3tp386cd39e_0248_4b75_a565_b4ee90b3f020">
+               <altitudeMode>relativeToGround</altitudeMode>
+               <coordinates>147.1,-9.4,0 </coordinates>
+            </Point>
+         </Placemark>
+         <name>kml_scatter3</name>
+         <id>kml_scatter3tp386cd39e_0248_4b75_a565_b4ee90b3f020</id>
+      </Folder>
+      <Folder>
+         <Placemark id="kml_scatter3tp674ddc55_98ae_40ba_b22e_4f5b21b26c15_1">
+            <name/>
+            <visibility>1</visibility>
+            <description>Ground Station 101
+
+Bandwidth: 2.49 Gbps</description>
+            <Style>
+               <IconStyle>
+                  <color>FFAAAA00</color>
+                  <scale>0.2</scale>
+                  <Icon>
+                     <href>http://maps.google.com/mapfiles/kml/pal2/icon18.png</href>
+                  </Icon>
+               </IconStyle>
+            </Style>
+            <Point id="Point_kml_scatter3tp674ddc55_98ae_40ba_b22e_4f5b21b26c15">
+               <altitudeMode>relativeToGround</altitudeMode>
+               <coordinates>14.5,50.1,0 </coordinates>
+            </Point>
+         </Placemark>
+         <name>kml_scatter3</name>
+         <id>kml_scatter3tp674ddc55_98ae_40ba_b22e_4f5b21b26c15</id>
+      </Folder>
+      <Folder>
+         <Placemark id="kml_scatter3tpe974e0eb_5da1_4090_be72_aadda45a3765_1">
+            <name/>
+            <visibility>1</visibility>
+            <description>Ground Station 102
+
+Bandwidth: 2.46 Gbps</description>
+            <Style>
+               <IconStyle>
+                  <color>FFAAAA00</color>
+                  <scale>0.2</scale>
+                  <Icon>
+                     <href>http://maps.google.com/mapfiles/kml/pal2/icon18.png</href>
+                  </Icon>
+               </IconStyle>
+            </Style>
+            <Point id="Point_kml_scatter3tpe974e0eb_5da1_4090_be72_aadda45a3765">
+               <altitudeMode>relativeToGround</altitudeMode>
+               <coordinates>96,16.8,0 </coordinates>
+            </Point>
+         </Placemark>
+         <name>kml_scatter3</name>
+         <id>kml_scatter3tpe974e0eb_5da1_4090_be72_aadda45a3765</id>
+      </Folder>
+      <Folder>
+         <Placemark id="kml_scatter3tpdd28768e_ffcb_4c7f_ac58_66a786fd683f_1">
+            <name/>
+            <visibility>1</visibility>
+            <description>Ground Station 103
+
+Bandwidth: 1.97 Gbps</description>
+            <Style>
+               <IconStyle>
+                  <color>FFAAAA00</color>
+                  <scale>0.2</scale>
+                  <Icon>
+                     <href>http://maps.google.com/mapfiles/kml/pal2/icon18.png</href>
+                  </Icon>
+               </IconStyle>
+            </Style>
+            <Point id="Point_kml_scatter3tpdd28768e_ffcb_4c7f_ac58_66a786fd683f">
+               <altitudeMode>relativeToGround</altitudeMode>
+               <coordinates>-21.9,64.09999999999999,0 </coordinates>
+            </Point>
+         </Placemark>
+         <name>kml_scatter3</name>
+         <id>kml_scatter3tpdd28768e_ffcb_4c7f_ac58_66a786fd683f</id>
+      </Folder>
+      <Folder>
+         <Placemark id="kml_scatter3tp409b9270_e0ae_46a9_bd9d_57d721d14ed4_1">
+            <name/>
+            <visibility>1</visibility>
+            <description>Ground Station 104
+
+Bandwidth: 2.49 Gbps</description>
+            <Style>
+               <IconStyle>
+                  <color>FFAAAA00</color>
+                  <scale>0.2</scale>
+                  <Icon>
+                     <href>http://maps.google.com/mapfiles/kml/pal2/icon18.png</href>
+                  </Icon>
+               </IconStyle>
+            </Style>
+            <Point id="Point_kml_scatter3tp409b9270_e0ae_46a9_bd9d_57d721d14ed4">
+               <altitudeMode>relativeToGround</altitudeMode>
+               <coordinates>-43.2,-22.9,0 </coordinates>
+            </Point>
+         </Placemark>
+         <name>kml_scatter3</name>
+         <id>kml_scatter3tp409b9270_e0ae_46a9_bd9d_57d721d14ed4</id>
+      </Folder>
+      <Folder>
+         <Placemark id="kml_scatter3tpc67199df_7275_410e_9a3e_d51e3fb002ef_1">
+            <name/>
+            <visibility>1</visibility>
+            <description>Ground Station 105
+
+Bandwidth: 2.36 Gbps</description>
+            <Style>
+               <IconStyle>
+                  <color>FFAAAA00</color>
+                  <scale>0.2</scale>
+                  <Icon>
+                     <href>http://maps.google.com/mapfiles/kml/pal2/icon18.png</href>
+                  </Icon>
+               </IconStyle>
+            </Style>
+            <Point id="Point_kml_scatter3tpc67199df_7275_410e_9a3e_d51e3fb002ef">
+               <altitudeMode>relativeToGround</altitudeMode>
+               <coordinates>12.5,41.9,0 </coordinates>
+            </Point>
+         </Placemark>
+         <name>kml_scatter3</name>
+         <id>kml_scatter3tpc67199df_7275_410e_9a3e_d51e3fb002ef</id>
+      </Folder>
+      <Folder>
+         <Placemark id="kml_scatter3tp209c0759_86a7_4c2c_a850_6ecf05281814_1">
+            <name/>
+            <visibility>1</visibility>
+            <description>Ground Station 106
+
+Bandwidth: 1.81 Gbps</description>
+            <Style>
+               <IconStyle>
+                  <color>FFAAAA00</color>
+                  <scale>0.2</scale>
+                  <Icon>
+                     <href>http://maps.google.com/mapfiles/kml/pal2/icon18.png</href>
+                  </Icon>
+               </IconStyle>
+            </Style>
+            <Point id="Point_kml_scatter3tp209c0759_86a7_4c2c_a850_6ecf05281814">
+               <altitudeMode>relativeToGround</altitudeMode>
+               <coordinates>-38.5,-12.9,0 </coordinates>
+            </Point>
+         </Placemark>
+         <name>kml_scatter3</name>
+         <id>kml_scatter3tp209c0759_86a7_4c2c_a850_6ecf05281814</id>
+      </Folder>
+      <Folder>
+         <Placemark id="kml_scatter3tpbbd448b9_4903_47f3_90ed_6af02798688f_1">
+            <name/>
+            <visibility>1</visibility>
+            <description>Ground Station 107
+
+Bandwidth: 2.46 Gbps</description>
+            <Style>
+               <IconStyle>
+                  <color>FFAAAA00</color>
+                  <scale>0.2</scale>
+                  <Icon>
+                     <href>http://maps.google.com/mapfiles/kml/pal2/icon18.png</href>
+                  </Icon>
+               </IconStyle>
+            </Style>
+            <Point id="Point_kml_scatter3tpbbd448b9_4903_47f3_90ed_6af02798688f">
+               <altitudeMode>relativeToGround</altitudeMode>
+               <coordinates>-70.75,-33.5,0 </coordinates>
+            </Point>
+         </Placemark>
+         <name>kml_scatter3</name>
+         <id>kml_scatter3tpbbd448b9_4903_47f3_90ed_6af02798688f</id>
+      </Folder>
+      <Folder>
+         <Placemark id="kml_scatter3tp50369496_e735_4b93_ab1b_77efd8d50338_1">
+            <name/>
+            <visibility>1</visibility>
+            <description>Ground Station 108
+
+Bandwidth: 1.61 Gbps</description>
+            <Style>
+               <IconStyle>
+                  <color>FFAAAA00</color>
+                  <scale>0.2</scale>
+                  <Icon>
+                     <href>http://maps.google.com/mapfiles/kml/pal2/icon18.png</href>
+                  </Icon>
+               </IconStyle>
+            </Style>
+            <Point id="Point_kml_scatter3tp50369496_e735_4b93_ab1b_77efd8d50338">
+               <altitudeMode>relativeToGround</altitudeMode>
+               <coordinates>30.4,59.9,0 </coordinates>
+            </Point>
+         </Placemark>
+         <name>kml_scatter3</name>
+         <id>kml_scatter3tp50369496_e735_4b93_ab1b_77efd8d50338</id>
+      </Folder>
+      <Folder>
+         <Placemark id="kml_scatter3tpca275396_cef3_436a_bb15_3f1734e03c31_1">
+            <name/>
+            <visibility>1</visibility>
+            <description>Ground Station 109
+
+Bandwidth: 1.61 Gbps</description>
+            <Style>
+               <IconStyle>
+                  <color>FFAAAA00</color>
+                  <scale>0.2</scale>
+                  <Icon>
+                     <href>http://maps.google.com/mapfiles/kml/pal2/icon18.png</href>
+                  </Icon>
+               </IconStyle>
+            </Style>
+            <Point id="Point_kml_scatter3tpca275396_cef3_436a_bb15_3f1734e03c31">
+               <altitudeMode>relativeToGround</altitudeMode>
+               <coordinates>-46.5,-23.5,0 </coordinates>
+            </Point>
+         </Placemark>
+         <name>kml_scatter3</name>
+         <id>kml_scatter3tpca275396_cef3_436a_bb15_3f1734e03c31</id>
+      </Folder>
+      <Folder>
+         <Placemark id="kml_scatter3tp2598a42f_4be0_49f6_bbb6_d7d1f55eedcd_1">
+            <name/>
+            <visibility>1</visibility>
+            <description>Ground Station 110
+
+Bandwidth: 1.5 Gbps</description>
+            <Style>
+               <IconStyle>
+                  <color>FFAAAA00</color>
+                  <scale>0.2</scale>
+                  <Icon>
+                     <href>http://maps.google.com/mapfiles/kml/pal2/icon18.png</href>
+                  </Icon>
+               </IconStyle>
+            </Style>
+            <Point id="Point_kml_scatter3tp2598a42f_4be0_49f6_bbb6_d7d1f55eedcd">
+               <altitudeMode>relativeToGround</altitudeMode>
+               <coordinates>121.5,31.1,0 </coordinates>
+            </Point>
+         </Placemark>
+         <name>kml_scatter3</name>
+         <id>kml_scatter3tp2598a42f_4be0_49f6_bbb6_d7d1f55eedcd</id>
+      </Folder>
+      <Folder>
+         <Placemark id="kml_scatter3tpb67a589b_d4f3_4409_ae52_af41884e40b9_1">
+            <name/>
+            <visibility>1</visibility>
+            <description>Ground Station 111
+
+Bandwidth: 1.8 Gbps</description>
+            <Style>
+               <IconStyle>
+                  <color>FFAAAA00</color>
+                  <scale>0.2</scale>
+                  <Icon>
+                     <href>http://maps.google.com/mapfiles/kml/pal2/icon18.png</href>
+                  </Icon>
+               </IconStyle>
+            </Style>
+            <Point id="Point_kml_scatter3tpb67a589b_d4f3_4409_ae52_af41884e40b9">
+               <altitudeMode>relativeToGround</altitudeMode>
+               <coordinates>103.9,1.25,0 </coordinates>
+            </Point>
+         </Placemark>
+         <name>kml_scatter3</name>
+         <id>kml_scatter3tpb67a589b_d4f3_4409_ae52_af41884e40b9</id>
+      </Folder>
+      <Folder>
+         <Placemark id="kml_scatter3tpdd81aa9c_3028_451d_898d_ee977c3bc6ac_1">
+            <name/>
+            <visibility>1</visibility>
+            <description>Ground Station 112
+
+Bandwidth: 1.87 Gbps</description>
+            <Style>
+               <IconStyle>
+                  <color>FFAAAA00</color>
+                  <scale>0.2</scale>
+                  <Icon>
+                     <href>http://maps.google.com/mapfiles/kml/pal2/icon18.png</href>
+                  </Icon>
+               </IconStyle>
+            </Style>
+            <Point id="Point_kml_scatter3tpdd81aa9c_3028_451d_898d_ee977c3bc6ac">
+               <altitudeMode>relativeToGround</altitudeMode>
+               <coordinates>23.4,42.6,0 </coordinates>
+            </Point>
+         </Placemark>
+         <name>kml_scatter3</name>
+         <id>kml_scatter3tpdd81aa9c_3028_451d_898d_ee977c3bc6ac</id>
+      </Folder>
+      <Folder>
+         <Placemark id="kml_scatter3tpc61325cc_8f35_409f_8429_4ee0d383aed4_1">
+            <name/>
+            <visibility>1</visibility>
+            <description>Ground Station 113
+
+Bandwidth: 1.62 Gbps</description>
+            <Style>
+               <IconStyle>
+                  <color>FFAAAA00</color>
+                  <scale>0.2</scale>
+                  <Icon>
+                     <href>http://maps.google.com/mapfiles/kml/pal2/icon18.png</href>
+                  </Icon>
+               </IconStyle>
+            </Style>
+            <Point id="Point_kml_scatter3tpc61325cc_8f35_409f_8429_4ee0d383aed4">
+               <altitudeMode>relativeToGround</altitudeMode>
+               <coordinates>18.1,59.3,0 </coordinates>
+            </Point>
+         </Placemark>
+         <name>kml_scatter3</name>
+         <id>kml_scatter3tpc61325cc_8f35_409f_8429_4ee0d383aed4</id>
+      </Folder>
+      <Folder>
+         <Placemark id="kml_scatter3tp886ee642_c05e_44ef_9c5c_e78e1f78d054_1">
+            <name/>
+            <visibility>1</visibility>
+            <description>Ground Station 114
+
+Bandwidth: 2.21 Gbps</description>
+            <Style>
+               <IconStyle>
+                  <color>FFAAAA00</color>
+                  <scale>0.2</scale>
+                  <Icon>
+                     <href>http://maps.google.com/mapfiles/kml/pal2/icon18.png</href>
+                  </Icon>
+               </IconStyle>
+            </Style>
+            <Point id="Point_kml_scatter3tp886ee642_c05e_44ef_9c5c_e78e1f78d054">
+               <altitudeMode>relativeToGround</altitudeMode>
+               <coordinates>151,-34,0 </coordinates>
+            </Point>
+         </Placemark>
+         <name>kml_scatter3</name>
+         <id>kml_scatter3tp886ee642_c05e_44ef_9c5c_e78e1f78d054</id>
+      </Folder>
+      <Folder>
+         <Placemark id="kml_scatter3tp7998fc94_591c_452a_ba9f_a560ba37bb8d_1">
+            <name/>
+            <visibility>1</visibility>
+            <description>Ground Station 115
+
+Bandwidth: 2.46 Gbps</description>
+            <Style>
+               <IconStyle>
+                  <color>FFAAAA00</color>
+                  <scale>0.2</scale>
+                  <Icon>
+                     <href>http://maps.google.com/mapfiles/kml/pal2/icon18.png</href>
+                  </Icon>
+               </IconStyle>
+            </Style>
+            <Point id="Point_kml_scatter3tp7998fc94_591c_452a_ba9f_a560ba37bb8d">
+               <altitudeMode>relativeToGround</altitudeMode>
+               <coordinates>47.5,-18.9,0 </coordinates>
+            </Point>
+         </Placemark>
+         <name>kml_scatter3</name>
+         <id>kml_scatter3tp7998fc94_591c_452a_ba9f_a560ba37bb8d</id>
+      </Folder>
+      <Folder>
+         <Placemark id="kml_scatter3tpbd939983_2307_462f_87a5_1a3ec69c4ec6_1">
+            <name/>
+            <visibility>1</visibility>
+            <description>Ground Station 116
+
+Bandwidth: 1.82 Gbps</description>
+            <Style>
+               <IconStyle>
+                  <color>FFAAAA00</color>
+                  <scale>0.2</scale>
+                  <Icon>
+                     <href>http://maps.google.com/mapfiles/kml/pal2/icon18.png</href>
+                  </Icon>
+               </IconStyle>
+            </Style>
+            <Point id="Point_kml_scatter3tpbd939983_2307_462f_87a5_1a3ec69c4ec6">
+               <altitudeMode>relativeToGround</altitudeMode>
+               <coordinates>51.75,35.75,0 </coordinates>
+            </Point>
+         </Placemark>
+         <name>kml_scatter3</name>
+         <id>kml_scatter3tpbd939983_2307_462f_87a5_1a3ec69c4ec6</id>
+      </Folder>
+      <Folder>
+         <Placemark id="kml_scatter3tp6cacdc23_5170_4150_8749_7c75c99f7e84_1">
+            <name/>
+            <visibility>1</visibility>
+            <description>Ground Station 117
+
+Bandwidth: 2.29 Gbps</description>
+            <Style>
+               <IconStyle>
+                  <color>FFAAAA00</color>
+                  <scale>0.2</scale>
+                  <Icon>
+                     <href>http://maps.google.com/mapfiles/kml/pal2/icon18.png</href>
+                  </Icon>
+               </IconStyle>
+            </Style>
+            <Point id="Point_kml_scatter3tp6cacdc23_5170_4150_8749_7c75c99f7e84">
+               <altitudeMode>relativeToGround</altitudeMode>
+               <coordinates>139.75,35.6,0 </coordinates>
+            </Point>
+         </Placemark>
+         <name>kml_scatter3</name>
+         <id>kml_scatter3tp6cacdc23_5170_4150_8749_7c75c99f7e84</id>
+      </Folder>
+      <Folder>
+         <Placemark id="kml_scatter3tpc62ae15e_b0a3_4d33_ae8a_cc02a6a37b03_1">
+            <name/>
+            <visibility>1</visibility>
+            <description>Ground Station 118
+
+Bandwidth: 2.17 Gbps</description>
+            <Style>
+               <IconStyle>
+                  <color>FFAAAA00</color>
+                  <scale>0.2</scale>
+                  <Icon>
+                     <href>http://maps.google.com/mapfiles/kml/pal2/icon18.png</href>
+                  </Icon>
+               </IconStyle>
+            </Style>
+            <Point id="Point_kml_scatter3tpc62ae15e_b0a3_4d33_ae8a_cc02a6a37b03">
+               <altitudeMode>relativeToGround</altitudeMode>
+               <coordinates>13.2,32.9,0 </coordinates>
+            </Point>
+         </Placemark>
+         <name>kml_scatter3</name>
+         <id>kml_scatter3tpc62ae15e_b0a3_4d33_ae8a_cc02a6a37b03</id>
+      </Folder>
+      <Folder>
+         <Placemark id="kml_scatter3tp46e92358_d327_4988_bbae_b77c205d1121_1">
+            <name/>
+            <visibility>1</visibility>
+            <description>Ground Station 119
+
+Bandwidth: 1.61 Gbps</description>
+            <Style>
+               <IconStyle>
+                  <color>FFAAAA00</color>
+                  <scale>0.2</scale>
+                  <Icon>
+                     <href>http://maps.google.com/mapfiles/kml/pal2/icon18.png</href>
+                  </Icon>
+               </IconStyle>
+            </Style>
+            <Point id="Point_kml_scatter3tp46e92358_d327_4988_bbae_b77c205d1121">
+               <altitudeMode>relativeToGround</altitudeMode>
+               <coordinates>12.4,45.5,0 </coordinates>
+            </Point>
+         </Placemark>
+         <name>kml_scatter3</name>
+         <id>kml_scatter3tp46e92358_d327_4988_bbae_b77c205d1121</id>
+      </Folder>
+      <Folder>
+         <Placemark id="kml_scatter3tp23a163a5_aa6f_4ef1_96f1_6f26e2f94f36_1">
+            <name/>
+            <visibility>1</visibility>
+            <description>Ground Station 120
+
+Bandwidth: 2.23 Gbps</description>
+            <Style>
+               <IconStyle>
+                  <color>FFAAAA00</color>
+                  <scale>0.2</scale>
+                  <Icon>
+                     <href>http://maps.google.com/mapfiles/kml/pal2/icon18.png</href>
+                  </Icon>
+               </IconStyle>
+            </Style>
+            <Point id="Point_kml_scatter3tp23a163a5_aa6f_4ef1_96f1_6f26e2f94f36">
+               <altitudeMode>relativeToGround</altitudeMode>
+               <coordinates>-96.2,19.2,0 </coordinates>
+            </Point>
+         </Placemark>
+         <name>kml_scatter3</name>
+         <id>kml_scatter3tp23a163a5_aa6f_4ef1_96f1_6f26e2f94f36</id>
+      </Folder>
+      <Folder>
+         <Placemark id="kml_scatter3tp69fb9dba_9517_4192_a938_46065dd304fb_1">
+            <name/>
+            <visibility>1</visibility>
+            <description>Ground Station 121
+
+Bandwidth: 2.39 Gbps</description>
+            <Style>
+               <IconStyle>
+                  <color>FFAAAA00</color>
+                  <scale>0.2</scale>
+                  <Icon>
+                     <href>http://maps.google.com/mapfiles/kml/pal2/icon18.png</href>
+                  </Icon>
+               </IconStyle>
+            </Style>
+            <Point id="Point_kml_scatter3tp69fb9dba_9517_4192_a938_46065dd304fb">
+               <altitudeMode>relativeToGround</altitudeMode>
+               <coordinates>16.3,48.25,0 </coordinates>
+            </Point>
+         </Placemark>
+         <name>kml_scatter3</name>
+         <id>kml_scatter3tp69fb9dba_9517_4192_a938_46065dd304fb</id>
+      </Folder>
+      <Folder>
+         <Placemark id="kml_scatter3tp45a2a38e_dc11_423e_b2c8_90441c0bb996_1">
+            <name/>
+            <visibility>1</visibility>
+            <description>Ground Station 122
+
+Bandwidth: 1.5 Gbps</description>
+            <Style>
+               <IconStyle>
+                  <color>FFAAAA00</color>
+                  <scale>0.2</scale>
+                  <Icon>
+                     <href>http://maps.google.com/mapfiles/kml/pal2/icon18.png</href>
+                  </Icon>
+               </IconStyle>
+            </Style>
+            <Point id="Point_kml_scatter3tp45a2a38e_dc11_423e_b2c8_90441c0bb996">
+               <altitudeMode>relativeToGround</altitudeMode>
+               <coordinates>132.1,43.2,0 </coordinates>
+            </Point>
+         </Placemark>
+         <name>kml_scatter3</name>
+         <id>kml_scatter3tp45a2a38e_dc11_423e_b2c8_90441c0bb996</id>
+      </Folder>
+      <Folder>
+         <Placemark id="kml_scatter3tp9f592e2f_eabf_4ad8_b955_2d5b755587f0_1">
+            <name/>
+            <visibility>1</visibility>
+            <description>Ground Station 123
+
+Bandwidth: 1.6 Gbps</description>
+            <Style>
+               <IconStyle>
+                  <color>FFAAAA00</color>
+                  <scale>0.2</scale>
+                  <Icon>
+                     <href>http://maps.google.com/mapfiles/kml/pal2/icon18.png</href>
+                  </Icon>
+               </IconStyle>
+            </Style>
+            <Point id="Point_kml_scatter3tp9f592e2f_eabf_4ad8_b955_2d5b755587f0">
+               <altitudeMode>relativeToGround</altitudeMode>
+               <coordinates>21.1,52.25,0 </coordinates>
+            </Point>
+         </Placemark>
+         <name>kml_scatter3</name>
+         <id>kml_scatter3tp9f592e2f_eabf_4ad8_b955_2d5b755587f0</id>
+      </Folder>
+      <Folder>
+         <Placemark id="kml_scatter3tpeb7168fc_559f_4d49_90e8_f57baf39e1b1_1">
+            <name/>
+            <visibility>1</visibility>
+            <description>Ground Station 124
+
+Bandwidth: 1.87 Gbps</description>
+            <Style>
+               <IconStyle>
+                  <color>FFAAAA00</color>
+                  <scale>0.2</scale>
+                  <Icon>
+                     <href>http://maps.google.com/mapfiles/kml/pal2/icon18.png</href>
+                  </Icon>
+               </IconStyle>
+            </Style>
+            <Point id="Point_kml_scatter3tpeb7168fc_559f_4d49_90e8_f57baf39e1b1">
+               <altitudeMode>relativeToGround</altitudeMode>
+               <coordinates>174.8,-41.25,0 </coordinates>
+            </Point>
+         </Placemark>
+         <name>kml_scatter3</name>
+         <id>kml_scatter3tpeb7168fc_559f_4d49_90e8_f57baf39e1b1</id>
+      </Folder>
+      <Folder>
+         <Placemark id="kml_scatter3tp76cfdcfb_e382_4f35_8786_a0a8d28baef4_1">
+            <name/>
+            <visibility>1</visibility>
+            <description>Ground Station 125
+
+Bandwidth: 2.42 Gbps</description>
+            <Style>
+               <IconStyle>
+                  <color>FFAAAA00</color>
+                  <scale>0.2</scale>
+                  <Icon>
+                     <href>http://maps.google.com/mapfiles/kml/pal2/icon18.png</href>
+                  </Icon>
+               </IconStyle>
+            </Style>
+            <Point id="Point_kml_scatter3tp76cfdcfb_e382_4f35_8786_a0a8d28baef4">
+               <altitudeMode>relativeToGround</altitudeMode>
+               <coordinates>8.5,47.4,0 </coordinates>
+            </Point>
+         </Placemark>
+         <name>kml_scatter3</name>
+         <id>kml_scatter3tp76cfdcfb_e382_4f35_8786_a0a8d28baef4</id>
+      </Folder>
+      <Placemark id="kml_plottp1fd59305_d38d_48b9_b726_d05894541d95">
+         <name>kml_plot</name>
+         <visibility>1</visibility>
+         <description/>
+         <Style>
+            <LineStyle>
+               <color>FFFFFFFF</color>
+               <width>1</width>
+            </LineStyle>
+            <PolyStyle>
+               <color>00FFFFFF</color>
+            </PolyStyle>
+         </Style>
+         <LineString id="LineString_kml_plottp1fd59305_d38d_48b9_b726_d05894541d95">
+            <extrude>0</extrude>
+            <tesselate>1</tesselate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>-180,0,10000000 -179,0,10000000 -178,0,10000000 -177,0,10000000 -176,0,10000000 -175,0,10000000 -174,0,10000000 -173,0,10000000 -172,0,10000000 -171,0,10000000 -170,0,10000000 -169,0,10000000 -168,0,10000000 -167,0,10000000 -166,0,10000000 -165,0,10000000 -164,0,10000000 -163,0,10000000 -162,0,10000000 -161,0,10000000 -160,0,10000000 -159,0,10000000 -158,0,10000000 -157,0,10000000 -156,0,10000000 -155,0,10000000 -154,0,10000000 -153,0,10000000 -152,0,10000000 -151,0,10000000 -150,0,10000000 -149,0,10000000 -148,0,10000000 -147,0,10000000 -146,0,10000000 -145,0,10000000 -144,0,10000000 -143,0,10000000 -142,0,10000000 -141,0,10000000 -140,0,10000000 -139,0,10000000 -138,0,10000000 -137,0,10000000 -136,0,10000000 -135,0,10000000 -134,0,10000000 -133,0,10000000 -132,0,10000000 -131,0,10000000 -130,0,10000000 -129,0,10000000 -128,0,10000000 -127,0,10000000 -126,0,10000000 -125,0,10000000 -124,0,10000000 -123,0,10000000 -122,0,10000000 -121,0,10000000 -120,0,10000000 -119,0,10000000 -118,0,10000000 -117,0,10000000 -116,0,10000000 -115,0,10000000 -114,0,10000000 -113,0,10000000 -112,0,10000000 -111,0,10000000 -110,0,10000000 -109,0,10000000 -108,0,10000000 -107,0,10000000 -106,0,10000000 -105,0,10000000 -104,0,10000000 -103,0,10000000 -102,0,10000000 -101,0,10000000 -100,0,10000000 -99,0,10000000 -98,0,10000000 -97,0,10000000 -96,0,10000000 -95,0,10000000 -94,0,10000000 -93,0,10000000 -92,0,10000000 -91,0,10000000 -90,0,10000000 -89,0,10000000 -88,0,10000000 -87,0,10000000 -86,0,10000000 -85,0,10000000 -84,0,10000000 -83,0,10000000 -82,0,10000000 -81,0,10000000 -80,0,10000000 -79,0,10000000 -78,0,10000000 -77,0,10000000 -76,0,10000000 -75,0,10000000 -74,0,10000000 -73,0,10000000 -72,0,10000000 -71,0,10000000 -70,0,10000000 -69,0,10000000 -68,0,10000000 -67,0,10000000 -66,0,10000000 -65,0,10000000 -64,0,10000000 -63,0,10000000 -62,0,10000000 -61,0,10000000 -60,0,10000000 -59,0,10000000 -58,0,10000000 -57,0,10000000 -56,0,10000000 -55,0,10000000 -54,0,10000000 -53,0,10000000 -52,0,10000000 -51,0,10000000 -50,0,10000000 -49,0,10000000 -48,0,10000000 -47,0,10000000 -46,0,10000000 -45,0,10000000 -44,0,10000000 -43,0,10000000 -42,0,10000000 -41,0,10000000 -40,0,10000000 -39,0,10000000 -38,0,10000000 -37,0,10000000 -36,0,10000000 -35,0,10000000 -34,0,10000000 -33,0,10000000 -32,0,10000000 -31,0,10000000 -30,0,10000000 -29,0,10000000 -28,0,10000000 -27,0,10000000 -26,0,10000000 -25,0,10000000 -24,0,10000000 -23,0,10000000 -22,0,10000000 -21,0,10000000 -20,0,10000000 -19,0,10000000 -18,0,10000000 -17,0,10000000 -16,0,10000000 -15,0,10000000 -14,0,10000000 -13,0,10000000 -12,0,10000000 -11,0,10000000 -10,0,10000000 -9,0,10000000 -8,0,10000000 -7,0,10000000 -6,0,10000000 -5,0,10000000 -4,0,10000000 -3,0,10000000 -2,0,10000000 -1,0,10000000 0,0,10000000 1,0,10000000 2,0,10000000 3,0,10000000 4,0,10000000 5,0,10000000 6,0,10000000 7,0,10000000 8,0,10000000 9,0,10000000 10,0,10000000 11,0,10000000 12,0,10000000 13,0,10000000 14,0,10000000 15,0,10000000 16,0,10000000 17,0,10000000 18,0,10000000 19,0,10000000 20,0,10000000 21,0,10000000 22,0,10000000 23,0,10000000 24,0,10000000 25,0,10000000 26,0,10000000 27,0,10000000 28,0,10000000 29,0,10000000 30,0,10000000 31,0,10000000 32,0,10000000 33,0,10000000 34,0,10000000 35,0,10000000 36,0,10000000 37,0,10000000 38,0,10000000 39,0,10000000 40,0,10000000 41,0,10000000 42,0,10000000 43,0,10000000 44,0,10000000 45,0,10000000 46,0,10000000 47,0,10000000 48,0,10000000 49,0,10000000 50,0,10000000 51,0,10000000 52,0,10000000 53,0,10000000 54,0,10000000 55,0,10000000 56,0,10000000 57,0,10000000 58,0,10000000 59,0,10000000 60,0,10000000 61,0,10000000 62,0,10000000 63,0,10000000 64,0,10000000 65,0,10000000 66,0,10000000 67,0,10000000 68,0,10000000 69,0,10000000 70,0,10000000 71,0,10000000 72,0,10000000 73,0,10000000 74,0,10000000 75,0,10000000 76,0,10000000 77,0,10000000 78,0,10000000 79,0,10000000 80,0,10000000 81,0,10000000 82,0,10000000 83,0,10000000 84,0,10000000 85,0,10000000 86,0,10000000 87,0,10000000 88,0,10000000 89,0,10000000 90,0,10000000 91,0,10000000 92,0,10000000 93,0,10000000 94,0,10000000 95,0,10000000 96,0,10000000 97,0,10000000 98,0,10000000 99,0,10000000 100,0,10000000 101,0,10000000 102,0,10000000 103,0,10000000 104,0,10000000 105,0,10000000 106,0,10000000 107,0,10000000 108,0,10000000 109,0,10000000 110,0,10000000 111,0,10000000 112,0,10000000 113,0,10000000 114,0,10000000 115,0,10000000 116,0,10000000 117,0,10000000 118,0,10000000 119,0,10000000 120,0,10000000 121,0,10000000 122,0,10000000 123,0,10000000 124,0,10000000 125,0,10000000 126,0,10000000 127,0,10000000 128,0,10000000 129,0,10000000 130,0,10000000 131,0,10000000 132,0,10000000 133,0,10000000 134,0,10000000 135,0,10000000 136,0,10000000 137,0,10000000 138,0,10000000 139,0,10000000 140,0,10000000 141,0,10000000 142,0,10000000 143,0,10000000 144,0,10000000 145,0,10000000 146,0,10000000 147,0,10000000 148,0,10000000 149,0,10000000 150,0,10000000 151,0,10000000 152,0,10000000 153,0,10000000 154,0,10000000 155,0,10000000 156,0,10000000 157,0,10000000 158,0,10000000 159,0,10000000 160,0,10000000 161,0,10000000 162,0,10000000 163,0,10000000 164,0,10000000 165,0,10000000 166,0,10000000 167,0,10000000 168,0,10000000 169,0,10000000 170,0,10000000 171,0,10000000 172,0,10000000 173,0,10000000 174,0,10000000 175,0,10000000 176,0,10000000 177,0,10000000 178,0,10000000 179,0,10000000 180,0,10000000 </coordinates>
+         </LineString>
+      </Placemark>
+      <Folder>
+         <Placemark id="kml_scatter3tp61ae2a8f_4dfc_4a0d_b1f0_d084a3a804d4_1">
             <name/>
             <visibility>1</visibility>
             <description>Satellite 1</description>
@@ -16,21 +3036,21 @@
                   </Icon>
                </IconStyle>
             </Style>
-            <Point id="Point_kml_scatter3tp79cf3a4b_2e98_418f_8a2f_83f780accd20">
+            <Point id="Point_kml_scatter3tp61ae2a8f_4dfc_4a0d_b1f0_d084a3a804d4">
                <altitudeMode>absolute</altitudeMode>
                <coordinates>-117.8125,0,10000000 </coordinates>
             </Point>
          </Placemark>
          <name>kml_scatter3</name>
-         <id>kml_scatter3tp79cf3a4b_2e98_418f_8a2f_83f780accd20</id>
+         <id>kml_scatter3tp61ae2a8f_4dfc_4a0d_b1f0_d084a3a804d4</id>
       </Folder>
-      <Placemark id="kml_plottp62dec430_8300_4c4e_a5f5_eeaee82b0b7a">
+      <Placemark id="kml_plottpac5f207e_cd8e_46c6_a7ca_076937ceed15">
          <name>Link Status</name>
          <visibility>1</visibility>
          <description>Link 1
 
-Average Availability: 99.3%
-Bandwidth: 2.18 Gbps</description>
+Average Availability: 100%
+Bandwidth: 1.25 Gbps</description>
          <Style>
             <LineStyle>
                <color>FF00FF00</color>
@@ -40,20 +3060,20 @@ Bandwidth: 2.18 Gbps</description>
                <color>00FFFFFF</color>
             </PolyStyle>
          </Style>
-         <LineString id="LineString_kml_plottp62dec430_8300_4c4e_a5f5_eeaee82b0b7a">
+         <LineString id="LineString_kml_plottpac5f207e_cd8e_46c6_a7ca_076937ceed15">
             <extrude>0</extrude>
             <tesselate>1</tesselate>
             <altitudeMode>relativeToGround</altitudeMode>
             <coordinates>-117.8125,0,10000000 -139.9,-8.9,0 </coordinates>
          </LineString>
       </Placemark>
-      <Placemark id="kml_plottpfae9a1b8_6c06_404a_90c4_f949afc421f7">
+      <Placemark id="kml_plottp6cfa3bef_1156_48fc_b37a_7ca6f8856d7f">
          <name>Link Status</name>
          <visibility>1</visibility>
          <description>Link 1
 
-Average Availability: 99.8%
-Bandwidth: 1.23 Gbps</description>
+Average Availability: 99.1%
+Bandwidth: 1.15 Gbps</description>
          <Style>
             <LineStyle>
                <color>FF00FF00</color>
@@ -63,20 +3083,43 @@ Bandwidth: 1.23 Gbps</description>
                <color>00FFFFFF</color>
             </PolyStyle>
          </Style>
-         <LineString id="LineString_kml_plottpfae9a1b8_6c06_404a_90c4_f949afc421f7">
+         <LineString id="LineString_kml_plottp6cfa3bef_1156_48fc_b37a_7ca6f8856d7f">
             <extrude>0</extrude>
             <tesselate>1</tesselate>
             <altitudeMode>relativeToGround</altitudeMode>
             <coordinates>-117.8125,0,10000000 -111.9,40.75,0 </coordinates>
          </LineString>
       </Placemark>
-      <Placemark id="kml_plottp01b70427_bdf4_4d27_b6e0_86d61e2b805e">
+      <Placemark id="kml_plottp82aab5e8_9b02_4f6d_85e5_1b631327b733">
+         <name>Link Status</name>
+         <visibility>1</visibility>
+         <description>Link 1
+
+Average Availability: 99.6%
+Bandwidth: 1.62 Gbps</description>
+         <Style>
+            <LineStyle>
+               <color>FF00FFFF</color>
+               <width>3</width>
+            </LineStyle>
+            <PolyStyle>
+               <color>00FFFFFF</color>
+            </PolyStyle>
+         </Style>
+         <LineString id="LineString_kml_plottp82aab5e8_9b02_4f6d_85e5_1b631327b733">
+            <extrude>0</extrude>
+            <tesselate>1</tesselate>
+            <altitudeMode>relativeToGround</altitudeMode>
+            <coordinates>-117.8125,0,10000000 -157.85,21.283,0 </coordinates>
+         </LineString>
+      </Placemark>
+      <Placemark id="kml_plottpfe2da4a2_44a6_4f4a_9fa1_4752fd7f6b43">
          <name>Link Status</name>
          <visibility>1</visibility>
          <description>Link 1
 
 Average Availability: 99.2%
-Bandwidth: 2.18 Gbps</description>
+Bandwidth: 1.3 Gbps</description>
          <Style>
             <LineStyle>
                <color>FF00FFFF</color>
@@ -86,43 +3129,20 @@ Bandwidth: 2.18 Gbps</description>
                <color>00FFFFFF</color>
             </PolyStyle>
          </Style>
-         <LineString id="LineString_kml_plottp01b70427_bdf4_4d27_b6e0_86d61e2b805e">
+         <LineString id="LineString_kml_plottpfe2da4a2_44a6_4f4a_9fa1_4752fd7f6b43">
             <extrude>0</extrude>
             <tesselate>1</tesselate>
             <altitudeMode>relativeToGround</altitudeMode>
-            <coordinates>-117.8125,0,10000000 </coordinates>
+            <coordinates>-117.8125,0,10000000 -73.90000000000001,40.8,0 </coordinates>
          </LineString>
       </Placemark>
-      <Placemark id="kml_plottp949dfea7_6e07_4755_871e_30ebc06521ff">
+      <Placemark id="kml_plottp8a688105_8e3f_42aa_a482_01cf1cd9a109">
          <name>Link Status</name>
          <visibility>1</visibility>
          <description>Link 1
 
-Average Availability: 99.1%
-Bandwidth: 2.44 Gbps</description>
-         <Style>
-            <LineStyle>
-               <color>FF00FFFF</color>
-               <width>3</width>
-            </LineStyle>
-            <PolyStyle>
-               <color>00FFFFFF</color>
-            </PolyStyle>
-         </Style>
-         <LineString id="LineString_kml_plottp949dfea7_6e07_4755_871e_30ebc06521ff">
-            <extrude>0</extrude>
-            <tesselate>1</tesselate>
-            <altitudeMode>relativeToGround</altitudeMode>
-            <coordinates>-117.8125,0,10000000 </coordinates>
-         </LineString>
-      </Placemark>
-      <Placemark id="kml_plottp37e0d952_fc7f_44ac_aca8_76ca1520f09a">
-         <name>Link Status</name>
-         <visibility>1</visibility>
-         <description>Link 1
-
-Average Availability: 99.8%
-Bandwidth: 1.03 Gbps</description>
+Average Availability: 99.2%
+Bandwidth: 2.33 Gbps</description>
          <Style>
             <LineStyle>
                <color>FF0000FF</color>
@@ -132,7 +3152,7 @@ Bandwidth: 1.03 Gbps</description>
                <color>00FFFFFF</color>
             </PolyStyle>
          </Style>
-         <LineString id="LineString_kml_plottp37e0d952_fc7f_44ac_aca8_76ca1520f09a">
+         <LineString id="LineString_kml_plottp8a688105_8e3f_42aa_a482_01cf1cd9a109">
             <extrude>0</extrude>
             <tesselate>1</tesselate>
             <altitudeMode>relativeToGround</altitudeMode>
@@ -140,7 +3160,7 @@ Bandwidth: 1.03 Gbps</description>
          </LineString>
       </Placemark>
       <Folder>
-         <Placemark id="kml_scatter3tpbc3fadd6_2785_4107_ad92_a18763847167_1">
+         <Placemark id="kml_scatter3tp6570c60b_5a45_4158_bc1d_628905f93c81_1">
             <name/>
             <visibility>1</visibility>
             <description>Satellite 2</description>
@@ -153,21 +3173,21 @@ Bandwidth: 1.03 Gbps</description>
                   </Icon>
                </IconStyle>
             </Style>
-            <Point id="Point_kml_scatter3tpbc3fadd6_2785_4107_ad92_a18763847167">
+            <Point id="Point_kml_scatter3tp6570c60b_5a45_4158_bc1d_628905f93c81">
                <altitudeMode>absolute</altitudeMode>
                <coordinates>-72.8125,0,10000000 </coordinates>
             </Point>
          </Placemark>
          <name>kml_scatter3</name>
-         <id>kml_scatter3tpbc3fadd6_2785_4107_ad92_a18763847167</id>
+         <id>kml_scatter3tp6570c60b_5a45_4158_bc1d_628905f93c81</id>
       </Folder>
-      <Placemark id="kml_plottpbe79d111_5036_4613_bb19_eb15e9723cea">
+      <Placemark id="kml_plottp3dd62ff9_10ef_4e3a_b9b7_4825336aafab">
          <name>Link Status</name>
          <visibility>1</visibility>
          <description>Link 2
 
-Average Availability: 100%
-Bandwidth: 2.02 Gbps</description>
+Average Availability: 99.6%
+Bandwidth: 1.93 Gbps</description>
          <Style>
             <LineStyle>
                <color>FF00FF00</color>
@@ -177,20 +3197,20 @@ Bandwidth: 2.02 Gbps</description>
                <color>00FFFFFF</color>
             </PolyStyle>
          </Style>
-         <LineString id="LineString_kml_plottpbe79d111_5036_4613_bb19_eb15e9723cea">
+         <LineString id="LineString_kml_plottp3dd62ff9_10ef_4e3a_b9b7_4825336aafab">
             <extrude>0</extrude>
             <tesselate>1</tesselate>
             <altitudeMode>relativeToGround</altitudeMode>
             <coordinates>-72.8125,0,10000000 -73.90000000000001,40.8,0 </coordinates>
          </LineString>
       </Placemark>
-      <Placemark id="kml_plottp095ec85d_6b6d_46b9_a038_b42fadad3a2f">
+      <Placemark id="kml_plottpaa417bc9_ad2f_4101_8da4_121a7a19886d">
          <name>Link Status</name>
          <visibility>1</visibility>
          <description>Link 2
 
-Average Availability: 99.5%
-Bandwidth: 1.73 Gbps</description>
+Average Availability: 99.7%
+Bandwidth: 1.26 Gbps</description>
          <Style>
             <LineStyle>
                <color>FF00FF00</color>
@@ -200,20 +3220,20 @@ Bandwidth: 1.73 Gbps</description>
                <color>00FFFFFF</color>
             </PolyStyle>
          </Style>
-         <LineString id="LineString_kml_plottp095ec85d_6b6d_46b9_a038_b42fadad3a2f">
+         <LineString id="LineString_kml_plottpaa417bc9_ad2f_4101_8da4_121a7a19886d">
             <extrude>0</extrude>
             <tesselate>1</tesselate>
             <altitudeMode>relativeToGround</altitudeMode>
             <coordinates>-72.8125,0,10000000 -111.9,40.75,0 </coordinates>
          </LineString>
       </Placemark>
-      <Placemark id="kml_plottpdbb86393_5a9e_4b6e_b8b0_ddb7494ba455">
+      <Placemark id="kml_plottp20ab6a8f_06a7_4b66_85a6_d41031747b63">
          <name>Link Status</name>
          <visibility>1</visibility>
          <description>Link 2
 
-Average Availability: 99.4%
-Bandwidth: 1.63 Gbps</description>
+Average Availability: 99.6%
+Bandwidth: 2.32 Gbps</description>
          <Style>
             <LineStyle>
                <color>FF00FFFF</color>
@@ -223,20 +3243,20 @@ Bandwidth: 1.63 Gbps</description>
                <color>00FFFFFF</color>
             </PolyStyle>
          </Style>
-         <LineString id="LineString_kml_plottpdbb86393_5a9e_4b6e_b8b0_ddb7494ba455">
+         <LineString id="LineString_kml_plottp20ab6a8f_06a7_4b66_85a6_d41031747b63">
             <extrude>0</extrude>
             <tesselate>1</tesselate>
             <altitudeMode>relativeToGround</altitudeMode>
             <coordinates>-72.8125,0,10000000 -70.75,-33.5,0 </coordinates>
          </LineString>
       </Placemark>
-      <Placemark id="kml_plottpfd2a5b2c_2273_4366_bf2f_ad3398a11932">
+      <Placemark id="kml_plottp9f93cee1_9ac2_4195_b3fa_25a5d470a873">
          <name>Link Status</name>
          <visibility>1</visibility>
          <description>Link 2
 
-Average Availability: 99%
-Bandwidth: 2.44 Gbps</description>
+Average Availability: 99.1%
+Bandwidth: 1.97 Gbps</description>
          <Style>
             <LineStyle>
                <color>FF00FFFF</color>
@@ -246,20 +3266,20 @@ Bandwidth: 2.44 Gbps</description>
                <color>00FFFFFF</color>
             </PolyStyle>
          </Style>
-         <LineString id="LineString_kml_plottpfd2a5b2c_2273_4366_bf2f_ad3398a11932">
+         <LineString id="LineString_kml_plottp9f93cee1_9ac2_4195_b3fa_25a5d470a873">
             <extrude>0</extrude>
             <tesselate>1</tesselate>
             <altitudeMode>relativeToGround</altitudeMode>
             <coordinates>-72.8125,0,10000000 -56.2,-34.8,0 </coordinates>
          </LineString>
       </Placemark>
-      <Placemark id="kml_plottp7f1cee82_a4b2_4ab5_8c65_7dec4128b107">
+      <Placemark id="kml_plottp8a5bfd6f_35e2_4e2a_ad5d_c457b1d5b33d">
          <name>Link Status</name>
          <visibility>1</visibility>
          <description>Link 2
 
-Average Availability: 99.4%
-Bandwidth: 1.72 Gbps</description>
+Average Availability: 99.9%
+Bandwidth: 1.37 Gbps</description>
          <Style>
             <LineStyle>
                <color>FF0000FF</color>
@@ -269,7 +3289,7 @@ Bandwidth: 1.72 Gbps</description>
                <color>00FFFFFF</color>
             </PolyStyle>
          </Style>
-         <LineString id="LineString_kml_plottp7f1cee82_a4b2_4ab5_8c65_7dec4128b107">
+         <LineString id="LineString_kml_plottp8a5bfd6f_35e2_4e2a_ad5d_c457b1d5b33d">
             <extrude>0</extrude>
             <tesselate>1</tesselate>
             <altitudeMode>relativeToGround</altitudeMode>
@@ -277,7 +3297,7 @@ Bandwidth: 1.72 Gbps</description>
          </LineString>
       </Placemark>
       <Folder>
-         <Placemark id="kml_scatter3tpe356966f_5ccc_48c9_b9cd_06fd086b2852_1">
+         <Placemark id="kml_scatter3tp124cd852_6418_4ef1_b213_f827a14701b3_1">
             <name/>
             <visibility>1</visibility>
             <description>Satellite 3</description>
@@ -290,21 +3310,21 @@ Bandwidth: 1.72 Gbps</description>
                   </Icon>
                </IconStyle>
             </Style>
-            <Point id="Point_kml_scatter3tpe356966f_5ccc_48c9_b9cd_06fd086b2852">
+            <Point id="Point_kml_scatter3tp124cd852_6418_4ef1_b213_f827a14701b3">
                <altitudeMode>absolute</altitudeMode>
                <coordinates>-27.8125,0,10000000 </coordinates>
             </Point>
          </Placemark>
          <name>kml_scatter3</name>
-         <id>kml_scatter3tpe356966f_5ccc_48c9_b9cd_06fd086b2852</id>
+         <id>kml_scatter3tp124cd852_6418_4ef1_b213_f827a14701b3</id>
       </Folder>
-      <Placemark id="kml_plottp36edbb4c_eedd_4e4c_9b84_492ca031f890">
+      <Placemark id="kml_plottpd30aacbb_ed2f_43aa_ad51_d379272eed19">
          <name>Link Status</name>
          <visibility>1</visibility>
          <description>Link 3
 
-Average Availability: 99.1%
-Bandwidth: 2 Gbps</description>
+Average Availability: 99.6%
+Bandwidth: 1.73 Gbps</description>
          <Style>
             <LineStyle>
                <color>FF00FF00</color>
@@ -314,20 +3334,20 @@ Bandwidth: 2 Gbps</description>
                <color>00FFFFFF</color>
             </PolyStyle>
          </Style>
-         <LineString id="LineString_kml_plottp36edbb4c_eedd_4e4c_9b84_492ca031f890">
+         <LineString id="LineString_kml_plottpd30aacbb_ed2f_43aa_ad51_d379272eed19">
             <extrude>0</extrude>
             <tesselate>1</tesselate>
             <altitudeMode>relativeToGround</altitudeMode>
             <coordinates>-27.8125,0,10000000 -3.7,40.4,0 </coordinates>
          </LineString>
       </Placemark>
-      <Placemark id="kml_plottp39945d53_949d_4f23_883a_cd06bce7bdd1">
+      <Placemark id="kml_plottpb72fa40b_0303_4f50_8671_ecf8490da1ec">
          <name>Link Status</name>
          <visibility>1</visibility>
          <description>Link 3
 
-Average Availability: 100%
-Bandwidth: 1.63 Gbps</description>
+Average Availability: 99.9%
+Bandwidth: 1.07 Gbps</description>
          <Style>
             <LineStyle>
                <color>FF00FF00</color>
@@ -337,20 +3357,20 @@ Bandwidth: 1.63 Gbps</description>
                <color>00FFFFFF</color>
             </PolyStyle>
          </Style>
-         <LineString id="LineString_kml_plottp39945d53_949d_4f23_883a_cd06bce7bdd1">
+         <LineString id="LineString_kml_plottpb72fa40b_0303_4f50_8671_ecf8490da1ec">
             <extrude>0</extrude>
             <tesselate>1</tesselate>
             <altitudeMode>relativeToGround</altitudeMode>
             <coordinates>-27.8125,0,10000000 2.1,41.4,0 </coordinates>
          </LineString>
       </Placemark>
-      <Placemark id="kml_plottpfbfd93f6_382e_4c63_8538_9e4b7607c056">
+      <Placemark id="kml_plottp5bcdf89a_b5a7_41e4_9730_290ecc8d7f36">
          <name>Link Status</name>
          <visibility>1</visibility>
          <description>Link 3
 
-Average Availability: 99.5%
-Bandwidth: 1.75 Gbps</description>
+Average Availability: 99.8%
+Bandwidth: 1.83 Gbps</description>
          <Style>
             <LineStyle>
                <color>FF00FFFF</color>
@@ -360,20 +3380,20 @@ Bandwidth: 1.75 Gbps</description>
                <color>00FFFFFF</color>
             </PolyStyle>
          </Style>
-         <LineString id="LineString_kml_plottpfbfd93f6_382e_4c63_8538_9e4b7607c056">
+         <LineString id="LineString_kml_plottp5bcdf89a_b5a7_41e4_9730_290ecc8d7f36">
             <extrude>0</extrude>
             <tesselate>1</tesselate>
             <altitudeMode>relativeToGround</altitudeMode>
             <coordinates>-27.8125,0,10000000 -0.5,44.8,0 </coordinates>
          </LineString>
       </Placemark>
-      <Placemark id="kml_plottp7637be41_7a86_47be_a9a8_b037aa080073">
+      <Placemark id="kml_plottp59aa3439_9127_4288_a58c_a9e02fbc2851">
          <name>Link Status</name>
          <visibility>1</visibility>
          <description>Link 3
 
-Average Availability: 99.1%
-Bandwidth: 1.47 Gbps</description>
+Average Availability: 99.4%
+Bandwidth: 2.17 Gbps</description>
          <Style>
             <LineStyle>
                <color>FF00FFFF</color>
@@ -383,20 +3403,20 @@ Bandwidth: 1.47 Gbps</description>
                <color>00FFFFFF</color>
             </PolyStyle>
          </Style>
-         <LineString id="LineString_kml_plottp7637be41_7a86_47be_a9a8_b037aa080073">
+         <LineString id="LineString_kml_plottp59aa3439_9127_4288_a58c_a9e02fbc2851">
             <extrude>0</extrude>
             <tesselate>1</tesselate>
             <altitudeMode>relativeToGround</altitudeMode>
             <coordinates>-27.8125,0,10000000 5.3,43.3,0 </coordinates>
          </LineString>
       </Placemark>
-      <Placemark id="kml_plottp9ff0ac27_5e65_4b3e_a851_3f9f92a8e073">
+      <Placemark id="kml_plottpcadfb0df_f716_4192_802f_4c17a3b01c9e">
          <name>Link Status</name>
          <visibility>1</visibility>
          <description>Link 3
 
-Average Availability: 99.5%
-Bandwidth: 1.01 Gbps</description>
+Average Availability: 99.4%
+Bandwidth: 1.53 Gbps</description>
          <Style>
             <LineStyle>
                <color>FF0000FF</color>
@@ -406,7 +3426,7 @@ Bandwidth: 1.01 Gbps</description>
                <color>00FFFFFF</color>
             </PolyStyle>
          </Style>
-         <LineString id="LineString_kml_plottp9ff0ac27_5e65_4b3e_a851_3f9f92a8e073">
+         <LineString id="LineString_kml_plottpcadfb0df_f716_4192_802f_4c17a3b01c9e">
             <extrude>0</extrude>
             <tesselate>1</tesselate>
             <altitudeMode>relativeToGround</altitudeMode>
@@ -414,7 +3434,7 @@ Bandwidth: 1.01 Gbps</description>
          </LineString>
       </Placemark>
       <Folder>
-         <Placemark id="kml_scatter3tpf89178a1_97e2_4f5f_853c_cb393cb745ac_1">
+         <Placemark id="kml_scatter3tp0e91e646_055c_44f8_89ed_711b29462dad_1">
             <name/>
             <visibility>1</visibility>
             <description>Satellite 4</description>
@@ -427,21 +3447,21 @@ Bandwidth: 1.01 Gbps</description>
                   </Icon>
                </IconStyle>
             </Style>
-            <Point id="Point_kml_scatter3tpf89178a1_97e2_4f5f_853c_cb393cb745ac">
+            <Point id="Point_kml_scatter3tp0e91e646_055c_44f8_89ed_711b29462dad">
                <altitudeMode>absolute</altitudeMode>
                <coordinates>17.1875,0,10000000 </coordinates>
             </Point>
          </Placemark>
          <name>kml_scatter3</name>
-         <id>kml_scatter3tpf89178a1_97e2_4f5f_853c_cb393cb745ac</id>
+         <id>kml_scatter3tp0e91e646_055c_44f8_89ed_711b29462dad</id>
       </Folder>
-      <Placemark id="kml_plottp65c3f7a2_5d0c_4384_87cf_d6f7f8fb4941">
+      <Placemark id="kml_plottpcf66bb17_f9bf_422a_972a_bdddbbcc99c0">
          <name>Link Status</name>
          <visibility>1</visibility>
          <description>Link 4
 
-Average Availability: 99.4%
-Bandwidth: 1.96 Gbps</description>
+Average Availability: 99.7%
+Bandwidth: 1.59 Gbps</description>
          <Style>
             <LineStyle>
                <color>FF00FF00</color>
@@ -451,20 +3471,20 @@ Bandwidth: 1.96 Gbps</description>
                <color>00FFFFFF</color>
             </PolyStyle>
          </Style>
-         <LineString id="LineString_kml_plottp65c3f7a2_5d0c_4384_87cf_d6f7f8fb4941">
+         <LineString id="LineString_kml_plottpcf66bb17_f9bf_422a_972a_bdddbbcc99c0">
             <extrude>0</extrude>
             <tesselate>1</tesselate>
             <altitudeMode>relativeToGround</altitudeMode>
             <coordinates>17.1875,0,10000000 47.5,-18.9,0 </coordinates>
          </LineString>
       </Placemark>
-      <Placemark id="kml_plottp3bc1553b_2da3_4f9d_ac3f_5308dd2a2a7f">
+      <Placemark id="kml_plottpd35022b2_5059_46c8_83b8_7171003489a6">
          <name>Link Status</name>
          <visibility>1</visibility>
          <description>Link 4
 
-Average Availability: 100%
-Bandwidth: 1.97 Gbps</description>
+Average Availability: 99.1%
+Bandwidth: 1.08 Gbps</description>
          <Style>
             <LineStyle>
                <color>FF00FF00</color>
@@ -474,66 +3494,66 @@ Bandwidth: 1.97 Gbps</description>
                <color>00FFFFFF</color>
             </PolyStyle>
          </Style>
-         <LineString id="LineString_kml_plottp3bc1553b_2da3_4f9d_ac3f_5308dd2a2a7f">
+         <LineString id="LineString_kml_plottpd35022b2_5059_46c8_83b8_7171003489a6">
             <extrude>0</extrude>
             <tesselate>1</tesselate>
             <altitudeMode>relativeToGround</altitudeMode>
             <coordinates>17.1875,0,10000000 14.25,40.8,0 </coordinates>
          </LineString>
       </Placemark>
-      <Placemark id="kml_plottp8682bff4_8ee9_4a90_a146_750356444fd9">
+      <Placemark id="kml_plottp0e33c3d9_ec73_443d_8673_9dffcd93988d">
+         <name>Link Status</name>
+         <visibility>1</visibility>
+         <description>Link 4
+
+Average Availability: 99.2%
+Bandwidth: 2.36 Gbps</description>
+         <Style>
+            <LineStyle>
+               <color>FF00FFFF</color>
+               <width>3</width>
+            </LineStyle>
+            <PolyStyle>
+               <color>00FFFFFF</color>
+            </PolyStyle>
+         </Style>
+         <LineString id="LineString_kml_plottp0e33c3d9_ec73_443d_8673_9dffcd93988d">
+            <extrude>0</extrude>
+            <tesselate>1</tesselate>
+            <altitudeMode>relativeToGround</altitudeMode>
+            <coordinates>17.1875,0,10000000 12.5,41.9,0 </coordinates>
+         </LineString>
+      </Placemark>
+      <Placemark id="kml_plottpd5600d16_e3b3_45aa_8905_3aa161e4218d">
+         <name>Link Status</name>
+         <visibility>1</visibility>
+         <description>Link 4
+
+Average Availability: 100%
+Bandwidth: 1.73 Gbps</description>
+         <Style>
+            <LineStyle>
+               <color>FF00FFFF</color>
+               <width>3</width>
+            </LineStyle>
+            <PolyStyle>
+               <color>00FFFFFF</color>
+            </PolyStyle>
+         </Style>
+         <LineString id="LineString_kml_plottpd5600d16_e3b3_45aa_8905_3aa161e4218d">
+            <extrude>0</extrude>
+            <tesselate>1</tesselate>
+            <altitudeMode>relativeToGround</altitudeMode>
+            <coordinates>17.1875,0,10000000 23.4,42.6,0 </coordinates>
+         </LineString>
+      </Placemark>
+      <Placemark id="kml_plottp70378e2d_bfbd_4731_8a40_a5a79f216eca">
          <name>Link Status</name>
          <visibility>1</visibility>
          <description>Link 4
 
 Average Availability: 99.1%
-Bandwidth: 2.06 Gbps</description>
-         <Style>
-            <LineStyle>
-               <color>FF00FFFF</color>
-               <width>3</width>
-            </LineStyle>
-            <PolyStyle>
-               <color>00FFFFFF</color>
-            </PolyStyle>
-         </Style>
-         <LineString id="LineString_kml_plottp8682bff4_8ee9_4a90_a146_750356444fd9">
-            <extrude>0</extrude>
-            <tesselate>1</tesselate>
-            <altitudeMode>relativeToGround</altitudeMode>
-            <coordinates>17.1875,0,10000000 </coordinates>
-         </LineString>
-      </Placemark>
-      <Placemark id="kml_plottp2802dace_c60a_4103_a7ab_748ace498c28">
-         <name>Link Status</name>
-         <visibility>1</visibility>
-         <description>Link 4
-
-Average Availability: 99.8%
-Bandwidth: 2.4 Gbps</description>
-         <Style>
-            <LineStyle>
-               <color>FF00FFFF</color>
-               <width>3</width>
-            </LineStyle>
-            <PolyStyle>
-               <color>00FFFFFF</color>
-            </PolyStyle>
-         </Style>
-         <LineString id="LineString_kml_plottp2802dace_c60a_4103_a7ab_748ace498c28">
-            <extrude>0</extrude>
-            <tesselate>1</tesselate>
-            <altitudeMode>relativeToGround</altitudeMode>
-            <coordinates>17.1875,0,10000000 </coordinates>
-         </LineString>
-      </Placemark>
-      <Placemark id="kml_plottp71cc3834_8d67_46aa_a501_cfba1d0bdc3c">
-         <name>Link Status</name>
-         <visibility>1</visibility>
-         <description>Link 4
-
-Average Availability: 99.4%
-Bandwidth: 1.56 Gbps</description>
+Bandwidth: 1.77 Gbps</description>
          <Style>
             <LineStyle>
                <color>FF0000FF</color>
@@ -543,7 +3563,7 @@ Bandwidth: 1.56 Gbps</description>
                <color>00FFFFFF</color>
             </PolyStyle>
          </Style>
-         <LineString id="LineString_kml_plottp71cc3834_8d67_46aa_a501_cfba1d0bdc3c">
+         <LineString id="LineString_kml_plottp70378e2d_bfbd_4731_8a40_a5a79f216eca">
             <extrude>0</extrude>
             <tesselate>1</tesselate>
             <altitudeMode>relativeToGround</altitudeMode>
@@ -551,7 +3571,7 @@ Bandwidth: 1.56 Gbps</description>
          </LineString>
       </Placemark>
       <Folder>
-         <Placemark id="kml_scatter3tp7c022c26_2424_4a3d_b7f4_10232511a7ce_1">
+         <Placemark id="kml_scatter3tpdae8b4db_7d7f_4ffc_92d3_37a04de5c983_1">
             <name/>
             <visibility>1</visibility>
             <description>Satellite 5</description>
@@ -564,21 +3584,21 @@ Bandwidth: 1.56 Gbps</description>
                   </Icon>
                </IconStyle>
             </Style>
-            <Point id="Point_kml_scatter3tp7c022c26_2424_4a3d_b7f4_10232511a7ce">
+            <Point id="Point_kml_scatter3tpdae8b4db_7d7f_4ffc_92d3_37a04de5c983">
                <altitudeMode>absolute</altitudeMode>
                <coordinates>62.1875,0,10000000 </coordinates>
             </Point>
          </Placemark>
          <name>kml_scatter3</name>
-         <id>kml_scatter3tp7c022c26_2424_4a3d_b7f4_10232511a7ce</id>
+         <id>kml_scatter3tpdae8b4db_7d7f_4ffc_92d3_37a04de5c983</id>
       </Folder>
-      <Placemark id="kml_plottp53ddcbb6_6baf_4a4c_9e8b_c7a4717aaab2">
+      <Placemark id="kml_plottp13ff3ed7_58d9_44b6_b8c8_8e3dd4319e24">
          <name>Link Status</name>
          <visibility>1</visibility>
          <description>Link 5
 
-Average Availability: 99.8%
-Bandwidth: 1.07 Gbps</description>
+Average Availability: 100%
+Bandwidth: 2.15 Gbps</description>
          <Style>
             <LineStyle>
                <color>FF00FF00</color>
@@ -588,20 +3608,20 @@ Bandwidth: 1.07 Gbps</description>
                <color>00FFFFFF</color>
             </PolyStyle>
          </Style>
-         <LineString id="LineString_kml_plottp53ddcbb6_6baf_4a4c_9e8b_c7a4717aaab2">
+         <LineString id="LineString_kml_plottp13ff3ed7_58d9_44b6_b8c8_8e3dd4319e24">
             <extrude>0</extrude>
             <tesselate>1</tesselate>
             <altitudeMode>relativeToGround</altitudeMode>
             <coordinates>62.1875,0,10000000 72.8,19,0 </coordinates>
          </LineString>
       </Placemark>
-      <Placemark id="kml_plottpdf3b21ed_c552_4f24_ad77_d0a0a3a90b9a">
+      <Placemark id="kml_plottp08226b93_dd39_4e38_ae4a_68c1ce1f517c">
          <name>Link Status</name>
          <visibility>1</visibility>
          <description>Link 5
 
-Average Availability: 99.5%
-Bandwidth: 2.49 Gbps</description>
+Average Availability: 100%
+Bandwidth: 2.4 Gbps</description>
          <Style>
             <LineStyle>
                <color>FF00FF00</color>
@@ -611,20 +3631,20 @@ Bandwidth: 2.49 Gbps</description>
                <color>00FFFFFF</color>
             </PolyStyle>
          </Style>
-         <LineString id="LineString_kml_plottpdf3b21ed_c552_4f24_ad77_d0a0a3a90b9a">
+         <LineString id="LineString_kml_plottp08226b93_dd39_4e38_ae4a_68c1ce1f517c">
             <extrude>0</extrude>
             <tesselate>1</tesselate>
             <altitudeMode>relativeToGround</altitudeMode>
             <coordinates>62.1875,0,10000000 47.5,-18.9,0 </coordinates>
          </LineString>
       </Placemark>
-      <Placemark id="kml_plottp3ef1bf28_96dd_4536_9b7f_b7323118a9ed">
+      <Placemark id="kml_plottpc9bf4f54_a960_43f7_a0ee_707c49dd3f6a">
          <name>Link Status</name>
          <visibility>1</visibility>
          <description>Link 5
 
-Average Availability: 99.1%
-Bandwidth: 1.68 Gbps</description>
+Average Availability: 99.2%
+Bandwidth: 1.14 Gbps</description>
          <Style>
             <LineStyle>
                <color>FF00FFFF</color>
@@ -634,19 +3654,19 @@ Bandwidth: 1.68 Gbps</description>
                <color>00FFFFFF</color>
             </PolyStyle>
          </Style>
-         <LineString id="LineString_kml_plottp3ef1bf28_96dd_4536_9b7f_b7323118a9ed">
+         <LineString id="LineString_kml_plottpc9bf4f54_a960_43f7_a0ee_707c49dd3f6a">
             <extrude>0</extrude>
             <tesselate>1</tesselate>
             <altitudeMode>relativeToGround</altitudeMode>
             <coordinates>62.1875,0,10000000 </coordinates>
          </LineString>
       </Placemark>
-      <Placemark id="kml_plottp3d2b00b4_101c_4bd9_baf8_16dee97ca6cc">
+      <Placemark id="kml_plottpbc05df49_4612_4461_b6a0_52bbedc1fb82">
          <name>Link Status</name>
          <visibility>1</visibility>
          <description>Link 5
 
-Average Availability: 99.6%
+Average Availability: 99.4%
 Bandwidth: 1.19 Gbps</description>
          <Style>
             <LineStyle>
@@ -657,20 +3677,20 @@ Bandwidth: 1.19 Gbps</description>
                <color>00FFFFFF</color>
             </PolyStyle>
          </Style>
-         <LineString id="LineString_kml_plottp3d2b00b4_101c_4bd9_baf8_16dee97ca6cc">
+         <LineString id="LineString_kml_plottpbc05df49_4612_4461_b6a0_52bbedc1fb82">
             <extrude>0</extrude>
             <tesselate>1</tesselate>
             <altitudeMode>relativeToGround</altitudeMode>
             <coordinates>62.1875,0,10000000 </coordinates>
          </LineString>
       </Placemark>
-      <Placemark id="kml_plottpcc12e4ad_1667_4e58_b260_67728f9fb830">
+      <Placemark id="kml_plottp75ab3586_c883_4ea8_a5ee_6c428ef80910">
          <name>Link Status</name>
          <visibility>1</visibility>
          <description>Link 5
 
-Average Availability: 99.1%
-Bandwidth: 2.5 Gbps</description>
+Average Availability: 99.8%
+Bandwidth: 1.52 Gbps</description>
          <Style>
             <LineStyle>
                <color>FF0000FF</color>
@@ -680,7 +3700,7 @@ Bandwidth: 2.5 Gbps</description>
                <color>00FFFFFF</color>
             </PolyStyle>
          </Style>
-         <LineString id="LineString_kml_plottpcc12e4ad_1667_4e58_b260_67728f9fb830">
+         <LineString id="LineString_kml_plottp75ab3586_c883_4ea8_a5ee_6c428ef80910">
             <extrude>0</extrude>
             <tesselate>1</tesselate>
             <altitudeMode>relativeToGround</altitudeMode>
@@ -688,7 +3708,7 @@ Bandwidth: 2.5 Gbps</description>
          </LineString>
       </Placemark>
       <Folder>
-         <Placemark id="kml_scatter3tpd0894be0_5767_4aae_b514_f3c1abf9bbd3_1">
+         <Placemark id="kml_scatter3tp9cbc7331_16c3_45a2_b63c_8e5862e2f54e_1">
             <name/>
             <visibility>1</visibility>
             <description>Satellite 6</description>
@@ -701,21 +3721,21 @@ Bandwidth: 2.5 Gbps</description>
                   </Icon>
                </IconStyle>
             </Style>
-            <Point id="Point_kml_scatter3tpd0894be0_5767_4aae_b514_f3c1abf9bbd3">
+            <Point id="Point_kml_scatter3tp9cbc7331_16c3_45a2_b63c_8e5862e2f54e">
                <altitudeMode>absolute</altitudeMode>
                <coordinates>107.1875,0,10000000 </coordinates>
             </Point>
          </Placemark>
          <name>kml_scatter3</name>
-         <id>kml_scatter3tpd0894be0_5767_4aae_b514_f3c1abf9bbd3</id>
+         <id>kml_scatter3tp9cbc7331_16c3_45a2_b63c_8e5862e2f54e</id>
       </Folder>
-      <Placemark id="kml_plottp65282772_fdcb_42fd_a52d_2ca67609aeef">
+      <Placemark id="kml_plottp944bbcb3_c020_4f5b_b8d0_86ddfefc5b95">
          <name>Link Status</name>
          <visibility>1</visibility>
          <description>Link 6
 
-Average Availability: 99.9%
-Bandwidth: 1.21 Gbps</description>
+Average Availability: 99.4%
+Bandwidth: 1.3 Gbps</description>
          <Style>
             <LineStyle>
                <color>FF00FF00</color>
@@ -725,20 +3745,20 @@ Bandwidth: 1.21 Gbps</description>
                <color>00FFFFFF</color>
             </PolyStyle>
          </Style>
-         <LineString id="LineString_kml_plottp65282772_fdcb_42fd_a52d_2ca67609aeef">
+         <LineString id="LineString_kml_plottp944bbcb3_c020_4f5b_b8d0_86ddfefc5b95">
             <extrude>0</extrude>
             <tesselate>1</tesselate>
             <altitudeMode>relativeToGround</altitudeMode>
             <coordinates>107.1875,0,10000000 103.9,1.25,0 </coordinates>
          </LineString>
       </Placemark>
-      <Placemark id="kml_plottp730beb22_bf7a_4884_8112_2a6284f89985">
+      <Placemark id="kml_plottp93cb3f5a_ee29_4609_846b_568477285cfe">
          <name>Link Status</name>
          <visibility>1</visibility>
          <description>Link 6
 
-Average Availability: 99.7%
-Bandwidth: 2.22 Gbps</description>
+Average Availability: 99.8%
+Bandwidth: 1.3 Gbps</description>
          <Style>
             <LineStyle>
                <color>FF00FF00</color>
@@ -748,294 +3768,20 @@ Bandwidth: 2.22 Gbps</description>
                <color>00FFFFFF</color>
             </PolyStyle>
          </Style>
-         <LineString id="LineString_kml_plottp730beb22_bf7a_4884_8112_2a6284f89985">
+         <LineString id="LineString_kml_plottp93cb3f5a_ee29_4609_846b_568477285cfe">
             <extrude>0</extrude>
             <tesselate>1</tesselate>
             <altitudeMode>relativeToGround</altitudeMode>
             <coordinates>107.1875,0,10000000 101.6,3.1,0 </coordinates>
          </LineString>
       </Placemark>
-      <Placemark id="kml_plottpe264c13f_135f_4b33_b8ba_4422344bc064">
+      <Placemark id="kml_plottpdd2be4a7_55c1_43d4_90af_3139957cbd04">
          <name>Link Status</name>
          <visibility>1</visibility>
          <description>Link 6
-
-Average Availability: 99.2%
-Bandwidth: 2.32 Gbps</description>
-         <Style>
-            <LineStyle>
-               <color>FF00FFFF</color>
-               <width>3</width>
-            </LineStyle>
-            <PolyStyle>
-               <color>00FFFFFF</color>
-            </PolyStyle>
-         </Style>
-         <LineString id="LineString_kml_plottpe264c13f_135f_4b33_b8ba_4422344bc064">
-            <extrude>0</extrude>
-            <tesselate>1</tesselate>
-            <altitudeMode>relativeToGround</altitudeMode>
-            <coordinates>107.1875,0,10000000 </coordinates>
-         </LineString>
-      </Placemark>
-      <Placemark id="kml_plottp52358fdb_8ef2_4ff9_9f42_defaa8e1e2b4">
-         <name>Link Status</name>
-         <visibility>1</visibility>
-         <description>Link 6
-
-Average Availability: 99.4%
-Bandwidth: 1.69 Gbps</description>
-         <Style>
-            <LineStyle>
-               <color>FF00FFFF</color>
-               <width>3</width>
-            </LineStyle>
-            <PolyStyle>
-               <color>00FFFFFF</color>
-            </PolyStyle>
-         </Style>
-         <LineString id="LineString_kml_plottp52358fdb_8ef2_4ff9_9f42_defaa8e1e2b4">
-            <extrude>0</extrude>
-            <tesselate>1</tesselate>
-            <altitudeMode>relativeToGround</altitudeMode>
-            <coordinates>107.1875,0,10000000 </coordinates>
-         </LineString>
-      </Placemark>
-      <Placemark id="kml_plottp8272f0af_a335_45da_b24e_7d8ec9f57dfa">
-         <name>Link Status</name>
-         <visibility>1</visibility>
-         <description>Link 6
-
-Average Availability: 99.5%
-Bandwidth: 1.72 Gbps</description>
-         <Style>
-            <LineStyle>
-               <color>FF0000FF</color>
-               <width>3</width>
-            </LineStyle>
-            <PolyStyle>
-               <color>00FFFFFF</color>
-            </PolyStyle>
-         </Style>
-         <LineString id="LineString_kml_plottp8272f0af_a335_45da_b24e_7d8ec9f57dfa">
-            <extrude>0</extrude>
-            <tesselate>1</tesselate>
-            <altitudeMode>relativeToGround</altitudeMode>
-            <coordinates>107.1875,0,10000000 </coordinates>
-         </LineString>
-      </Placemark>
-      <Folder>
-         <Placemark id="kml_scatter3tp97b9185e_65b6_4f22_86d0_1faa4fc54c7d_1">
-            <name/>
-            <visibility>1</visibility>
-            <description>Satellite 7</description>
-            <Style>
-               <IconStyle>
-                  <color>FFFFFFFF</color>
-                  <scale>1</scale>
-                  <Icon>
-                     <href>http://maps.google.com/mapfiles/kml/pal2/icon18.png</href>
-                  </Icon>
-               </IconStyle>
-            </Style>
-            <Point id="Point_kml_scatter3tp97b9185e_65b6_4f22_86d0_1faa4fc54c7d">
-               <altitudeMode>absolute</altitudeMode>
-               <coordinates>152.1875,0,10000000 </coordinates>
-            </Point>
-         </Placemark>
-         <name>kml_scatter3</name>
-         <id>kml_scatter3tp97b9185e_65b6_4f22_86d0_1faa4fc54c7d</id>
-      </Folder>
-      <Placemark id="kml_plottp2a296d6b_be0b_4855_8836_c397eb5a7f8d">
-         <name>Link Status</name>
-         <visibility>1</visibility>
-         <description>Link 7
-
-Average Availability: 99.7%
-Bandwidth: 2.36 Gbps</description>
-         <Style>
-            <LineStyle>
-               <color>FF00FF00</color>
-               <width>3</width>
-            </LineStyle>
-            <PolyStyle>
-               <color>00FFFFFF</color>
-            </PolyStyle>
-         </Style>
-         <LineString id="LineString_kml_plottp2a296d6b_be0b_4855_8836_c397eb5a7f8d">
-            <extrude>0</extrude>
-            <tesselate>1</tesselate>
-            <altitudeMode>relativeToGround</altitudeMode>
-            <coordinates>152.1875,0,10000000 147.1,-9.4,0 </coordinates>
-         </LineString>
-      </Placemark>
-      <Placemark id="kml_plottpf8f2e098_9d32_4eff_bd0c_d4e249773f8d">
-         <name>Link Status</name>
-         <visibility>1</visibility>
-         <description>Link 7
-
-Average Availability: 99.9%
-Bandwidth: 2.25 Gbps</description>
-         <Style>
-            <LineStyle>
-               <color>FF00FF00</color>
-               <width>3</width>
-            </LineStyle>
-            <PolyStyle>
-               <color>00FFFFFF</color>
-            </PolyStyle>
-         </Style>
-         <LineString id="LineString_kml_plottpf8f2e098_9d32_4eff_bd0c_d4e249773f8d">
-            <extrude>0</extrude>
-            <tesselate>1</tesselate>
-            <altitudeMode>relativeToGround</altitudeMode>
-            <coordinates>152.1875,0,10000000 130.8,-12.5,0 </coordinates>
-         </LineString>
-      </Placemark>
-      <Placemark id="kml_plottpace96e7f_225a_49e3_beee_ad011feaacb3">
-         <name>Link Status</name>
-         <visibility>1</visibility>
-         <description>Link 7
-
-Average Availability: 99.2%
-Bandwidth: 1.72 Gbps</description>
-         <Style>
-            <LineStyle>
-               <color>FF00FFFF</color>
-               <width>3</width>
-            </LineStyle>
-            <PolyStyle>
-               <color>00FFFFFF</color>
-            </PolyStyle>
-         </Style>
-         <LineString id="LineString_kml_plottpace96e7f_225a_49e3_beee_ad011feaacb3">
-            <extrude>0</extrude>
-            <tesselate>1</tesselate>
-            <altitudeMode>relativeToGround</altitudeMode>
-            <coordinates>152.1875,0,10000000 153.1,-27.5,0 </coordinates>
-         </LineString>
-      </Placemark>
-      <Placemark id="kml_plottpdd53a45b_7abd_467a_8dd3_f69e14e925a3">
-         <name>Link Status</name>
-         <visibility>1</visibility>
-         <description>Link 7
-
-Average Availability: 99.5%
-Bandwidth: 1.77 Gbps</description>
-         <Style>
-            <LineStyle>
-               <color>FF00FFFF</color>
-               <width>3</width>
-            </LineStyle>
-            <PolyStyle>
-               <color>00FFFFFF</color>
-            </PolyStyle>
-         </Style>
-         <LineString id="LineString_kml_plottpdd53a45b_7abd_467a_8dd3_f69e14e925a3">
-            <extrude>0</extrude>
-            <tesselate>1</tesselate>
-            <altitudeMode>relativeToGround</altitudeMode>
-            <coordinates>152.1875,0,10000000 151,-34,0 </coordinates>
-         </LineString>
-      </Placemark>
-      <Placemark id="kml_plottp7eb6f4de_7672_42f8_b5c4_11e61f5cc8da">
-         <name>Link Status</name>
-         <visibility>1</visibility>
-         <description>Link 7
 
 Average Availability: 99.8%
-Bandwidth: 1.67 Gbps</description>
-         <Style>
-            <LineStyle>
-               <color>FF0000FF</color>
-               <width>3</width>
-            </LineStyle>
-            <PolyStyle>
-               <color>00FFFFFF</color>
-            </PolyStyle>
-         </Style>
-         <LineString id="LineString_kml_plottp7eb6f4de_7672_42f8_b5c4_11e61f5cc8da">
-            <extrude>0</extrude>
-            <tesselate>1</tesselate>
-            <altitudeMode>relativeToGround</altitudeMode>
-            <coordinates>152.1875,0,10000000 </coordinates>
-         </LineString>
-      </Placemark>
-      <Folder>
-         <Placemark id="kml_scatter3tpb0701a21_1ab4_4c96_a5bd_8d4e14aee25b_1">
-            <name/>
-            <visibility>1</visibility>
-            <description>Satellite 8</description>
-            <Style>
-               <IconStyle>
-                  <color>FFFFFFFF</color>
-                  <scale>1</scale>
-                  <Icon>
-                     <href>http://maps.google.com/mapfiles/kml/pal2/icon18.png</href>
-                  </Icon>
-               </IconStyle>
-            </Style>
-            <Point id="Point_kml_scatter3tpb0701a21_1ab4_4c96_a5bd_8d4e14aee25b">
-               <altitudeMode>absolute</altitudeMode>
-               <coordinates>-162.8125,0,10000000 </coordinates>
-            </Point>
-         </Placemark>
-         <name>kml_scatter3</name>
-         <id>kml_scatter3tpb0701a21_1ab4_4c96_a5bd_8d4e14aee25b</id>
-      </Folder>
-      <Placemark id="kml_plottp4d7b7b32_a124_4154_b0ee_e15f54d92497">
-         <name>Link Status</name>
-         <visibility>1</visibility>
-         <description>Link 8
-
-Average Availability: 99.6%
-Bandwidth: 2.11 Gbps</description>
-         <Style>
-            <LineStyle>
-               <color>FF00FF00</color>
-               <width>3</width>
-            </LineStyle>
-            <PolyStyle>
-               <color>00FFFFFF</color>
-            </PolyStyle>
-         </Style>
-         <LineString id="LineString_kml_plottp4d7b7b32_a124_4154_b0ee_e15f54d92497">
-            <extrude>0</extrude>
-            <tesselate>1</tesselate>
-            <altitudeMode>relativeToGround</altitudeMode>
-            <coordinates>-162.8125,0,10000000 -157.85,21.283,0 </coordinates>
-         </LineString>
-      </Placemark>
-      <Placemark id="kml_plottp26063ac9_7d90_4e21_87b5_a167344c040b">
-         <name>Link Status</name>
-         <visibility>1</visibility>
-         <description>Link 8
-
-Average Availability: 99.2%
-Bandwidth: 1.25 Gbps</description>
-         <Style>
-            <LineStyle>
-               <color>FF00FF00</color>
-               <width>3</width>
-            </LineStyle>
-            <PolyStyle>
-               <color>00FFFFFF</color>
-            </PolyStyle>
-         </Style>
-         <LineString id="LineString_kml_plottp26063ac9_7d90_4e21_87b5_a167344c040b">
-            <extrude>0</extrude>
-            <tesselate>1</tesselate>
-            <altitudeMode>relativeToGround</altitudeMode>
-            <coordinates>-162.8125,0,10000000 -139.9,-8.9,0 </coordinates>
-         </LineString>
-      </Placemark>
-      <Placemark id="kml_plottp79bdbd0f_82ce_4041_a4ee_eed445f92a7d">
-         <name>Link Status</name>
-         <visibility>1</visibility>
-         <description>Link 8
-
-Average Availability: 99.8%
-Bandwidth: 2.34 Gbps</description>
+Bandwidth: 1.36 Gbps</description>
          <Style>
             <LineStyle>
                <color>FF00FFFF</color>
@@ -1045,17 +3791,17 @@ Bandwidth: 2.34 Gbps</description>
                <color>00FFFFFF</color>
             </PolyStyle>
          </Style>
-         <LineString id="LineString_kml_plottp79bdbd0f_82ce_4041_a4ee_eed445f92a7d">
+         <LineString id="LineString_kml_plottpdd2be4a7_55c1_43d4_90af_3139957cbd04">
             <extrude>0</extrude>
             <tesselate>1</tesselate>
             <altitudeMode>relativeToGround</altitudeMode>
-            <coordinates>-162.8125,0,10000000 -111.9,40.75,0 </coordinates>
+            <coordinates>107.1875,0,10000000 106.8,-6.4,0 </coordinates>
          </LineString>
       </Placemark>
-      <Placemark id="kml_plottp0d384740_cb23_48af_84f5_fb0a571beab3">
+      <Placemark id="kml_plottp367d6ffb_4b3c_4bbe_ac52_c9972816b736">
          <name>Link Status</name>
          <visibility>1</visibility>
-         <description>Link 8
+         <description>Link 6
 
 Average Availability: 99.6%
 Bandwidth: 1.52 Gbps</description>
@@ -1068,20 +3814,20 @@ Bandwidth: 1.52 Gbps</description>
                <color>00FFFFFF</color>
             </PolyStyle>
          </Style>
-         <LineString id="LineString_kml_plottp0d384740_cb23_48af_84f5_fb0a571beab3">
+         <LineString id="LineString_kml_plottp367d6ffb_4b3c_4bbe_ac52_c9972816b736">
             <extrude>0</extrude>
             <tesselate>1</tesselate>
             <altitudeMode>relativeToGround</altitudeMode>
-            <coordinates>-162.8125,0,10000000 -73.90000000000001,40.8,0 </coordinates>
+            <coordinates>107.1875,0,10000000 </coordinates>
          </LineString>
       </Placemark>
-      <Placemark id="kml_plottp2a69ef7c_88ee_44f2_aa3c_b9b900e0f3ff">
+      <Placemark id="kml_plottp11ff286f_f04a_494c_9fd5_576960afcf72">
          <name>Link Status</name>
          <visibility>1</visibility>
-         <description>Link 8
+         <description>Link 6
 
-Average Availability: 99.5%
-Bandwidth: 1.55 Gbps</description>
+Average Availability: 99.7%
+Bandwidth: 1.17 Gbps</description>
          <Style>
             <LineStyle>
                <color>FF0000FF</color>
@@ -1091,14 +3837,334 @@ Bandwidth: 1.55 Gbps</description>
                <color>00FFFFFF</color>
             </PolyStyle>
          </Style>
-         <LineString id="LineString_kml_plottp2a69ef7c_88ee_44f2_aa3c_b9b900e0f3ff">
+         <LineString id="LineString_kml_plottp11ff286f_f04a_494c_9fd5_576960afcf72">
+            <extrude>0</extrude>
+            <tesselate>1</tesselate>
+            <altitudeMode>relativeToGround</altitudeMode>
+            <coordinates>107.1875,0,10000000 100.5,13.7,0 </coordinates>
+         </LineString>
+      </Placemark>
+      <Folder>
+         <Placemark id="kml_scatter3tp043a78d2_c774_4244_acce_066359b6bee6_1">
+            <name/>
+            <visibility>1</visibility>
+            <description>Satellite 7</description>
+            <Style>
+               <IconStyle>
+                  <color>FFFFFFFF</color>
+                  <scale>1</scale>
+                  <Icon>
+                     <href>http://maps.google.com/mapfiles/kml/pal2/icon18.png</href>
+                  </Icon>
+               </IconStyle>
+            </Style>
+            <Point id="Point_kml_scatter3tp043a78d2_c774_4244_acce_066359b6bee6">
+               <altitudeMode>absolute</altitudeMode>
+               <coordinates>152.1875,0,10000000 </coordinates>
+            </Point>
+         </Placemark>
+         <name>kml_scatter3</name>
+         <id>kml_scatter3tp043a78d2_c774_4244_acce_066359b6bee6</id>
+      </Folder>
+      <Placemark id="kml_plottp9a2e1dfb_0cd6_49f3_aca5_1d3e1a8c8a3e">
+         <name>Link Status</name>
+         <visibility>1</visibility>
+         <description>Link 7
+
+Average Availability: 99.1%
+Bandwidth: 1.29 Gbps</description>
+         <Style>
+            <LineStyle>
+               <color>FF00FF00</color>
+               <width>3</width>
+            </LineStyle>
+            <PolyStyle>
+               <color>00FFFFFF</color>
+            </PolyStyle>
+         </Style>
+         <LineString id="LineString_kml_plottp9a2e1dfb_0cd6_49f3_aca5_1d3e1a8c8a3e">
+            <extrude>0</extrude>
+            <tesselate>1</tesselate>
+            <altitudeMode>relativeToGround</altitudeMode>
+            <coordinates>152.1875,0,10000000 147.1,-9.4,0 </coordinates>
+         </LineString>
+      </Placemark>
+      <Placemark id="kml_plottp7eab86bb_2ed7_437c_ac6b_8a9b1f408caa">
+         <name>Link Status</name>
+         <visibility>1</visibility>
+         <description>Link 7
+
+Average Availability: 99.3%
+Bandwidth: 1.61 Gbps</description>
+         <Style>
+            <LineStyle>
+               <color>FF00FF00</color>
+               <width>3</width>
+            </LineStyle>
+            <PolyStyle>
+               <color>00FFFFFF</color>
+            </PolyStyle>
+         </Style>
+         <LineString id="LineString_kml_plottp7eab86bb_2ed7_437c_ac6b_8a9b1f408caa">
+            <extrude>0</extrude>
+            <tesselate>1</tesselate>
+            <altitudeMode>relativeToGround</altitudeMode>
+            <coordinates>152.1875,0,10000000 130.8,-12.5,0 </coordinates>
+         </LineString>
+      </Placemark>
+      <Placemark id="kml_plottpf9610988_094b_4a86_84d3_145ab898f78e">
+         <name>Link Status</name>
+         <visibility>1</visibility>
+         <description>Link 7
+
+Average Availability: 99.2%
+Bandwidth: 2.01 Gbps</description>
+         <Style>
+            <LineStyle>
+               <color>FF00FFFF</color>
+               <width>3</width>
+            </LineStyle>
+            <PolyStyle>
+               <color>00FFFFFF</color>
+            </PolyStyle>
+         </Style>
+         <LineString id="LineString_kml_plottpf9610988_094b_4a86_84d3_145ab898f78e">
+            <extrude>0</extrude>
+            <tesselate>1</tesselate>
+            <altitudeMode>relativeToGround</altitudeMode>
+            <coordinates>152.1875,0,10000000 153.1,-27.5,0 </coordinates>
+         </LineString>
+      </Placemark>
+      <Placemark id="kml_plottp1157ac06_d85b_41c7_8bf6_b5fc9314f3fc">
+         <name>Link Status</name>
+         <visibility>1</visibility>
+         <description>Link 7
+
+Average Availability: 100%
+Bandwidth: 1.65 Gbps</description>
+         <Style>
+            <LineStyle>
+               <color>FF00FFFF</color>
+               <width>3</width>
+            </LineStyle>
+            <PolyStyle>
+               <color>00FFFFFF</color>
+            </PolyStyle>
+         </Style>
+         <LineString id="LineString_kml_plottp1157ac06_d85b_41c7_8bf6_b5fc9314f3fc">
+            <extrude>0</extrude>
+            <tesselate>1</tesselate>
+            <altitudeMode>relativeToGround</altitudeMode>
+            <coordinates>152.1875,0,10000000 151,-34,0 </coordinates>
+         </LineString>
+      </Placemark>
+      <Placemark id="kml_plottp6c30a50f_72fb_4dac_8a59_c051b6c1ecf0">
+         <name>Link Status</name>
+         <visibility>1</visibility>
+         <description>Link 7
+
+Average Availability: 99.8%
+Bandwidth: 2.2 Gbps</description>
+         <Style>
+            <LineStyle>
+               <color>FF0000FF</color>
+               <width>3</width>
+            </LineStyle>
+            <PolyStyle>
+               <color>00FFFFFF</color>
+            </PolyStyle>
+         </Style>
+         <LineString id="LineString_kml_plottp6c30a50f_72fb_4dac_8a59_c051b6c1ecf0">
+            <extrude>0</extrude>
+            <tesselate>1</tesselate>
+            <altitudeMode>relativeToGround</altitudeMode>
+            <coordinates>152.1875,0,10000000 </coordinates>
+         </LineString>
+      </Placemark>
+      <Folder>
+         <Placemark id="kml_scatter3tp4f092894_ac51_473b_a174_50ea4fb3240a_1">
+            <name/>
+            <visibility>1</visibility>
+            <description>Satellite 8</description>
+            <Style>
+               <IconStyle>
+                  <color>FFFFFFFF</color>
+                  <scale>1</scale>
+                  <Icon>
+                     <href>http://maps.google.com/mapfiles/kml/pal2/icon18.png</href>
+                  </Icon>
+               </IconStyle>
+            </Style>
+            <Point id="Point_kml_scatter3tp4f092894_ac51_473b_a174_50ea4fb3240a">
+               <altitudeMode>absolute</altitudeMode>
+               <coordinates>-162.8125,0,10000000 </coordinates>
+            </Point>
+         </Placemark>
+         <name>kml_scatter3</name>
+         <id>kml_scatter3tp4f092894_ac51_473b_a174_50ea4fb3240a</id>
+      </Folder>
+      <Placemark id="kml_plottp2f18d730_6261_4e36_b89b_81974ed28f24">
+         <name>Link Status</name>
+         <visibility>1</visibility>
+         <description>Link 8
+
+Average Availability: 100%
+Bandwidth: 1.31 Gbps</description>
+         <Style>
+            <LineStyle>
+               <color>FF00FF00</color>
+               <width>3</width>
+            </LineStyle>
+            <PolyStyle>
+               <color>00FFFFFF</color>
+            </PolyStyle>
+         </Style>
+         <LineString id="LineString_kml_plottp2f18d730_6261_4e36_b89b_81974ed28f24">
+            <extrude>0</extrude>
+            <tesselate>1</tesselate>
+            <altitudeMode>relativeToGround</altitudeMode>
+            <coordinates>-162.8125,0,10000000 -157.85,21.283,0 </coordinates>
+         </LineString>
+      </Placemark>
+      <Placemark id="kml_plottp2f41dfde_f134_4bfd_8069_2c9d6fb5b4cf">
+         <name>Link Status</name>
+         <visibility>1</visibility>
+         <description>Link 8
+
+Average Availability: 99.3%
+Bandwidth: 2.15 Gbps</description>
+         <Style>
+            <LineStyle>
+               <color>FF00FF00</color>
+               <width>3</width>
+            </LineStyle>
+            <PolyStyle>
+               <color>00FFFFFF</color>
+            </PolyStyle>
+         </Style>
+         <LineString id="LineString_kml_plottp2f41dfde_f134_4bfd_8069_2c9d6fb5b4cf">
+            <extrude>0</extrude>
+            <tesselate>1</tesselate>
+            <altitudeMode>relativeToGround</altitudeMode>
+            <coordinates>-162.8125,0,10000000 -139.9,-8.9,0 </coordinates>
+         </LineString>
+      </Placemark>
+      <Placemark id="kml_plottp67fb5075_2efe_4786_8355_e635586e6106">
+         <name>Link Status</name>
+         <visibility>1</visibility>
+         <description>Link 8
+
+Average Availability: 99.8%
+Bandwidth: 2.45 Gbps</description>
+         <Style>
+            <LineStyle>
+               <color>FF00FFFF</color>
+               <width>3</width>
+            </LineStyle>
+            <PolyStyle>
+               <color>00FFFFFF</color>
+            </PolyStyle>
+         </Style>
+         <LineString id="LineString_kml_plottp67fb5075_2efe_4786_8355_e635586e6106">
             <extrude>0</extrude>
             <tesselate>1</tesselate>
             <altitudeMode>relativeToGround</altitudeMode>
             <coordinates>-162.8125,0,10000000 </coordinates>
          </LineString>
       </Placemark>
-      <Placemark id="kml_plottpff8c38a1_f63d_4a55_82bb_f7f0164fc79a">
+      <Placemark id="kml_plottpffe74601_73a4_4c95_8277_a957305976b8">
+         <name>Link Status</name>
+         <visibility>1</visibility>
+         <description>Link 8
+
+Average Availability: 99.6%
+Bandwidth: 1.91 Gbps</description>
+         <Style>
+            <LineStyle>
+               <color>FF00FFFF</color>
+               <width>3</width>
+            </LineStyle>
+            <PolyStyle>
+               <color>00FFFFFF</color>
+            </PolyStyle>
+         </Style>
+         <LineString id="LineString_kml_plottpffe74601_73a4_4c95_8277_a957305976b8">
+            <extrude>0</extrude>
+            <tesselate>1</tesselate>
+            <altitudeMode>relativeToGround</altitudeMode>
+            <coordinates>-162.8125,0,10000000 </coordinates>
+         </LineString>
+      </Placemark>
+      <Placemark id="kml_plottp86b1c39e_385a_403b_a8d1_2bbf39f32a4f">
+         <name>Link Status</name>
+         <visibility>1</visibility>
+         <description>Link 8
+
+Average Availability: 99.4%
+Bandwidth: 1.51 Gbps</description>
+         <Style>
+            <LineStyle>
+               <color>FF0000FF</color>
+               <width>3</width>
+            </LineStyle>
+            <PolyStyle>
+               <color>00FFFFFF</color>
+            </PolyStyle>
+         </Style>
+         <LineString id="LineString_kml_plottp86b1c39e_385a_403b_a8d1_2bbf39f32a4f">
+            <extrude>0</extrude>
+            <tesselate>1</tesselate>
+            <altitudeMode>relativeToGround</altitudeMode>
+            <coordinates>-162.8125,0,10000000 </coordinates>
+         </LineString>
+      </Placemark>
+      <Placemark id="kml_plottpe73fb8e3_64cf_4824_927b_1c05a1af2384">
+         <name>Link Status</name>
+         <visibility>1</visibility>
+         <description>Link 8
+
+Average Availability: 99.6%
+Bandwidth: 1.79 Gbps</description>
+         <Style>
+            <LineStyle>
+               <color>FFFF0000</color>
+               <width>3</width>
+            </LineStyle>
+            <PolyStyle>
+               <color>00FFFFFF</color>
+            </PolyStyle>
+         </Style>
+         <LineString id="LineString_kml_plottpe73fb8e3_64cf_4824_927b_1c05a1af2384">
+            <extrude>0</extrude>
+            <tesselate>1</tesselate>
+            <altitudeMode>relativeToGround</altitudeMode>
+            <coordinates>-72.8125,0,10000000 -27.8125,0,10000000 17.1875,0,10000000 62.1875,0,10000000 107.1875,0,10000000 152.1875,0,10000000 -162.8125,0,10000000 -117.8125,0,10000000 -72.8125,0,10000000 -27.8125,0,10000000 17.1875,0,10000000 62.1875,0,10000000 107.1875,0,10000000 152.1875,0,10000000 </coordinates>
+         </LineString>
+      </Placemark>
+      <Placemark id="kml_plottpfc9920cd_105b_4a6e_8c6c_8c0cf436ef32">
+         <name>Link Status</name>
+         <visibility>1</visibility>
+         <description>Link 8
+
+Average Availability: 99.5%
+Bandwidth: 1.99 Gbps</description>
+         <Style>
+            <LineStyle>
+               <color>FFFF0000</color>
+               <width>3</width>
+            </LineStyle>
+            <PolyStyle>
+               <color>00FFFFFF</color>
+            </PolyStyle>
+         </Style>
+         <LineString id="LineString_kml_plottpfc9920cd_105b_4a6e_8c6c_8c0cf436ef32">
+            <extrude>0</extrude>
+            <tesselate>1</tesselate>
+            <altitudeMode>relativeToGround</altitudeMode>
+            <coordinates>-27.8125,0,10000000 62.1875,0,10000000 152.1875,0,10000000 -117.8125,0,10000000 -27.8125,0,10000000 62.1875,0,10000000 </coordinates>
+         </LineString>
+      </Placemark>
+      <Placemark id="kml_plottp69ef6043_e6dd_4c48_8ecb_69264dd95ff1">
          <name>Link Status</name>
          <visibility>1</visibility>
          <description>Link 8
@@ -1114,60 +4180,14 @@ Bandwidth: 1.28 Gbps</description>
                <color>00FFFFFF</color>
             </PolyStyle>
          </Style>
-         <LineString id="LineString_kml_plottpff8c38a1_f63d_4a55_82bb_f7f0164fc79a">
-            <extrude>0</extrude>
-            <tesselate>1</tesselate>
-            <altitudeMode>relativeToGround</altitudeMode>
-            <coordinates>-72.8125,0,10000000 -27.8125,0,10000000 17.1875,0,10000000 62.1875,0,10000000 107.1875,0,10000000 152.1875,0,10000000 -162.8125,0,10000000 -117.8125,0,10000000 -72.8125,0,10000000 -27.8125,0,10000000 17.1875,0,10000000 62.1875,0,10000000 107.1875,0,10000000 152.1875,0,10000000 </coordinates>
-         </LineString>
-      </Placemark>
-      <Placemark id="kml_plottpa21e3517_ee2b_4cdc_ae85_9acb573ae6d0">
-         <name>Link Status</name>
-         <visibility>1</visibility>
-         <description>Link 8
-
-Average Availability: 99.4%
-Bandwidth: 1.74 Gbps</description>
-         <Style>
-            <LineStyle>
-               <color>FFFF0000</color>
-               <width>3</width>
-            </LineStyle>
-            <PolyStyle>
-               <color>00FFFFFF</color>
-            </PolyStyle>
-         </Style>
-         <LineString id="LineString_kml_plottpa21e3517_ee2b_4cdc_ae85_9acb573ae6d0">
-            <extrude>0</extrude>
-            <tesselate>1</tesselate>
-            <altitudeMode>relativeToGround</altitudeMode>
-            <coordinates>-27.8125,0,10000000 62.1875,0,10000000 152.1875,0,10000000 -117.8125,0,10000000 -27.8125,0,10000000 62.1875,0,10000000 </coordinates>
-         </LineString>
-      </Placemark>
-      <Placemark id="kml_plottpf480600a_1dce_4b6f_b653_0a1ce321d43e">
-         <name>Link Status</name>
-         <visibility>1</visibility>
-         <description>Link 8
-
-Average Availability: 100%
-Bandwidth: 2.43 Gbps</description>
-         <Style>
-            <LineStyle>
-               <color>FFFF0000</color>
-               <width>3</width>
-            </LineStyle>
-            <PolyStyle>
-               <color>00FFFFFF</color>
-            </PolyStyle>
-         </Style>
-         <LineString id="LineString_kml_plottpf480600a_1dce_4b6f_b653_0a1ce321d43e">
+         <LineString id="LineString_kml_plottp69ef6043_e6dd_4c48_8ecb_69264dd95ff1">
             <extrude>0</extrude>
             <tesselate>1</tesselate>
             <altitudeMode>relativeToGround</altitudeMode>
             <coordinates>17.1875,0,10000000 107.1875,0,10000000 -162.8125,0,10000000 -72.8125,0,10000000 17.1875,0,10000000 107.1875,0,10000000 </coordinates>
          </LineString>
       </Placemark>
-      <LookAt id="kml_pointtp1ac4af27_f143_42e9_b774_b42dfb74dad3_1">
+      <LookAt id="kml_pointtpd5779f64_d57f_43f1_a705_14cc0a94b244_1">
          <longitude>168</longitude>
          <latitude>17.809</latitude>
          <altitude>0</altitude>
